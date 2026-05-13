@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>财经雷达｜24 小时全球财经快讯</title>
+    <meta
+      name="description"
+      content="自动聚合过去 24 小时 A 股、港股、美股财经快讯；财经信号引擎帮你从海量信息中筛选市场敏感信号。"
+    />
+    <link rel="canonical" href="https://learnprompt.github.io/ai-news-radar/" />
+    <meta property="og:title" content="财经雷达｜24 小时全球财经快讯" />
+    <meta
+      property="og:description"
+      content="自动聚合过去 24 小时 A 股、港股、美股财经快讯；财经信号引擎帮你从海量信息中筛选市场敏感信号。"
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://learnprompt.github.io/ai-news-radar/" />
+    <meta property="og:site_name" content="财经雷达" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="财经雷达｜24 小时全球财经快讯" />
+    <meta
+      name="twitter:description"
+      content="自动聚合过去 24 小时 A 股、港股、美股财经快讯；财经信号引擎帮你从海量信息中筛选市场敏感信号。"
+    />
+    <link rel="icon" href="./assets/logo.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="./assets/styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <header class="hero">
+        <div class="hero-main">
+          <div class="hero-headline">
+            <img class="hero-logo" src="./assets/logo.svg" alt="财经雷达 Logo" />
+            <div>
+              <p class="hero-tag">FINANCE RADAR</p>
+              <h1>24 小时全球财经快讯</h1>
+            </div>
+          </div>
+          <p class="hero-sub">
+            过去 24 小时 A 股、港股、美股财经快讯，28 个内置信源自动聚合。
+          </p>
+        </div>
+        <div class="hero-meta">
+          <span class="updated-label">更新时间</span>
+          <span class="updated" id="updatedAt">加载中...</span>
+        </div>
+
+        <section class="stats" id="stats"></section>
+
+        <section class="coverage-strip" id="coverageStrip" aria-label="Source coverage status"></section>
+      </header>
+
+      <section class="primary-controls">
+        <input id="searchInput" type="search" placeholder="搜索财经信号 / 信源" />
+        <div class="mode-hint" id="modeHint">财经信号</div>
+      </section>
+
+      <details class="advanced-panel">
+        <summary>
+          <span>高级筛选与源状态</span>
+          <span class="advanced-summary" id="advancedSummary">加载中...</span>
+        </summary>
+        <div class="advanced-content">
+          <div class="advanced-controls">
+            <label class="field">
+              <span>站点</span>
+              <select id="siteSelect">
+                <option value="">全部站点</option>
+              </select>
+            </label>
+            <div class="field">
+              <span>视图</span>
+              <div class="mode-switch">
+                <button id="modeSignalBtn" class="mode-btn active" type="button">财经信号</button>
+                <button id="modeAllBtn" class="mode-btn" type="button">全量</button>
+              </div>
+            </div>
+            <label id="allDedupeWrap" class="all-dedupe" for="allDedupeToggle">
+              <input id="allDedupeToggle" type="checkbox" checked />
+              <span class="all-dedupe-dot"></span>
+              <span id="allDedupeLabel">去重开</span>
+            </label>
+          </div>
+          <div class="source-health" id="sourceHealth">源状态加载中...</div>
+          <section class="site-pills" id="sitePills"></section>
+        </div>
+      </details>
+
+      <section class="list-wrap">
+        <div class="list-head">
+          <h2 id="listTitle">财经信号流</h2>
+          <span id="resultCount">0 条</span>
+        </div>
+        <div id="newsList" class="news-list"></div>
+      </section>
+    </main>
+
+    <template id="itemTpl">
+      <article class="news-card">
+        <div class="meta-row">
+          <span class="site"></span>
+          <span class="category"></span>
+          <span class="source"></span>
+          <time class="time"></time>
+        </div>
+        <a class="title" target="_blank" rel="noopener noreferrer"></a>
+      </article>
+    </template>
+
+    <script src="./assets/app.js" defer></script>
+  </body>
+</html>

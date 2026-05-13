@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>财经雷达 RSS 订阅示例</title>
+  </head>
+  <body>
+    <outline text="财经快讯与综合">
+      <outline
+        text="财联社电报"
+        title="财联社电报"
+        type="rss"
+        xmlUrl="https://rsshub.rssforever.com/cls/telegraph"
+        htmlUrl="https://www.cls.cn/telegraph"
+      />
+      <outline
+        text="财联社深度"
+        title="财联社深度"
+        type="rss"
+        xmlUrl="https://rsshub.rssforever.com/cls/depth"
+        htmlUrl="https://www.cls.cn/depth"
+      />
+      <outline
+        text="财新网"
+        title="财新网"
+        type="rss"
+        xmlUrl="https://rsshub.rssforever.com/caixin/latest"
+        htmlUrl="https://www.caixin.com/"
+      />
+      <outline
+        text="FT中文网"
+        title="FT中文网"
+        type="rss"
+        xmlUrl="https://rsshub.rssforever.com/ft/chinese"
+        htmlUrl="https://www.ftchinese.com/"
+      />
+      <outline
+        text="华尔街见闻·全球"
+        title="华尔街见闻·全球"
+        type="rss"
+        xmlUrl="https://rsshub.rssforever.com/wallstreetcn/global"
+        htmlUrl="https://wallstreetcn.com/"
+      />
+    </outline>
+    <outline text="东方财富·主题">
+      <outline
+        text="东方财富·宏观"
+        title="东方财富·宏观"
+        type="rss"
+        xmlUrl="https://rsshub.rssforever.com/eastmoney/topic/宏观"
+        htmlUrl="https://www.eastmoney.com/"
+      />
+      <outline
+        text="东方财富·产业"
+        title="东方财富·产业"
+        type="rss"
+        xmlUrl="https://rsshub.rssforever.com/eastmoney/topic/产业"
+        htmlUrl="https://www.eastmoney.com/"
+      />
+      <outline
+        text="东方财富·研报"
+        title="东方财富·研报"
+        type="rss"
+        xmlUrl="https://rsshub.rssforever.com/eastmoney/topic/研报"
+        htmlUrl="https://www.eastmoney.com/"
+      />
+      <outline
+        text="东方财富·政策"
+        title="东方财富·政策"
+        type="rss"
+        xmlUrl="https://rsshub.rssforever.com/eastmoney/topic/政策"
+        htmlUrl="https://www.eastmoney.com/"
+      />
+      <outline
+        text="东方财富·监管"
+        title="东方财富·监管"
+        type="rss"
+        xmlUrl="https://rsshub.rssforever.com/eastmoney/topic/监管"
+        htmlUrl="https://www.eastmoney.com/"
+      />
+    </outline>
+    <outline text="国际财经">
+      <outline
+        text="Bloomberg Markets"
+        title="Bloomberg Markets"
+        type="rss"
+        xmlUrl="https://rsshub.rssforever.com/bloomberg/markets"
+        htmlUrl="https://www.bloomberg.com/markets"
+      />
+      <outline
+        text="Bloomberg Technology"
+        title="Bloomberg Technology"
+        type="rss"
+        xmlUrl="https://rsshub.rssforever.com/bloomberg/technology"
+        htmlUrl="https://www.bloomberg.com/technology"
+      />
+      <outline
+        text="Reuters Business"
+        title="Reuters Business"
+        type="rss"
+        xmlUrl="https://rsshub.rssforever.com/reuters/business"
+        htmlUrl="https://www.reuters.com/business/"
+      />
+      <outline
+        text="CNBC Top News"
+        title="CNBC Top News"
+        type="rss"
+        xmlUrl="https://rsshub.rssforever.com/cnbc/top-news"
+        htmlUrl="https://www.cnbc.com/"
+      />
+    </outline>
+  </body>
+</opml>
