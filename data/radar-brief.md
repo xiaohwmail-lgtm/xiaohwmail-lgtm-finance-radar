@@ -1,53 +1,53 @@
 # 财经雷达 OPML 简报
-> 生成: 2026-05-13 12:27:02 | 3 源 | 展示 134 条
+> 生成: 2026-05-13 15:22:34 | 3 源 | 展示 150 条
 
 ## 财联社深度
-- [老黄“压哨登机”，“站在光里”的ETF走强](https://www.cls.cn/detail/2370466) _2026-05-13 12:24_
+- [腾讯Q1营收1965亿、资本开支320亿，马化腾直言：希望船速再快一点！](https://www.cls.cn/detail/2370603) _2026-05-13 15:21_
+- [已实现降本362元/头 牧原股份管理层详解未来经营计划|直击股东会](https://www.cls.cn/detail/2370602) _2026-05-13 15:05_
+- [沙特原油产量被曝跌至36年低点 创海湾战争以来最惨纪录](https://www.cls.cn/detail/2370597) _2026-05-13 15:01_
+- [AI成腾讯阿里财报重点 阿里云外部商业化收入AI占三成 Hy3 preview调用量超上一代10倍](https://www.cls.cn/detail/2370599) _2026-05-13 14:54_
+- [股价三日累涨30% 中船特气回应六氟化钨订单不确定性 已有上游环节停产去库存避险](https://www.cls.cn/detail/2370592) _2026-05-13 14:52_
+- [美国4月PPI同比飙升6% 创2022年以来最大增幅](https://www.cls.cn/detail/2370553) _2026-05-13 13:44_
+- [市值冲300亿港元 “制药界Space X”剂泰科技登陆港股 红杉资本参与5轮融资](https://www.cls.cn/detail/2370528) _2026-05-13 13:33_
+- [港股风向标｜恒指反复震荡情绪面趋稳 短线空头活跃度减弱](https://www.cls.cn/detail/2370510) _2026-05-13 13:32_
+- [直击中微公司业绩会：新一代低温刻蚀设备已交付验证 新品研发复用技术占比超60%](https://www.cls.cn/detail/2370529) _2026-05-13 13:30_
+- [科创板晚报|中船特气：目前尚未签署新的长期或大额实质性订单协议](https://www.cls.cn/detail/2370516) _2026-05-13 13:13_
+- [美股首只纯存储ETF，刷新华尔街史上最快规模增长纪录](https://www.cls.cn/detail/2370478) _2026-05-13 12:38_
+- [4月地产债净融资缺口收窄至22.3亿元，国企民企利差分化加剧](https://www.cls.cn/detail/2370463) _2026-05-13 12:23_
 - [海外研选 | 大摩：AI基建迈向“万亿美元时代” 信贷市场正重塑融资架构](https://www.cls.cn/detail/2370418) _2026-05-13 12:20_
+- [【明日主题前瞻】鸿海全光CPO交换机柜已提前向英伟达出货](https://www.cls.cn/detail/2370133) _2026-05-13 11:49_
 - [博腾股份欧洲基地陷合规争议 与诺华各执一词、针锋相对|速读公告](https://www.cls.cn/detail/2370422) _2026-05-13 11:46_
-- [下一家Palantir？美防务科技初创Anduril最新估值超600亿美元](https://www.cls.cn/detail/2370371) _2026-05-13 11:09_
-- [市值首超6000亿港元！澜起科技登顶港股半导体“新王”](https://www.cls.cn/detail/2370342) _2026-05-13 10:46_
-- [上交所重启“湘财+大智慧”审核，大智慧掌门人也有最新回应](https://www.cls.cn/detail/2370323) _2026-05-13 10:31_
-- [IEA月报警告：全球原油库存正快速下跌 今年油市将供不应求](https://www.cls.cn/detail/2370311) _2026-05-13 10:27_
-- [【VIP机会日报】细分领域多点开花 栏目追踪行业动态 提及核心公司涨停](https://www.cls.cn/detail/2370287) _2026-05-13 10:00_
-- [印度突然翻倍提高贵金属进口关税 背后的动机是什么？](https://www.cls.cn/detail/2370255) _2026-05-13 09:47_
-- [瑙鲁拟改国名为“瑙埃罗”](https://www.cls.cn/detail/2370237) _2026-05-13 09:40_
-- [债市收盘| 隔夜利率反弹无碍资金面宽松 10年国债收益率下破1.75%](https://www.cls.cn/detail/2370203) _2026-05-13 09:39_
-- [历经10轮融资 拿森科技冲刺港股线控底盘第一股](https://www.cls.cn/detail/2370231) _2026-05-13 09:28_
-- [港股逆势震荡 “蔚小理”迎来新车密集迭代、技术集中落地窗口期](https://www.cls.cn/detail/2370205) _2026-05-13 09:18_
-- [韩国总统李在明会见何立峰](https://www.cls.cn/detail/2370156) _2026-05-13 08:46_
-- [港股收盘 | 科技指数小幅领涨 人工智能概念热度持续攀升](https://www.cls.cn/detail/2370146) _2026-05-13 08:38_
 
 ## 财联社电报
+- [摩根士丹利上调标普500指数目标位至8300点 押注企业盈利强劲增长](https://api3.cls.cn/share/article/2370608?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-13 15:09_
+- [我国科学家提出人工细胞不对称分裂新思路](https://api3.cls.cn/share/article/2370605?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-13 15:05_
+- [我国科研团队成功研发气固电池 破解储氢难题](https://api3.cls.cn/share/article/2370601?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-13 15:00_
+- [财联社5月13日电，EIA数据显示，最新一周美国从委内瑞拉的进口量升至至少自2024年9月以来的最高水平。](https://api3.cls.cn/share/article/2370596?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-13 14:45_
+- [【电报解读】阿里最新业绩出炉！AI收入占比40%且保持三位数增速，云计算行业的定价逻辑开始全面转向溢价变现下，机构建议关注“Token工厂”三大核心主线，这家公...](https://api3.cls.cn/share/article/2370594?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-13 14:42_
+- [财联社5月13日电，现货白银向上触及88美元/盎司，日内上涨1.72%。](https://api3.cls.cn/share/article/2370587?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-13 14:34_
+- [EIA：美国上周原油库存减少430.6万桶](https://api3.cls.cn/share/article/2370585?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-13 14:31_
+- [【金牌纪要库】AI高功率机柜推动液冷从服务器向交换机和光模块全面扩散](https://api3.cls.cn/share/article/2370229?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-13 14:30_
+- [俄总统新闻秘书：希望美国停止将发展对俄合作与乌克兰问题挂钩](https://api3.cls.cn/share/article/2370581?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-13 14:23_
 - [【风口研报·公司】铟金属为光器件磷化铟战略原料，这家公司今年铟锭产量有望增长750%，同时参股PCB钻针企业受益AI PCB微钻需求；高质量训练数据是AI规模化应用...](https://api3.cls.cn/share/article/2370119?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-13 12:20_
 - [美国总统特朗普抵京 韩正前往机场迎接](https://api3.cls.cn/share/article/2370461?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-13 12:17_
+- [财联社5月13日电，为保护基金份额持有人利益，博时标普500ETF(513500)2026年5月14日起暂停申购业务。](https://api3.cls.cn/share/article/2370460?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-13 12:16_
+- [中国巨石：拟投资44.31亿元建设年产5万吨电子纱暨3.2亿米电子布生产线项目](https://api3.cls.cn/share/article/2370459?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-13 12:15_
 - [财联社5月13日电，算力租赁商Nebius在电话会议中将2026年资本支出指引上调至200亿-250亿美元之间。](https://api3.cls.cn/share/article/2370457?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-13 12:13_
-- [恩捷股份：拟投资40亿元在自贡投建50亿平方米锂电池隔离膜项目](https://api3.cls.cn/share/article/2370452?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-13 12:09_
-- [斯迪克：控股股东拟向泗洪县慈善总会无偿捐赠100万股公司股份](https://api3.cls.cn/share/article/2370444?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-13 12:04_
-- [财联社5月13日电，欧佩克月报显示，欧佩克将2026年全球经济增长预测维持在3.1%；将2027年全球经济增长预测维持在3.2%。](https://api3.cls.cn/share/article/2370443?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-13 12:03_
-- [财联社5月13日电，欧佩克月报显示，将2026年美国经济增长预测维持在2.2%；将2027年美国经济增长预测维持在2%。](https://api3.cls.cn/share/article/2370441?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-13 12:02_
-- [欧盟一季度从俄进口液化天然气量创2022年来新高](https://api3.cls.cn/share/article/2370439?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-13 12:00_
-- [鼎捷数智：拟出售全部已回购股份不超过157万股](https://api3.cls.cn/share/article/2370438?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-13 11:58_
-- [我国科研人员探索脑机接口神经探针技术 治疗慢性疼痛](https://api3.cls.cn/share/article/2370437?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-13 11:56_
-- [财联社5月13日电，据报道，英国卫生大臣韦斯·斯特里廷准备辞职。](https://api3.cls.cn/share/article/2370314?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-13 10:14_
-- [2026国际低空经济博览会将于7月在上海举行](https://api3.cls.cn/share/article/2370313?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-13 10:14_
-- [展鹏科技：股东、董事及高级管理人员拟合计减持不超过4.97%股份](https://api3.cls.cn/share/article/2370312?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-13 10:14_
-- [马化腾回应腾讯AI是否落后：现在感觉站上船但还坐不下去 希望船速能快一点](https://api3.cls.cn/share/article/2370299?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-13 10:04_
-- [湖南出台政策支持存量商品房收购、住房“以旧换新”](https://api3.cls.cn/share/article/2370277?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-13 09:51_
+- [财联社5月13日电，阿里巴巴首席财务官表示，“在过去一年中，我们在进行（人工智能）投资方面一直非常坚定，而我们也打算在接下来的两年里继续保持这种坚定态度...](https://api3.cls.cn/share/article/2370455?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-13 12:10_
 
 ## 财新网
-- [腾讯一季度净利增两成 业绩基本面稳定但股价疲软](https://www.caixin.com/2026-05-13/102443708.html) _2026-05-13 11:34_
+- [美国4月PPI同比上涨6% 远超市场预期](https://international.caixin.com/2026-05-13/102443743.html) _2026-05-13 13:48_
+- [特朗普乘专机抵达北京 开启3天国事访问](https://photos.caixin.com/2026-05-13/102443736.html) _2026-05-13 13:26_
+- [特朗普专机抵达北京 韩正前往接机](https://international.caixin.com/2026-05-13/102443730.html) _2026-05-13 13:00_
+- [麦肯锡：中国车企价格战效果远逊于技术战](https://www.caixin.com/2026-05-13/102443718.html) _2026-05-13 12:12_
+- [李彦宏：AI时代度量衡应为“日活智能体数”而非Token消耗](https://www.caixin.com/2026-05-13/102443713.html) _2026-05-13 11:59_
 - [【市场动态】中国供应商涨价 美国人今年过圣诞节可能会更费钱](https://database.caixin.com/2026-05-13/102443678.html) _2026-05-13 09:43_
 - [【市场动态】比亚迪高管称正与Stellantis等洽谈接手欧洲工厂](https://database.caixin.com/2026-05-13/102443676.html) _2026-05-13 09:41_
-- [【市场动态】腾讯营收未达预期 AI变现压力加剧](https://database.caixin.com/2026-05-13/102443672.html) _2026-05-13 09:37_
-- [漫闻｜骗子的“VIP通道”](https://mini.caixin.com/2026-05-13/102443649.html) _2026-05-13 09:21_
-- [【华尔街原声】美银：美国中低收入消费者财务状况遭到挤压](https://database.caixin.com/2026-05-13/102443648.html) _2026-05-13 09:20_
-- [【霍尔木兹日报】美伊谈判仍未有实质性进展 今日两艘中国船舶驶出海峡](https://database.caixin.com/2026-05-13/102443629.html) _2026-05-13 08:51_
+- [俄罗斯旅游地标旁一建筑大火 过火3000平方米](https://photos.caixin.com/2026-05-13/102443663.html) _2026-05-13 09:21_
+- [消费让位，投资主导：AI时代美国经济的结构转变](https://opinion.caixin.com/2026-05-13/102443609.html) _2026-05-13 07:50_
+- [全球聚焦中美元首会晤](https://deepview.caixin.com/topic/BQ02.000008013.html?cxapp_link=true) _2026-05-13 06:38_
 - [以AI对抗AI：我们需要怎样的知识](https://opinion.caixin.com/2026-05-13/102443595.html) _2026-05-13 06:30_
-- [【今日热点】电网设备大幅走高 科技板块仍是盘中热点](https://database.caixin.com/2026-05-13/102443570.html) _2026-05-13 05:01_
 - [【今日热点】电网设备大幅走高 AI硬件方向强势反弹](https://database.caixin.com/2026-05-13/102443570.html) _2026-05-13 05:01_
+- [国内航线燃油附加费再上调 5月16日起再涨30—50元](https://www.caixin.com/2026-05-13/102443565.html) _2026-05-13 04:35_
 - [特朗普启程访华 系时隔9年美国总统首访](https://photos.caixin.com/2026-05-13/102443551.html) _2026-05-13 04:27_
 - [在“零工圣地”马驹桥，看到打工者的真实日常｜带着问题去读书](https://mini.caixin.com/2026-05-13/102443546.html) _2026-05-13 03:45_
-- [陈龙：美国数据中心们玩的基建狂潮是什么游戏](https://opinion.caixin.com/2026-05-13/102443530.html) _2026-05-13 03:32_
-- [【市场动态】英伟达CEO黄仁勋薪酬下滑27% 源于股票奖励缩水](https://database.caixin.com/2026-05-13/102443519.html) _2026-05-13 03:23_
-- [香港首例CRS刑事定罪，你的海外账户还安全吗](https://opinion.caixin.com/2026-05-13/102443512.html) _2026-05-13 02:42_
