@@ -71,6 +71,9 @@ RSS_FEED_SKIP_EXACT: set[str] = {
     "https://flak.tedunangst.com/rss",
 }
 
+EMAIL_RE = re.compile(r'[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}')
+SECRET_LIKE_RE = re.compile(r'(?:secret|token|key|password|api[_-]?key)[=:]\s*\S+', re.IGNORECASE)
+
 # ── 内置财经 RSS 信源（28 个，来自 rsshub.rssforever.com）──
 FINANCE_RSS_FEEDS: list[dict[str, str]] = [
     # 快讯 / 综合
