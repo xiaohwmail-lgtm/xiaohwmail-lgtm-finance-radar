@@ -1,53 +1,53 @@
 # 财经雷达 OPML 简报
-> 生成: 2026-05-15 14:44:04 | 3 源 | 展示 150 条
-
-## 财联社深度
-- [霍尔木兹受阻倒逼转向 阿联酋拟在2027年前将绕道出口能力翻倍](https://www.cls.cn/detail/2372957) _2026-05-15 14:41_
-- [周五深夜，英国遭遇股汇债“三杀”](https://www.cls.cn/detail/2372953) _2026-05-15 14:31_
-- [销售费用持续高增？吉比特回应：买量回收有周期，相比ROI更关注利润总额|直击业绩会](https://www.cls.cn/detail/2372951) _2026-05-15 14:25_
-- [王毅：习近平主席将于今秋对美国进行国事访问](https://www.cls.cn/detail/2372948) _2026-05-15 14:06_
-- [司法部认定欧盟相关跨境调查做法构成不当域外管辖措施](https://www.cls.cn/detail/2372894) _2026-05-15 13:30_
-- [上市三日即翻倍，转债新券热度不减，供给增加无碍“稀缺性”](https://www.cls.cn/detail/2372689) _2026-05-15 13:02_
-- [科创板晚报|中巨芯拟募资不超8亿元 佰维存储拟为海光芯正代工光电互联产品](https://www.cls.cn/detail/2372868) _2026-05-15 13:00_
-- [与全球最赚钱对冲基金“对着干” 知名投资人阿克曼宣布建仓微软](https://www.cls.cn/detail/2372864) _2026-05-15 12:55_
-- [港股公告精选｜华住集团首季收入同比增约一成 敏华控股上一财年营收近170亿元](https://www.cls.cn/detail/2372853) _2026-05-15 12:41_
-- [海外研选 | 美银：2030年AI数据中心市场将达1.7万亿美元 英伟达维持主导地位](https://www.cls.cn/detail/2372811) _2026-05-15 12:01_
-- [国常会最新部署！事关城市更新、人口发展](https://www.cls.cn/detail/2372813) _2026-05-15 11:58_
-- [港股风向标｜恒指放量失守26000点 外围风险扰动下科技热点熄火](https://www.cls.cn/detail/2372796) _2026-05-15 11:37_
-- [秦湘辞任华林证券CEO，董东接棒，上市7年六换CEO行业罕见](https://www.cls.cn/detail/2372746) _2026-05-15 10:41_
-- [牛肉涨价？紫燕食品押注尼泊尔基地 海南工厂已投产|直击股东会](https://www.cls.cn/detail/2372740) _2026-05-15 10:37_
-- [鸿蒙智行切入MPV赛道：智界完成全品类覆盖 尊界MPV发布倒计时](https://www.cls.cn/detail/2372644) _2026-05-15 10:09_
+> 生成: 2026-05-15 16:47:00 | 3 源 | 展示 150 条
 
 ## 财联社电报
-- [印度将与阿联酋合作扩大战略原油与天然气储备](https://api3.cls.cn/share/article/2372955?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-15 14:32_
+- [5月16日零时起 部分贵州茅台酒产品自营体系零售价格调整](https://api3.cls.cn/share/article/2372996?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-15 16:32_
+- [财联社5月16日电，消息人士称，英国石油公司计划解散管道天然气交易团队，以扩大液化天然气交易。](https://api3.cls.cn/share/article/2372992?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-15 16:10_
+- [财联社5月16日电， 俄罗斯一季度GDP同比下滑0.2%，预期下降0.3%；为三年来出现首次萎缩。](https://api3.cls.cn/share/article/2372991?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-15 16:04_
+- [OpenAI与Plaid构建合作伙伴关系 将利用ChatGPT提供个性化金融顾问服务](https://api3.cls.cn/share/article/2372990?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-15 16:02_
+- [财联社5月16日电，俄罗斯统计局数据显示，4月CPI环比上涨0.14%，前一个月为上涨0.6%；同比上涨5.58%，前一个月为同比上涨5.86%。](https://api3.cls.cn/share/article/2372989?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-15 16:01_
+- [财联社5月15日电，美国原油期货6月合约价格触及盘中高点，交易价格接近每桶105.50美元，日内上涨4.3%。](https://api3.cls.cn/share/article/2372986?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-15 15:53_
+- [财联社5月15日电，据沙特方面消息，沙特王储与卡塔尔埃米尔讨论地区局势。](https://api3.cls.cn/share/article/2372985?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-15 15:45_
+- [美银策略师：6月初将是美股获利了结的良机](https://api3.cls.cn/share/article/2372984?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-15 15:44_
+- [财联社5月15日电，美国10年期国债收益率日内上升了10个基点，达到4.58%。](https://api3.cls.cn/share/article/2372981?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-15 15:37_
+- [周五欧洲股市集体收跌 德股跌超2%](https://api3.cls.cn/share/article/2372978?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-15 15:34_
+- [财联社5月15日电，美国能源部长赖特表示，美国每月从委内瑞拉的石油出口中收取约20-30亿美元，并将这些收入转用于委内瑞拉政府的支出。](https://api3.cls.cn/share/article/2372977?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-15 15:26_
+- [世卫组织：已确认10例汉坦病毒感染病例](https://api3.cls.cn/share/article/2372972?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-15 15:12_
 - [财联社5月15日电，美国能源部长赖特表示，美国可以轻松将天然气出口翻倍，且不会影响国内价格。](https://api3.cls.cn/share/article/2372954?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-15 14:28_
-- [财联社5月15日电，洲际交易所（ICE）可可期货下跌近5%至每公吨3,983美元。](https://api3.cls.cn/share/article/2372950?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-15 14:16_
-- [中美元首互动相处近9小时](https://api3.cls.cn/share/article/2372949?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-15 14:13_
-- [王毅向媒体介绍中美元首会晤情况和共识](https://api3.cls.cn/share/article/2372947?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-15 14:05_
-- [财联社5月15日电，英国国债扩大跌势，30年期国债收益率上升20个基点。](https://api3.cls.cn/share/article/2372931?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-15 13:52_
-- [财联社5月15日电，埃及2026年第一季度（1月至3月）失业率为6%。](https://api3.cls.cn/share/article/2372928?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-15 13:51_
-- [财联社5月15日电，随着金银价格下挫，美股贵金属股集体走弱，泛美白银跌超7%，赫克拉矿业、科尔黛伦矿业跌超8%，金罗斯黄金跌超7%，纽曼矿业跌超6%。](https://api3.cls.cn/share/article/2372927?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-15 13:50_
-- [财联社5月15日晚间新闻精选](https://api3.cls.cn/share/article/2372922?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-15 13:50_
-- [财联社5月15日电，英国30年期国债收益率日内涨20个基点至5.86%，续刷1998年以来最高水平。](https://api3.cls.cn/share/article/2372926?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-15 13:49_
-- [特朗普称美伊停火系“应其他国家要求”](https://api3.cls.cn/share/article/2372919?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-15 13:45_
-- [招商轮船：子公司拟追加8.03亿元增持安通控股股份](https://api3.cls.cn/share/article/2372843?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-15 12:17_
-- [韩国4月份俄液化天然气进口额环比增长13.3%](https://api3.cls.cn/share/article/2372842?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-15 12:15_
-- [由工信部指导的2026生物制造大赛正式启动 设两大核心赛道](https://api3.cls.cn/share/article/2372832?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-15 12:15_
-- [零跑汽车：利用Stellantis集团巴西工厂产能计划正在落地](https://api3.cls.cn/share/article/2372828?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-15 12:15_
+- [王毅：习近平主席将于今秋对美国进行国事访问](https://api3.cls.cn/share/article/2372948?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-15 14:06_
+- [财联社5月15日电，据报道，BAE系统公司为美国太空部队导弹预警计划交付下一代飞行硬件。](https://api3.cls.cn/share/article/2372945?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-15 14:01_
+
+## 财联社深度
+- [OpenAI内部怒轰苹果合作：高调承诺背后实际推进乏力](https://www.cls.cn/detail/2372980) _2026-05-15 16:26_
+- [直击杭州人形机器人展：文旅物流率先跑通 工业自主化仍长路漫漫](https://www.cls.cn/detail/2372971) _2026-05-15 15:27_
+- [直击心脉医疗股东大会：提前热聊 现场逛展 高管被围问“出路”](https://www.cls.cn/detail/2372974) _2026-05-15 15:24_
+- [周五深夜，英国遭遇股汇债“三杀”](https://www.cls.cn/detail/2372953) _2026-05-15 14:31_
+- [王毅：习近平主席将于今秋对美国进行国事访问](https://www.cls.cn/detail/2372948) _2026-05-15 14:06_
+- [司法部认定欧盟相关跨境调查做法构成不当域外管辖措施](https://www.cls.cn/detail/2372894) _2026-05-15 13:30_
+- [油价与美债收益率齐升 美股期指集体走低 芯片股盘前普跌 | 今夜看点](https://www.cls.cn/detail/2372862) _2026-05-15 12:51_
+- [创新药业务暂未大规模放量 健康元正全力筹备流感新药国谈工作|直击业绩会](https://www.cls.cn/detail/2372835) _2026-05-15 12:14_
+- [港股风向标｜恒指放量失守26000点 外围风险扰动下科技热点熄火](https://www.cls.cn/detail/2372796) _2026-05-15 11:37_
+- [牛肉涨价？紫燕食品押注尼泊尔基地 海南工厂已投产|直击股东会](https://www.cls.cn/detail/2372740) _2026-05-15 10:37_
+- [鸿蒙智行切入MPV赛道：智界完成全品类覆盖 尊界MPV发布倒计时](https://www.cls.cn/detail/2372644) _2026-05-15 10:09_
+- [三星罢工风波祸及全球？欧美芯片股集体下跌](https://www.cls.cn/detail/2372640) _2026-05-15 10:05_
+- [【数据看盘】游资、量化抢筹多只机器人概念股 超5亿元资金买入氟化工人气股](https://www.cls.cn/detail/2372618) _2026-05-15 09:55_
+- [已注销企业现身助贷合作名单？南京银行回应：非新增合作，按要求披露](https://www.cls.cn/detail/2372616) _2026-05-15 09:40_
+- [【焦点复盘】沪指日线2连阴失守10日均线，光通信概念遭深幅调整，半导体设备股逆势活跃](https://www.cls.cn/detail/2372575) _2026-05-15 09:13_
 
 ## 财新网
+- [比亚迪计划扩大海外布局 谈判接收其他品牌闲置产能](https://www.caixin.com/2026-05-15/102444489.html) _2026-05-15 14:19_
+- [为亲属谋利、违规收受大额钱款股权 中行辽宁省分行原行长贾天兵被“双开”](https://finance.caixin.com/2026-05-15/102444485.html) _2026-05-15 14:17_
+- [衍生品交易监管升级 审慎开发结构过度复杂合约](https://finance.caixin.com/2026-05-15/102444473.html) _2026-05-15 13:51_
+- [【数据图解】泡泡玛特乐园表现超预期 乐园IP化对标迪士尼？](https://database.caixin.com/2026-05-15/102444460.html) _2026-05-15 12:56_
 - [央视打包获得两届世界杯版权 国际足联秘书长对财新表示双方满意](https://www.caixin.com/2026-05-15/102444424.html) _2026-05-15 11:11_
-- [特稿｜旅德留学生、华人精英、麻精药品、虚拟币与社交群组：迷奸“失忆者”的罪恶产业链](https://china.caixin.com/2026-05-15/102444392.html) _2026-05-15 10:44_
-- [GPT周报｜快手拟重组视频生成模型可灵AI、腾讯称AI应用订阅收费难度大、马斯克诉OpenAI案开启庭审](https://www.caixin.com/2026-05-15/102444388.html) _2026-05-15 10:43_
+- [下周前瞻：第79届世界卫生大会召开；APEC贸易部长会议举办](https://china.caixin.com/2026-05-15/102444421.html) _2026-05-15 11:10_
+- [特朗普结束对华国事访问 中美大豆协议能否顺利落地？](https://www.caixin.com/2026-05-15/102444384.html) _2026-05-15 10:39_
 - [居民资产负债表再平衡会持续下去](https://opinion.caixin.com/2026-05-15/102444370.html) _2026-05-15 10:29_
 - [广东省发改委原主任何宁卡被查 曾任珠海市长](https://china.caixin.com/2026-05-15/102444355.html) _2026-05-15 09:43_
 - [朱学东：鲥鱼，夏季第一鲜｜饮食](https://mini.caixin.com/2026-05-15/102444348.html) _2026-05-15 09:16_
-- [一百年前的天坛，是什么样子？｜带着问题去读书](https://mini.caixin.com/2026-05-15/102444330.html) _2026-05-15 09:05_
 - [印度北方邦遇强对流天气 已造成逾110人死亡](https://international.caixin.com/2026-05-15/102444320.html) _2026-05-15 08:50_
 - [“互换通”三周年：十五五“南向通”可期](https://opinion.caixin.com/2026-05-15/102444309.html) _2026-05-15 08:28_
-- [乌称遭开战来最大规模空袭 俄军发射超1500架无人机](https://photos.caixin.com/2026-05-15/102444301.html) _2026-05-15 08:25_
-- [【市场动态】中国芯片制造商估值过高 引起投资者警惕](https://database.caixin.com/2026-05-15/102444297.html) _2026-05-15 07:58_
-- [【市场动态】特朗普称他想拿到伊朗的铀主要是为了“公关”](https://database.caixin.com/2026-05-15/102444295.html) _2026-05-15 07:56_
+- [【市场动态】中国钢铁行业盈利状况达到8月以来最佳](https://database.caixin.com/2026-05-15/102444299.html) _2026-05-15 08:00_
 - [中芯国际一季度季度收入涨11.8% AI需求继续挤压产能](https://www.caixin.com/2026-05-15/102444290.html) _2026-05-15 07:53_
 - [【量化观察】A股四月强势反弹，成长风格领涨、创业板十年新高](https://database.caixin.com/2026-05-15/102444288.html) _2026-05-15 07:35_
-- [从科技巨头到印尼部长 Gojek创始人涉贪或面临27年监禁](https://companies.caixin.com/2026-05-15/102444281.html) _2026-05-15 07:08_
