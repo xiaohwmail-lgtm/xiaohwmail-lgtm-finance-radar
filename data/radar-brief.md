@@ -1,44 +1,46 @@
 # 财经雷达 OPML 简报
-> 生成: 2026-05-17 12:56:35 | 3 源 | 展示 77 条
+> 生成: 2026-05-17 14:23:41 | 3 源 | 展示 81 条
 
 ## 财联社电报
+- [国家防总向贵州调拨中央防汛抗旱物资](https://api3.cls.cn/share/article/2373479?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-17 14:21_
+- [【金牌纪要库】算力封装与光互联升级，带动玻璃基板、硅透镜进入验证放量窗口](https://api3.cls.cn/share/article/2373237?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-17 14:20_
+- [【公告全知道】机器人+光通信+PCB+先进封装+固态电池+芯片！公司拟与1.6T硅光芯片企业联合开发光引擎产品](https://api3.cls.cn/share/article/2373474?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-17 14:06_
+- [【风口研报·洞察】高密度算力的“动脉”与“静脉”，“液冷机架母线”有望替代风冷平排成为标配，叠加及800V高压平台与再生铜ESG需求，机架母线市场空间有望显...](https://api3.cls.cn/share/article/2373357?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-17 13:51_
+- [国际原子能机构：阿联酋巴拉卡核电站辐射水平正常](https://api3.cls.cn/share/article/2373467?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-17 13:36_
 - [内塔尼亚胡承认以色列扩大在加沙控制范围](https://api3.cls.cn/share/article/2373462?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-17 12:55_
 - [【电报解读】无锡将建立一座大规模“Token工厂”！分析师强Call“Token工厂”是“Token经济”的核心生产环节，将迎来快速发展期，这家公司与腾讯云签署合作协议](https://api3.cls.cn/share/article/2373401?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-17 12:16_
-- [报道称斯塔默并非唯一面临支持率困境的欧洲领导人](https://api3.cls.cn/share/article/2373446?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-17 12:08_
-- [财联社5月17日电，纳指科技ETF景顺(159509)二级市场出现较大幅度溢价，将于2026年5月18日开市起停牌，自2026年5月18日10:30起复牌，停牌期间赎回业务照常办理。](https://api3.cls.cn/share/article/2373440?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-17 12:00_
-- [【财联社早知道】国产特种光纤第一股来了，机构预计2027年全球光纤需求将攀升至8.8亿芯公里，它的光纤耦合器主要应用在光纤放大器和FTTR；史上最大IPO将至！马斯...](https://api3.cls.cn/share/article/2373328?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-17 10:46_
-- [伊朗外交部：美以用“维护能源稳定”作借口 为对伊战争辩护](https://api3.cls.cn/share/article/2373422?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-17 10:42_
-- [阿联酋巴拉卡核电站外围一处发电机遭无人机袭击起火](https://api3.cls.cn/share/article/2373418?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-17 10:29_
-- [伊朗军方：若美国再次发起军事行动将面临“进攻性回应”](https://api3.cls.cn/share/article/2373415?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-17 10:13_
+- [5月17日周日《新闻联播》要闻26条](https://api3.cls.cn/share/article/2373444?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-17 12:07_
+- [财联社5月17日电，全球芯片LOF(501225)二级市场出现较大幅度溢价，将于2026年5月18日开市起停牌，自2026年5月18日10:30起复牌，停牌期间赎回业务照常办理。](https://api3.cls.cn/share/article/2373439?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-17 11:58_
+- [财联社5月17日电，中韩半导体ETF华泰柏瑞(513310)二级市场出现较大幅度溢价，将于2026年5月18日开市起至当日10:30停牌。](https://api3.cls.cn/share/article/2373437?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-17 11:56_
+- [中国两轮车企借绿色浪潮驶入欧洲](https://api3.cls.cn/share/article/2373432?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-17 11:50_
+- [张国清同俄罗斯副总理特鲁特涅夫共同出席第十届中国－俄罗斯博览会开幕式并主持召开中国东北地区和俄罗斯远东地区政府间合作委员会第六次会议](https://api3.cls.cn/share/article/2373419?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-17 10:29_
+- [消息人士：美方在回应伊朗提议时列出5个关键条件](https://api3.cls.cn/share/article/2373404?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-17 09:49_
+- [【风口研报·公司】具备SoC与AI ASIC芯片两大“预期差”，这家公司ASIC定制构筑“连接IP+量产闭环”壁垒，手机AI算力实现性能越级；AI漫剧迎来黄金窗口期，公司...](https://api3.cls.cn/share/article/2373385?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-17 09:42_
 - [长鑫科技：预计上半年营收1100-1200亿元 扣非归母净利润520-580亿元](https://api3.cls.cn/share/article/2373403?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-17 09:39_
-- [【电报解读】国轩高科称固态电池正加速迈入“1元时代”！全球主流电池企业、车企密集推进装车验证， 固态电池技术路线正从“概念竞争”转向“落地比拼”，这家公...](https://api3.cls.cn/share/article/2373391?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-17 09:13_
-- [中美阿三国联合打击电诈 276名网恋骗子在迪拜被抓](https://api3.cls.cn/share/article/2373387?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-17 08:53_
-- [日本民调显示超半数受访者反对解禁杀伤性武器出口](https://api3.cls.cn/share/article/2373376?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-17 08:12_
-- [U17亚洲杯四强诞生 半决赛中国队将战澳大利亚队](https://api3.cls.cn/share/article/2373375?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-17 08:11_
-- [星巴克宣布在美关闭多个地区办公室](https://api3.cls.cn/share/article/2373373?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-17 08:02_
-- [金富科技：公司液冷业务未来拓展进程、市场布局落地节奏及未来盈利水平均存在较大不确定性](https://api3.cls.cn/share/article/2373368?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-17 07:48_
 
 ## 财联社深度
-- [“张雪机车”WSBK捷克站再夺冠 斩获赛季第五冠](https://www.cls.cn/detail/2373454) _2026-05-17 12:40_
+- [10家企业更新进展：长鑫科技披露最新财务数据 株洲科能等获受理 华盛雷达、频准激光上会在即|科创板IPO周报](https://www.cls.cn/detail/2373470) _2026-05-17 13:38_
 - [财联社创投通：一级市场本周108起融资环比增加63.64%，航空航天、具身智能活跃度居前](https://www.cls.cn/detail/2373431) _2026-05-17 11:57_
-- [调整即是机会？投资主线有哪些？十大券商策略来了](https://www.cls.cn/detail/2373427) _2026-05-17 11:38_
-- [无注入算力资产的计划！九连板ST股发布异动公告|盘后公告集锦](https://www.cls.cn/detail/2373417) _2026-05-17 10:32_
-- [4月中国手游出海成绩出炉：世纪华通3款游戏跻身收入TOP10 悠星网络占据增长榜冠亚军](https://www.cls.cn/detail/2373414) _2026-05-17 10:14_
-- [Token工厂落地无锡 依托华为昇腾384集群 算力进入“智能单元计费”时代](https://www.cls.cn/detail/2373394) _2026-05-17 09:16_
-- [深市最大IPO落地，新能源运营商“龙头时代”加速演进](https://www.cls.cn/detail/2373388) _2026-05-17 09:04_
+- [【明日主题前瞻】多个新兴领域资本开支旺盛，工业母机需求复苏迹象明显](https://www.cls.cn/detail/2373393) _2026-05-17 11:55_
 - [周末要闻：中美经贸磋商初步成果公布；巨力索具被证监会立案](https://www.cls.cn/detail/2373372) _2026-05-17 08:17_
+- [年内北证新股盘点：数量追平去年总和，上市首日均涨176%](https://www.cls.cn/detail/2373339) _2026-05-17 06:22_
 - [PCB钻针量价齐升 业内判断未来两年维持紧俏 钨钢棒短缺或制约扩产 |传真](https://www.cls.cn/detail/2373325) _2026-05-17 04:52_
 - [“福特”号航母返回美国，部署时长达326天](https://www.cls.cn/detail/2373307) _2026-05-17 03:56_
+- [政策与技术双轮驱动，民商火箭进入盈利弹性验证期](https://www.cls.cn/detail/2373296) _2026-05-17 03:20_
 - [本周龙虎榜盘点：近300股周内上榜，哪些席位成为“常客”？](https://www.cls.cn/detail/2373299) _2026-05-17 03:18_
-- [全球原油供应趋紧之际 特朗普政府仍终止俄油临时豁免](https://www.cls.cn/detail/2373246) _2026-05-16 19:28_
+- [国安部：境外间谍对我稀土、光伏、半导体等领域实施窃密](https://www.cls.cn/detail/2373269) _2026-05-17 00:44_
+- [近390股本周获涨停，四大板块占比较高，这些千亿权重股在列](https://www.cls.cn/detail/2373266) _2026-05-17 00:29_
+- [环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验](https://www.cls.cn/detail/2373249) _2026-05-16 21:33_
+- [阿联酋：退出欧佩克是经济战略选择 与政治无关](https://www.cls.cn/detail/2373244) _2026-05-16 18:04_
 
 ## 财新网
 - [老江还没去南方｜故事](https://mini.caixin.com/2026-05-17/102444815.html) _2026-05-17 12:10_
-- [秘书起步辗转赣黔鄂 湖北原省长王晓东被查](https://china.caixin.com/2026-05-17/102444810.html) _2026-05-17 10:23_
-- [泰国曼谷货运列车与公交车相撞致8死32伤 一中国公民轻伤](https://photos.caixin.com/2026-05-17/102444801.html) _2026-05-17 08:14_
 - [曼谷货运列车与公交车相撞 已致8死32伤](https://photos.caixin.com/2026-05-17/102444801.html) _2026-05-17 08:14_
+- [泰国曼谷货运列车与公交车相撞致8死32伤 一中国公民轻伤](https://photos.caixin.com/2026-05-17/102444801.html) _2026-05-17 08:14_
+- [2025年城镇就业人员工资增速低位反弹 哪些行业领跑、哪些下降？](https://economy.caixin.com/2026-05-17/102444792.html) _2026-05-17 07:01_
 - [打出具身智能概念 理想寄望新车提振利润表现](https://www.caixin.com/2026-05-17/102444783.html) _2026-05-17 06:42_
+- [上任仅半年时间 广汽集团又一副总经理突然辞职](https://www.caixin.com/2026-05-17/102444775.html) _2026-05-17 04:58_
+- [不是戏说，是用传奇补全的大明隐秘｜猎读](https://mini.caixin.com/2026-05-17/102444769.html) _2026-05-17 03:31_
 - [恒瑞与BMS达成新合作；泰格医药实控人被证监会立案｜医药股周报](https://www.caixin.com/2026-05-17/102444758.html) _2026-05-17 01:45_
-- [中东正在进入一个“没有信任”的时代](https://opinion.caixin.com/2026-05-17/102444757.html) _2026-05-17 01:36_
+- [财新闻｜金饰价年内大跌270元，克价跌破1400元](https://mini.caixin.com/2026-05-17/102444755.html) _2026-05-17 01:23_
 - [伦敦两大对立阵营同日游行 警方首次在抗议中启用实时人脸识别监控](https://photos.caixin.com/2026-05-16/102444744.html) _2026-05-16 15:34_
-- [2026年一季度商业银行净息差降至历史新低 不良贷款“双升”](https://finance.caixin.com/2026-05-16/102444734.html) _2026-05-16 13:49_
