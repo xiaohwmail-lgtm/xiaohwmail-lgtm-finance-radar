@@ -1,48 +1,47 @@
 # 财经雷达 OPML 简报
-> 生成: 2026-05-16 23:41:39 | 3 源 | 展示 79 条
+> 生成: 2026-05-17 02:05:09 | 3 源 | 展示 82 条
 
 ## 财联社电报
-- [美以伊冲突致伊拉克原油出口锐减](https://api3.cls.cn/share/article/2373258?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-16 23:29_
-- [中国汽车专利公开量全球领先 新能源领域年均增长率17.1%](https://api3.cls.cn/share/article/2373257?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-16 23:24_
+- [财联社5月17日电，据The Information援引知情人士报道，贝莱德考虑在下个月的SpaceX首次公开募股(IPO)中投资50亿至100亿美元。](https://api3.cls.cn/share/article/2373280?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-17 02:06_
+- [市场监管总局明确34项重点工作 持续护航民营经济发展壮大](https://api3.cls.cn/share/article/2373279?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-17 02:01_
+- [财联社5月17日电，据报道，韩国总理敦促三星电子薪资谈判双方在周一达成妥协。将寻求所有可能的解决方案，包括紧急仲裁。](https://api3.cls.cn/share/article/2373278?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-17 01:53_
+- [委内瑞拉驱逐马杜罗亲信](https://api3.cls.cn/share/article/2373277?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-17 01:49_
+- [鸿蒙智行：新款问界M9系列累计预订量超5万台](https://api3.cls.cn/share/article/2373276?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-17 01:42_
+- [阿联酋总统与俄总统普京通电话](https://api3.cls.cn/share/article/2373275?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-17 01:34_
+- [财联社5月17日电，中国地震台网正式测定：05月17日08时46分在台湾南投县（北纬24.02度，东经120.96度）发生4.5级地震，震源深度15千米。](https://api3.cls.cn/share/article/2373271?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-17 00:55_
+- [世卫组织：非洲埃博拉疫情构成“国际关注的突发公共卫生事件”](https://api3.cls.cn/share/article/2373267?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-17 00:26_
+- [阿斯麦与塔塔电子签署谅解备忘录](https://api3.cls.cn/share/article/2373261?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-16 23:42_
+- [中央气象台继续发布暴雨黄色预警](https://api3.cls.cn/share/article/2373260?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-16 23:41_
+- [境外情报机关窃密手段翻新 国安机关提醒新型泄密风险](https://api3.cls.cn/share/article/2373256?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-16 23:23_
 - [盖茨基金会不再持有微软股票](https://api3.cls.cn/share/article/2373255?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-16 23:19_
+- [联合国秘书长欢迎黎以延长停火](https://api3.cls.cn/share/article/2373252?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-16 22:34_
+- [意大利北部发生汽车冲撞行人事件 8人受伤](https://api3.cls.cn/share/article/2373251?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-16 21:51_
 - [加拿大一涉疫邮轮归国人员汉坦病毒初检结果为阳性](https://api3.cls.cn/share/article/2373250?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-16 21:35_
-- [伊朗布什尔核电站二号机组恢复建设](https://api3.cls.cn/share/article/2373248?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-16 20:28_
-- [伊朗宣布5月19日起恢复股票市场交易](https://api3.cls.cn/share/article/2373247?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-16 19:31_
-- [英国前卫生和社会福利大臣称将竞选工党党首](https://api3.cls.cn/share/article/2373245?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-16 18:41_
-- [欧洲方面据称已开始就霍尔木兹海峡通行问题与革命卫队接触](https://api3.cls.cn/share/article/2373243?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-16 17:21_
-- [安提瓜和巴布达附近海域发生6.4级地震](https://api3.cls.cn/share/article/2373241?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-16 15:38_
-- [非洲疾控中心启动紧急措施应对埃博拉疫情](https://api3.cls.cn/share/article/2373239?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-16 14:57_
-- [拉脱维亚总统提名候任总理](https://api3.cls.cn/share/article/2373238?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-16 14:55_
-- [本轮以黎冲突已造成黎巴嫩2969人丧生](https://api3.cls.cn/share/article/2373236?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-16 14:44_
-- [福建漳州有杨梅收购点违规使用防腐剂 当地已开展专项整治](https://api3.cls.cn/share/article/2373228?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-16 13:10_
-- [【电报解读】国内首笔！数据中心接入虚拟电厂参与电力现货市场交易，全球电网面临前所未有压力下，虚拟电厂成为新型电力系统中不可或缺的组成部分，这家公司已经...](https://api3.cls.cn/share/article/2373211?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-16 12:46_
-- [伊朗一机油工厂发生火灾](https://api3.cls.cn/share/article/2373219?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-16 12:36_
-
-## 财联社深度
-- [伊朗宣布5月19日起恢复股票市场交易](https://www.cls.cn/detail/2373254) _2026-05-16 23:17_
-- [【早报】商务部公布中美经贸磋商初步成果](https://www.cls.cn/detail/2373253) _2026-05-16 23:00_
-- [环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验](https://www.cls.cn/detail/2373249) _2026-05-16 21:33_
-- [商务部就中美经贸磋商初步成果答记者问](https://www.cls.cn/detail/2373218) _2026-05-16 12:14_
-- [黄仁勋打卡蜜雪冰城 同款产品销量暴增140%](https://www.cls.cn/detail/2373201) _2026-05-16 10:03_
-- [龙头6天4板 本周披露并购重组进展的A股名单一览](https://www.cls.cn/detail/2373180) _2026-05-16 08:06_
-- [史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值1.75万亿美元](https://www.cls.cn/detail/2373172) _2026-05-16 06:56_
-- [【图解牛熊股】电子化学品板块涨幅居前，存储芯片概念股持续活跃](https://www.cls.cn/detail/2373135) _2026-05-16 06:16_
-- [又有券商债券承销尽调重大疏漏，项目负责人禁业1年，公司被监管谈话](https://www.cls.cn/detail/2373154) _2026-05-16 06:06_
-- [商务部新闻发言人就认定欧盟外国补贴调查相关做法构成不当域外管辖措施答记者问](https://www.cls.cn/detail/2373150) _2026-05-16 05:41_
-- [金海高科14.52亿元“易主”游戏大佬：停牌前股价涨停 上交所启动监管核查|速读公告](https://www.cls.cn/detail/2373149) _2026-05-16 05:39_
-- [商务部就认定欧盟外国补贴调查相关做法构成不当域外管辖措施答记者问](https://www.cls.cn/detail/2373146) _2026-05-16 05:31_
-- [茅台再调价！多款非标产品提价 终端市场价应声上涨](https://www.cls.cn/detail/2373141) _2026-05-16 05:13_
-- [单日七罚！前营业部负责人遭5年禁业，又见无证荐股、两融绕标、飞单三大典型违规](https://www.cls.cn/detail/2373106) _2026-05-16 02:56_
-- [公募集体“追光”，超百家公募调研新易盛](https://www.cls.cn/detail/2373100) _2026-05-16 02:29_
 
 ## 财新网
-- [商务部介绍中美经贸磋商五方面成果 将成立投资贸易两理事会](https://international.caixin.com/2026-05-16/102444725.html) _2026-05-16 12:38_
+- [恒瑞与BMS达成新合作；泰格医药实控人被证监会立案｜医药股周报](https://www.caixin.com/2026-05-17/102444758.html) _2026-05-17 01:45_
+- [财新闻｜金饰价年内大跌270元，克价跌破1400元](https://mini.caixin.com/2026-05-17/102444755.html) _2026-05-17 01:23_
+- [伦敦两大对立阵营同日游行 警方首次在抗议中启用实时人脸识别监控](https://photos.caixin.com/2026-05-16/102444744.html) _2026-05-16 15:34_
+- [两大对立阵营同日上街 伦敦现8万人大游行](https://international.caixin.com/2026-05-16/102444730.html) _2026-05-16 13:28_
+- [波音称中国之行非常成功 获200架飞机购机承诺](https://companies.caixin.com/2026-05-16/102444721.html) _2026-05-16 11:20_
+- [巴基斯坦首支熊猫债发布 首期全场认购数量超5倍](https://international.caixin.com/2026-05-16/102444703.html) _2026-05-16 06:57_
 - [“奥德赛时期”从何而来？｜热议](https://mini.caixin.com/2026-05-16/102444695.html) _2026-05-16 06:30_
-- [零跑一季度毛利率跌至9.4% 预计二季度回升](https://www.caixin.com/2026-05-16/102444635.html) _2026-05-16 04:51_
 - [《穿普拉达的女王2》：女王归来，童话难续｜影视](https://mini.caixin.com/2026-05-16/102444608.html) _2026-05-16 03:54_
-- [大西洋观察｜雏形初现的亚太经济安全同盟](https://international.caixin.com/2026-05-16/102444602.html) _2026-05-16 03:46_
-- [【周刊提前读】深度：透析科技股结构牛市](https://database.caixin.com/2026-05-16/102444549.html) _2026-05-16 01:05_
-- [司法部：欧盟对同方威视发起的跨境调查构成不当域外管辖](https://www.caixin.com/2026-05-16/102444544.html) _2026-05-16 00:56_
-- [【周刊提前读】税务天眼升级 中国境外征税全面趋严](https://database.caixin.com/2026-05-16/102444543.html) _2026-05-16 00:42_
-- [【周刊提前读】人民币大幅升值背后：管理汇率浮动走向成熟](https://database.caixin.com/2026-05-16/102444542.html) _2026-05-16 00:38_
-- [履职一年后美药监局长辞任，他推进了哪些改革？](https://www.caixin.com/2026-05-16/102444537.html) _2026-05-16 00:16_
+- [一周天下｜特朗普访华、涉汉坦病毒疫情邮轮完成疏散](https://photos.caixin.com/2026-05-16/102444572.html) _2026-05-16 02:38_
+
+## 财联社深度
+- [国安部：境外间谍对我稀土、光伏、半导体、高端芯片、人工智能等领域实施窃密](https://www.cls.cn/detail/2373269) _2026-05-17 00:44_
+- [近390股本周获涨停，四大板块占比较高，这些千亿权重股在列](https://www.cls.cn/detail/2373266) _2026-05-17 00:29_
+- [环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验](https://www.cls.cn/detail/2373249) _2026-05-16 21:33_
+- [全球原油供应趋紧之际 特朗普政府仍终止俄油临时豁免](https://www.cls.cn/detail/2373246) _2026-05-16 19:28_
+- [阿联酋：退出欧佩克是经济战略选择 与政治无关](https://www.cls.cn/detail/2373244) _2026-05-16 18:04_
+- [全球化布局已是一流投行必答题，中金公司有哪些动作？](https://www.cls.cn/detail/2373192) _2026-05-16 08:53_
+- [龙头6天4板 本周披露并购重组进展的A股名单一览](https://www.cls.cn/detail/2373180) _2026-05-16 08:06_
+- [俄罗斯总统普京将对华进行国事访问](https://www.cls.cn/detail/2373173) _2026-05-16 07:01_
+- [史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值1.75万亿美元](https://www.cls.cn/detail/2373172) _2026-05-16 06:56_
+- [商务部：中方反对欧方滥用外国补贴条例等工具打压中国企业](https://www.cls.cn/detail/2373150) _2026-05-16 05:41_
+- [商务部就认定欧盟外国补贴调查相关做法构成不当域外管辖措施答记者问](https://www.cls.cn/detail/2373150) _2026-05-16 05:41_
+- [金海高科14.52亿元“易主”游戏大佬：停牌前股价涨停 上交所启动监管核查|速读公告](https://www.cls.cn/detail/2373149) _2026-05-16 05:39_
+- [商务部就认定欧盟外国补贴调查相关做法构成不当域外管辖措施答记者问](https://www.cls.cn/detail/2373146) _2026-05-16 05:31_
+- [中资券商牢牢把持港股IPO保荐核心地位，中金两年74单领跑](https://www.cls.cn/detail/2373108) _2026-05-16 03:09_
+- [单日七罚！前营业部负责人遭5年禁业，又见无证荐股、两融绕标、飞单三大典型违规](https://www.cls.cn/detail/2373106) _2026-05-16 02:56_
