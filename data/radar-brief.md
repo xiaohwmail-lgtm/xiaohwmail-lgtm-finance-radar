@@ -1,53 +1,53 @@
 # 财经雷达 OPML 简报
-> 生成: 2026-05-18 13:00:18 | 3 源 | 展示 142 条
+> 生成: 2026-05-18 16:38:09 | 3 源 | 展示 150 条
 
 ## 财联社电报
-- [科士达：液冷相关产品当前形成收入占公司整体收入规模不到1%](https://api3.cls.cn/share/article/2374592?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-18 12:53_
-- [美股盘前要闻一览：马斯克称SpaceX有望今年在火箭的完全快速可复用性上取得成功；标普500今年十大牛股光通信占三席；盖茨基金会清仓微软](https://api3.cls.cn/share/article/2374585?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-18 12:49_
-- [财联社5月18日电，纳斯达克100指数期货的涨幅进一步扩大，达到0.5%。](https://api3.cls.cn/share/article/2374583?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-18 12:47_
-- [*ST铖昌：5月20日起撤销退市风险警示 简称变更为“铖昌科技”](https://api3.cls.cn/share/article/2374576?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-18 12:44_
-- [财联社5月18日电，布伦特原油期货跌幅扩大至1%，报108.169美元/桶。](https://api3.cls.cn/share/article/2374574?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-18 12:42_
-- [财联社5月18日电，WTI原油期货价格向下触及100美元/桶，日内下跌0.96%。](https://api3.cls.cn/share/article/2374568?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-18 12:37_
-- [财联社5月18日电，纳斯达克100指数期货转涨，盘中曾一度下跌超1%。](https://api3.cls.cn/share/article/2374565?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-18 12:37_
-- [5月18日周一《新闻联播》要闻16条](https://api3.cls.cn/share/article/2374555?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-18 12:34_
-- [交投清淡显观望 碳酸锂趋于横盘整理](https://api3.cls.cn/share/article/2374349?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-18 09:40_
-- [步科股份：成功进入全球协作机器人龙头企业的供应链 实现批量供货](https://api3.cls.cn/share/article/2374344?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-18 09:35_
-- [印尼巴布亚省发生部落冲突 已致13死19伤](https://api3.cls.cn/share/article/2374339?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-18 09:31_
-- [浙海德曼：与国内知名数控系统厂家联合开发的海德曼数控系统已经投放市场](https://api3.cls.cn/share/article/2374324?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-18 09:16_
-- [【风口研报·公司】AI芯片、HBM拉动SoC和存储测试机需求，这家公司高性能SoC测试机客户验证进展顺利，今年有望取得订单突破；布局“太空能源-卫星制造-星座运营...](https://api3.cls.cn/share/article/2374223?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-18 09:14_
-- [腾讯音乐：收购喜马拉雅的事项已经完成](https://api3.cls.cn/share/article/2374309?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-18 09:08_
-- [财联社5月18日电，百度季度营收超预期，其美国上市股票盘前上涨3.4%。](https://api3.cls.cn/share/article/2374304?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-18 09:06_
+- [69名中国公民在菲被扣 我使馆派员进行领事探视](https://api3.cls.cn/share/article/2374731?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-18 16:34_
+- [财联社5月19日电，标普500指数跌幅扩大，现跌0.5%，最新报7369.84点。](https://api3.cls.cn/share/article/2374729?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-18 16:29_
+- [财联社5月19日电，美国司法部寻求撤销针对Gautam Adani（阿达尼）的刑事指控。](https://api3.cls.cn/share/article/2374727?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-18 16:18_
+- [沙特消息称伊朗提出有条件地将浓缩铀转移至俄罗斯](https://api3.cls.cn/share/article/2374722?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-18 16:04_
+- [土耳其南部发生连环枪击事件 已致4死8伤](https://api3.cls.cn/share/article/2374720?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-18 15:50_
+- [国际货币基金组织上调英国经济增长预期](https://api3.cls.cn/share/article/2374718?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-18 15:44_
+- [伊朗称知道如何应对特朗普最新威胁](https://api3.cls.cn/share/article/2374717?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-18 15:44_
+- [欧洲主要股指收盘多数上涨](https://api3.cls.cn/share/article/2374712?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-18 15:37_
+- [消息人士：美国将俄海运石油制裁豁免再延长30天](https://api3.cls.cn/share/article/2374711?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-18 15:36_
+- [财联社5月18日电，纳斯达克综合指数向下跌破26000点，日内下跌0.86%](https://api3.cls.cn/share/article/2374709?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-18 15:32_
+- [生态环境部：深化绿色低碳、污染防治、生态安全与核安全、生态环境治理能力等重点领域场景建设](https://api3.cls.cn/share/article/2374706?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-18 15:17_
+- [蓝思科技：拟收购巨腾国际约27.81%已发行股份](https://api3.cls.cn/share/article/2374705?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-18 15:09_
+- [财联社5月18日电，据报道，特朗普撤销了针对美国国税局的100亿美元诉讼。](https://api3.cls.cn/share/article/2374597?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-18 12:56_
+- [财联社5月18日电，摩根士丹利将英伟达目标价从260美元上调至285美元。](https://api3.cls.cn/share/article/2374593?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-18 12:53_
+- [财联社5月18日电，欧股纷纷转涨，欧洲斯托克50指数涨0.71%，英国富时100指数涨0.91%，法国CAC40指数涨0.25%，德国DAX30指数涨1.61%。](https://api3.cls.cn/share/article/2374591?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-18 12:53_
 
 ## 财联社深度
+- [百亿级并购尘埃落定 腾讯音乐正式“收编”喜马拉雅|速读公告](https://www.cls.cn/detail/2374714) _2026-05-18 15:43_
+- [IMF上调英国经济增长预期 警告政局动荡冲击市场信心](https://www.cls.cn/detail/2374713) _2026-05-18 15:41_
+- [福特汽车进军储能“首战告捷” 与法国电力集团签下20GWh大单](https://www.cls.cn/detail/2374691) _2026-05-18 14:58_
+- [洁丽雅发声明：已向公安机关报案](https://www.cls.cn/detail/2374696) _2026-05-18 14:57_
+- [分析人士警告：全球石油库存急剧下降 欧洲最快本月底面临“断油”风险](https://www.cls.cn/detail/2374689) _2026-05-18 14:39_
+- [美国能源业诞生超级巨头：NextEra将以670亿美元收购Dominion](https://www.cls.cn/detail/2374618) _2026-05-18 13:25_
+- [特朗普谈入股英特尔：后悔当初只拿10%股份，“应该多要一点”](https://www.cls.cn/detail/2374617) _2026-05-18 13:25_
+- [吴通控股：移动信息主业承压 新能源储能连接成新增长极|直击业绩会](https://www.cls.cn/detail/2374614) _2026-05-18 13:23_
+- [港股风向标｜恒指缩量下探情绪面转冷 机构重视红利股底仓价值](https://www.cls.cn/detail/2374598) _2026-05-18 13:22_
+- [万亿中金将至，“三合一”换股价敲定，多项重要排名进阶](https://www.cls.cn/detail/2374615) _2026-05-18 13:20_
+- [李强：推动人工智能与先进制造业深度融合](https://www.cls.cn/detail/2374609) _2026-05-18 13:17_
+- [A股新“股王”联讯仪器，提示4大风险](https://www.cls.cn/detail/2374594) _2026-05-18 13:08_
+- [年内仅成立1家，省级农商行组建节奏缘何放缓？](https://www.cls.cn/detail/2374600) _2026-05-18 13:02_
 - [科创板晚报|摩尔线程接待贝莱德、高瓴等机构调研 盟科药业股东拟合计减持不超6%股份](https://www.cls.cn/detail/2374575) _2026-05-18 12:52_
 - [隆基绿能祝通威股份520新组件大卖？组件“煎蛋”实验背后 是科学还是营销？](https://www.cls.cn/detail/2374580) _2026-05-18 12:49_
-- [世卫组织再度敲响埃博拉疫情警报 我们目前知道些什么？](https://www.cls.cn/detail/2374393) _2026-05-18 12:47_
-- [今年618风向大变！京东阿里抖音齐发力AI](https://www.cls.cn/detail/2374562) _2026-05-18 12:38_
-- [港股公告精选｜大唐新能源前4月发电量增约一成 百度一季度营收超320亿元](https://www.cls.cn/detail/2374548) _2026-05-18 12:32_
-- [突发！1150亿商业航天概念股第一大股东拟减持不超3%股份|盘后公告集锦](https://www.cls.cn/detail/2374549) _2026-05-18 12:21_
-- [诺奖得主斯宾塞：中国将成世界最大具身机器人制造国](https://www.cls.cn/detail/2374491) _2026-05-18 11:55_
-- [科创板诞生A股新“股王”：上市14个交易日 联讯仪器股价何以超越贵州茅台？](https://www.cls.cn/detail/2374450) _2026-05-18 10:55_
-- [丁薛祥：算力是国家综合国力的重要体现 要统筹布局、有序建设](https://www.cls.cn/detail/2374423) _2026-05-18 10:35_
-- [业内人士 : 债券市场已成为央行宏观调控和政策传导的重要阵地](https://www.cls.cn/detail/2374386) _2026-05-18 10:09_
-- [南向资金追踪｜净卖出近79亿港元 加仓中国人寿及理想汽车继续抛售阿里](https://www.cls.cn/detail/2374375) _2026-05-18 10:07_
-- [时隔5个月！中国移动股价重返百元，“高价天团”分布梳理，这些板块变动较大](https://www.cls.cn/detail/2374340) _2026-05-18 09:43_
-- [债市收盘|午后债市拉升明显，长端品种有所回暖，10年期国开债下行1BP](https://www.cls.cn/detail/2374275) _2026-05-18 09:19_
-- [【焦点复盘】科创50冲高回落涨0.81%，近端次新股获资金持续抱团，物理AI概念异军突起](https://www.cls.cn/detail/2374303) _2026-05-18 09:12_
-- [封装基板供需格局将变？英伟达或提前锁单 台积电COUPE量产为主要催化](https://www.cls.cn/detail/2374274) _2026-05-18 09:02_
 
 ## 财新网
-- [QDII基金持续脱离净值超高溢价 额度限制致套利机制失效](https://finance.caixin.com/2026-05-18/102445211.html) _2026-05-18 12:45_
+- [百度营收持续下滑 AI业务占过半收入](https://www.caixin.com/2026-05-18/102445306.html) _2026-05-18 14:53_
+- [特朗普喊话要求伊朗迅速行动 警告将实施更沉重打击](https://international.caixin.com/2026-05-18/102445286.html) _2026-05-18 13:55_
+- [斯蒂芬·金的硬核智慧｜热议](https://mini.caixin.com/2026-05-18/102445209.html) _2026-05-18 12:30_
+- [险资一季度买了多少股票？配置余额环比增长2.7%](https://finance.caixin.com/2026-05-18/102445199.html) _2026-05-18 12:12_
+- [外逃一月 川投新能源总经理刘亮被遣返回国](https://www.caixin.com/2026-05-18/102445195.html) _2026-05-18 12:01_
 - [恒大清盘人讼普华永道香港开庭 索偿金额达570亿](https://finance.caixin.com/2026-05-18/102445190.html) _2026-05-18 11:52_
 - [美媒曝美司法部拟起诉劳尔·卡斯特罗 或重演“委内瑞拉剧本”](https://international.caixin.com/2026-05-18/102445181.html) _2026-05-18 11:38_
 - [马尔代夫发生潜水事故 5名潜水者与1名搜救员遇难](https://international.caixin.com/2026-05-18/102445169.html) _2026-05-18 11:26_
-- [【数据图解】4月楼市成交热度仍在 房价回暖势头能否持续？](https://database.caixin.com/2026-05-18/102445128.html) _2026-05-18 10:04_
+- [消费级外骨骼企业极壳科技半年内再融5000万美元 B轮融资1.2亿美元](https://www.caixin.com/2026-05-18/102445163.html) _2026-05-18 11:10_
 - [非洲埃博拉疫情升级 香港启动“戒备”应变级别](https://www.caixin.com/2026-05-18/102445103.html) _2026-05-18 08:58_
-- [长鑫科技IPO申报业绩爆发 市场预计估值必超2万亿元](https://finance.caixin.com/2026-05-18/102445094.html) _2026-05-18 08:57_
-- [产业互联网平台：服务驱动打破制造业瓶颈](https://opinion.caixin.com/2026-05-18/102445085.html) _2026-05-18 08:18_
-- [广西环江县皮卡坠河已致4死6失联 事发前遭遇强降雨](https://china.caixin.com/2026-05-18/102445077.html) _2026-05-18 07:57_
-- [2025年药审报告：1类创新药获批量创历史新高](https://www.caixin.com/2026-05-18/102445046.html) _2026-05-18 06:17_
-- [【市场动态】高盛称各国央行料将加大力度购买黄金 预估金价年底可达5400美元](https://database.caixin.com/2026-05-18/102445028.html) _2026-05-18 05:07_
-- [一对唐代纯色小罐的跨海因缘｜收藏](https://mini.caixin.com/2026-05-18/102444994.html) _2026-05-18 04:48_
+- [从马尔代夫深潜事故谈起：旅行医学如何看待高风险探险活动？｜健保](https://mini.caixin.com/2026-05-18/102445054.html) _2026-05-18 06:49_
+- [当AI扒下经济学家的神圣外衣](https://opinion.caixin.com/2026-05-18/102445052.html) _2026-05-18 06:41_
+- [1—4月投资再度转降、同比下降1.6% 算力等新型基建加快布局](https://economy.caixin.com/2026-05-18/102445036.html) _2026-05-18 05:26_
+- [【市场动态】策略师称日债收益率飙升凸显财政担忧加剧 但外溢效应料保持温和可控](https://database.caixin.com/2026-05-18/102445032.html) _2026-05-18 05:10_
 - [为什么全是生化医学？为什么是“耿同学”？](https://opinion.caixin.com/2026-05-18/102444993.html) _2026-05-18 04:48_
-- [【霍尔木兹日报】霍尔木兹海峡僵局持续 船舶通行数量略减](https://database.caixin.com/2026-05-18/102444985.html) _2026-05-18 04:11_
-- [火线评论｜是什么在妨碍大学打开校门？](https://opinion.caixin.com/2026-05-18/102444976.html) _2026-05-18 04:00_
