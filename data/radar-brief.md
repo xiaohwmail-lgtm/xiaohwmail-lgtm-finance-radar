@@ -1,53 +1,53 @@
 # 财经雷达 OPML 简报
-> 生成: 2026-05-20 22:08:20 | 3 源 | 展示 150 条
+> 生成: 2026-05-20 23:45:39 | 3 源 | 展示 150 条
 
 ## 财联社电报
-- [美联储6月维持利率不变的概率为97.3%](https://api3.cls.cn/share/article/2377316?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-20 22:05_
-- [SpaceX在“星舰”巨型火箭上已砸超150亿美元](https://api3.cls.cn/share/article/2377315?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-20 22:05_
-- [周四（5月21日）重点关注财经事件和经济数据](https://api3.cls.cn/share/article/2377244?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-20 22:00_
-- [财联社5月21日电，SpaceX称，将允许在180天锁定期到期前，分阶段提前解禁股份，相关阶段与公司盈利、股价以及时间节点挂钩。](https://api3.cls.cn/share/article/2377310?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-20 21:46_
+- [捷克将接收一名曾接触埃博拉病毒感染者的美籍医生](https://api3.cls.cn/share/article/2377359?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-20 23:38_
+- [【点金互动易】洁净室+碳酸锂，服务AMD、美光、英飞凌等芯片巨头，防静电超净技术产品可为洁净室工程提供基础保障，这家公司手握数万吨电池级碳酸锂产能](https://api3.cls.cn/share/article/2377159?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-20 23:37_
+- [谷歌将在美国密苏里州投资150亿美元用于基础设施建设](https://api3.cls.cn/share/article/2377358?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-20 23:37_
+- [多家券商密集处置旗下房产 盘活存量资产推动战略聚焦](https://api3.cls.cn/share/article/2377351?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-20 23:25_
+- [财联社5月21日电，韩国将燃油税减免政策延长2个月至7月31日。](https://api3.cls.cn/share/article/2377346?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-20 23:08_
+- [动物实验表明：“仿生融合”植入式装置可降低血压](https://api3.cls.cn/share/article/2377334?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-20 22:54_
+- [沪深ETF总规模4月末重返5.1万亿元上方](https://api3.cls.cn/share/article/2377332?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-20 22:52_
+- [投顾数量逆势扩容 券业人才结构加速重构](https://api3.cls.cn/share/article/2377331?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-20 22:50_
+- [财联社5月21日电，据报道，日本将围绕能源措施动用5000亿日元储备资金。](https://api3.cls.cn/share/article/2377317?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-20 22:07_
+- [财联社5月21日电，英伟达CEO黄仁勋称，Vera CPU的独立销售额未包含在Blackwell和Rubin芯片1万亿美元收入的预测中，Vera将成为1万亿美元预测之外最大的销售贡献来...](https://api3.cls.cn/share/article/2377314?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-20 22:03_
+- [财联社5月21日电，英伟达CEO黄仁勋称，包含人工智能新型云业务的新报告板块增速将超过超大规模数据中心子板块。](https://api3.cls.cn/share/article/2377313?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-20 21:57_
+- [财联社5月21日电，英伟达CEO黄仁勋称，包括自身产品在内的基于SRAM的AI芯片，在一段时间内将是一个小众产品。](https://api3.cls.cn/share/article/2377311?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-20 21:46_
+- [美银：对冲基金上周抛售美股规模创纪录](https://api3.cls.cn/share/article/2377309?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-20 21:43_
+- [财联社5月21日电，英伟达CEO黄仁勋称，Vera Rubin开局不错，Vera CPU 200亿美元的预估是针对独立CPU销售额，不包含与Rubin芯片组合销售的情况。](https://api3.cls.cn/share/article/2377308?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-20 21:38_
 - [财联社5月21日电，英伟达CEO黄仁勋称，公司的增速将超过超大规模云服务商（Hyperscaler）的资本开支；超大规模云服务商们将继续大规模开支。](https://api3.cls.cn/share/article/2377307?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-20 21:34_
-- [财联社5月21日电，英伟达称，现在拥有超过1000亿美元回购授权。](https://api3.cls.cn/share/article/2377303?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-20 21:21_
-- [英伟达：今年的CPU收入有望达到200亿美元](https://api3.cls.cn/share/article/2377301?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-20 21:16_
-- [英伟达CFO：H100 GPU的租赁价格年初至今上涨了20%](https://api3.cls.cn/share/article/2377298?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-20 21:11_
-- [财联社5月21日电，利弗莫尔中概股龙头指数收涨0.55%。](https://api3.cls.cn/share/article/2377278?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-20 20:00_
-- [财联社5月21日电，美股三大指数集体收涨超1%。纳指涨1.54%，道指涨1.31%，标普500指数涨1.08%。费城半导体指数大涨超4%。](https://api3.cls.cn/share/article/2377277?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-20 20:00_
-- [美尼米兹号航母打击群进入加勒比海](https://api3.cls.cn/share/article/2377276?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-20 19:38_
-- [财联社5月21日电，谷歌称，将设立一项价值2000万美元的能源影响基金。](https://api3.cls.cn/share/article/2377275?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-20 19:36_
-- [高盛：目前美国国债收益率难以下降](https://api3.cls.cn/share/article/2377271?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-20 19:12_
-- [白宫向AI公司通报模型发布前审查计划](https://api3.cls.cn/share/article/2377270?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-20 19:10_
-- [哥伦比亚反政府武装宣布大选期间单方面停火](https://api3.cls.cn/share/article/2377269?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-20 19:01_
-
-## 财联社深度
-- [最快周五递表？据称OpenAI正秘密筹备IPO 华尔街或迎史诗级上市潮](https://www.cls.cn/detail/2377274) _2026-05-20 20:35_
-- [油价飙升点燃新能源热潮 IEA预测全球电动车占比将冲上30%](https://www.cls.cn/detail/2377266) _2026-05-20 18:55_
-- [天域生物股东会“否决”向大股东借款议案 公司人士称 “缺钱，但有其他办法”|速读公告](https://www.cls.cn/detail/2377240) _2026-05-20 16:02_
-- [三星电子工会暂停罢工计划 与资方达成初步薪资协议](https://www.cls.cn/detail/2377209) _2026-05-20 15:27_
-- [Kimi融资股东现国资阵容，国产大模型资本结构加速重构](https://www.cls.cn/detail/2377205) _2026-05-20 15:08_
-- [贝索斯：太空数据中心短期难落地 无需担心AI泡沫](https://www.cls.cn/detail/2377170) _2026-05-20 14:23_
-- [祁斌：在人工智能的竞争中不容有失，建议进一步畅通A股市场和香港市场的AI企业上市通道](https://www.cls.cn/detail/2377143) _2026-05-20 13:53_
-- [三星电子工会已推迟罢工](https://www.cls.cn/detail/2377131) _2026-05-20 13:34_
-- [伊朗战争推高油价 美国或迎“史上最贵”夏季驾车出行季](https://www.cls.cn/detail/2377113) _2026-05-20 13:20_
-- [31家科创板人工智能公司集体参会：AI商业化迈入收入兑现关键期 商业模式加速向订阅制与产品化转型](https://www.cls.cn/detail/2377114) _2026-05-20 13:16_
-- [油价走软、海外股市债市携手回暖 英伟达即将发布财报 | 今夜看点](https://www.cls.cn/detail/2377104) _2026-05-20 13:14_
-- [公募分红放榜！债基让出主导地位，权益扛下半壁江山](https://www.cls.cn/detail/2377088) _2026-05-20 12:58_
-- [科创板晚报|长鑫科技IPO将于5月27日上会 华光新材询价转让初步定价60.21元/股](https://www.cls.cn/detail/2377081) _2026-05-20 12:51_
-- [【明日主题前瞻】SpaceX据悉打算在IPO过后30天收购初创公司Cursor](https://www.cls.cn/detail/2376719) _2026-05-20 12:43_
-- [海外研选 | 巴克莱：自动化3.0时代开启 人形机器人市场10年后或达2000亿美元](https://www.cls.cn/detail/2377018) _2026-05-20 12:00_
 
 ## 财新网
-- [美国推迟向波兰派遣约4000人驻军 在欧部署确认遭削减](https://international.caixin.com/2026-05-20/102445975.html) _2026-05-20 14:23_
+- [漳州通报“泡药杨梅”事件 追回问题杨梅540公斤、5人被刑拘](https://www.caixin.com/2026-05-21/102446010.html) _2026-05-20 23:38_
+- [AI进校园，海淀区怎么做？｜教育观察](https://www.caixin.com/2026-05-21/102446000.html) _2026-05-20 23:12_
 - [特朗普升高恫吓称或再对伊朗进行打击 伊方警告战火将溢出中东](https://international.caixin.com/2026-05-20/102445968.html) _2026-05-20 14:10_
+- [印尼加强大宗商品出口管制 由国有企业接管棕榈油销售](https://companies.caixin.com/2026-05-20/102445963.html) _2026-05-20 13:53_
 - [福建一博士后因套取1400万科研经费获刑八年 曾否认冒签及多次诈骗](https://china.caixin.com/2026-05-20/102445958.html) _2026-05-20 13:46_
 - [PPI回暖带动4月财政收入增长6.7% 支出由增转降](https://economy.caixin.com/2026-05-20/102445941.html) _2026-05-20 12:48_
-- [中远最后一艘滞留超级油轮驶出霍尔木兹海峡 另一艘中国油轮同时驶出](https://international.caixin.com/2026-05-20/102445935.html) _2026-05-20 12:39_
-- [97岁李嘉诚现身太平山顶 神采奕奕驾驶“新玩具”](https://china.caixin.com/2026-05-20/102445923.html) _2026-05-20 11:33_
-- [特朗普派出格陵兰岛特使访格 格自治政府重申自决权不容讨论](https://international.caixin.com/2026-05-20/102445873.html) _2026-05-20 10:10_
+- [亚洲私募股权投资回暖 投资人：资金选择性回流中国](https://finance.caixin.com/2026-05-20/102445918.html) _2026-05-20 11:29_
+- [埃博拉疫情再次拉响全球警报：这次到底危险在哪里？｜健保](https://mini.caixin.com/2026-05-20/102445881.html) _2026-05-20 10:37_
+- [【华尔街原声】分析人士：通胀预期引发全球债券抛售](https://database.caixin.com/2026-05-20/102445869.html) _2026-05-20 09:59_
 - [柬埔寨警方突袭金边太子广场 香港冻结陈志资产](https://china.caixin.com/2026-05-20/102445864.html) _2026-05-20 09:48_
+- [火线评论｜杨梅泡药事件发酵，公开透明不是问题而是答案](https://opinion.caixin.com/2026-05-20/102445859.html) _2026-05-20 09:34_
+- [从2亿到14亿 特朗普翻新白宫宴会厅预算飙升](https://photos.caixin.com/2026-05-20/102445851.html) _2026-05-20 09:23_
 - [美联储2027年加息的必要性](https://opinion.caixin.com/2026-05-20/102445850.html) _2026-05-20 09:23_
+- [苏姿丰盛赞中国AI生态 称AMD聚焦智能体与全栈算力部署](https://www.caixin.com/2026-05-20/102445843.html) _2026-05-20 09:03_
 - [习近平同普京会谈：着眼战略长远 助力各自国家发展振兴](https://international.caixin.com/2026-05-20/102445834.html) _2026-05-20 08:07_
-- [数字钱包占据全球线上交易额一半以上、线下三分之一](https://www.caixin.com/2026-05-20/102445830.html) _2026-05-20 08:02_
-- [火线评论｜论文“一眼假”却要靠“耿同学”，学术诚信如何重建？](https://opinion.caixin.com/2026-05-20/102445825.html) _2026-05-20 07:37_
-- [地方无烟立法标准为何一降再降](https://opinion.caixin.com/2026-05-20/102445821.html) _2026-05-20 07:19_
-- [【市场动态】英国4月通胀降至逾一年低位 英镑应声下跌](https://database.caixin.com/2026-05-20/102445815.html) _2026-05-20 06:51_
-- [美驻华大使重申美政策不支持“台独” 盼两岸问题找到和平解决方案](https://international.caixin.com/2026-05-20/102445808.html) _2026-05-20 06:44_
+
+## 财联社深度
+- [人民日报钟一平：赖清德“倚外谋独”只是黄粱一梦](https://www.cls.cn/detail/2377348) _2026-05-20 23:33_
+- [港股早报｜发改委召开民企座谈会 OpenAI或将于近期递交IPO申请](https://www.cls.cn/detail/2377336) _2026-05-20 23:22_
+- [特朗普：愿意多花几天等待伊方消息](https://www.cls.cn/detail/2377330) _2026-05-20 23:08_
+- [全面超预期！英伟达公布强劲财报 预计下半年开始发货Vera Rubin](https://www.cls.cn/detail/2377323) _2026-05-20 22:57_
+- [SpaceX递交IPO文件冲刺纳斯达克 更多财务和技术细节曝光](https://www.cls.cn/detail/2377327) _2026-05-20 22:56_
+- [最快周五递表？据称OpenAI正秘密筹备IPO 华尔街或迎史诗级上市潮](https://www.cls.cn/detail/2377274) _2026-05-20 20:35_
+- [天域生物股东会“否决”向大股东借款议案 公司人士称 “缺钱，但有其他办法”|速读公告](https://www.cls.cn/detail/2377240) _2026-05-20 16:02_
+- [全球最快！12.8T光模块亮相光博会 产业链预研加速 光通信圈热议“超级周期”](https://www.cls.cn/detail/2377226) _2026-05-20 15:56_
+- [三星电子工会暂停罢工计划 与资方达成初步薪资协议](https://www.cls.cn/detail/2377209) _2026-05-20 15:27_
+- [中东冲突传导至饭桌 亚洲基准大米价格升至一年多新高](https://www.cls.cn/detail/2377188) _2026-05-20 14:41_
+- [贝索斯：太空数据中心短期难落地 无需担心AI泡沫](https://www.cls.cn/detail/2377170) _2026-05-20 14:23_
+- [融资6轮 腾讯系小鹅通再闯IPO](https://www.cls.cn/detail/2377150) _2026-05-20 14:07_
+- [祁斌：在人工智能的竞争中不容有失，建议进一步畅通A股市场和香港市场的AI企业上市通道](https://www.cls.cn/detail/2377143) _2026-05-20 13:53_
+- [粮农组织警告：霍尔木兹海峡问题或引发严重的全球粮食价格危机](https://www.cls.cn/detail/2377135) _2026-05-20 13:41_
+- [科创板晚报|长鑫科技IPO将于5月27日上会 华光新材询价转让初步定价60.21元/股](https://www.cls.cn/detail/2377081) _2026-05-20 12:51_
