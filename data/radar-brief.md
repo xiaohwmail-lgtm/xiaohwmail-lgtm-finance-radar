@@ -1,53 +1,53 @@
 # 财经雷达 OPML 简报
-> 生成: 2026-05-23 10:48:45 | 3 源 | 展示 128 条
+> 生成: 2026-05-23 11:54:26 | 3 源 | 展示 106 条
 
 ## 财新网
-- [5月极端降水席卷南北 暴雨为何来得有早又强](https://science.caixin.com/2026-05-23/102447010.html) _2026-05-23 10:40_
-- [山西煤矿瓦斯爆炸事故已致90人遇难 救援工作仍在进行](https://photos.caixin.com/2026-05-23/102446999.html) _2026-05-23 10:31_
-- [国产算力龙头冲刺创业板 超聚变IPO获受理拟募资80亿元](https://finance.caixin.com/2026-05-23/102446991.html) _2026-05-23 09:59_
+- [人事观察｜北大换校长 62岁高松接替61岁龚旗煌](https://china.caixin.com/2026-05-23/102447019.html) _2026-05-23 11:53_
 - [AI的梦，硅谷做了两次，这一次能成真吗？｜带着问题去读书](https://mini.caixin.com/2026-05-23/102446989.html) _2026-05-23 08:35_
 - [61岁正部级徐留平被查 曾长期任职军工系统](https://china.caixin.com/2026-05-23/102446983.html) _2026-05-23 08:19_
-- [广东漠阳江水位持续回落 河道沿岸内涝严重](https://photos.caixin.com/2026-05-23/102446968.html) _2026-05-23 08:07_
 - [创新药延续分化，聚焦关键临床数据｜医药股周报](https://www.caixin.com/2026-05-23/102446964.html) _2026-05-23 07:19_
-- [用数字技术保障公共服务](https://opinion.caixin.com/2026-05-23/102446962.html) _2026-05-23 07:07_
 - [山西沁源县一高瓦斯煤矿爆炸 已致82死9失联](https://china.caixin.com/2026-05-23/102446953.html) _2026-05-23 05:27_
 - [“不死妖僧”拉斯普京｜猎读](https://mini.caixin.com/2026-05-23/102446894.html) _2026-05-23 02:20_
-- [【周刊提前读】楼市浮现积极信号 恢复动能几何？](https://database.caixin.com/2026-05-23/102446821.html) _2026-05-23 00:41_
+- [一周天下｜暴雨洪涝袭击南方三省、普京访华](https://photos.caixin.com/2026-05-23/102446879.html) _2026-05-23 02:03_
+- [【CCI快报】：中国大宗商品指数周跌1.11% 焦煤领跌5.06%](https://database.caixin.com/2026-05-23/102446842.html) _2026-05-23 01:13_
+- [【周刊提前读】入境游悄然升温 如何挖掘万亿级市场](https://database.caixin.com/2026-05-23/102446820.html) _2026-05-23 00:41_
 - [【周刊提前读】一年内新增贷款两度负增长 事出何因？](https://database.caixin.com/2026-05-23/102446819.html) _2026-05-23 00:40_
-- [【周刊提前读】险资加仓商业不动产 交易结构有何看点？](https://database.caixin.com/2026-05-23/102446818.html) _2026-05-23 00:40_
-- [【周刊提前读】城投平台积极盘活数字资产 但是难题不少](https://database.caixin.com/2026-05-23/102446816.html) _2026-05-23 00:39_
+- [【周刊提前读】在政治与独立性之间 新任美联储主席如何抉择](https://database.caixin.com/2026-05-23/102446815.html) _2026-05-23 00:39_
 - [【周刊提前读】深度：国产存储巨头闯关A股 超级周期下估值存争议](https://database.caixin.com/2026-05-23/102446814.html) _2026-05-23 00:38_
+- [【周刊提前读】深度：AI巨头争相上市 中美资本竞逐“船票”](https://database.caixin.com/2026-05-23/102446813.html) _2026-05-23 00:37_
+- [华电集团“一把手”调整 原总经理叶向东升任董事长](https://www.caixin.com/2026-05-22/102446772.html) _2026-05-22 15:05_
+- [港证监提升证券开户标准 内地投资者账户增额外措施](https://finance.caixin.com/2026-05-22/102446746.html) _2026-05-22 13:26_
 
 ## 财联社电报
-- [伊朗议会议长卡利巴夫会见到访的巴基斯坦陆军参谋长穆尼尔](https://api3.cls.cn/share/article/2379825?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-23 10:39_
+- [泽连斯基签署法令制裁俄“影子舰队”及多个个人和实体](https://api3.cls.cn/share/article/2379839?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-23 11:53_
+- [加沙城北部遭以军无人机空袭 已致5人死亡](https://api3.cls.cn/share/article/2379834?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-23 11:37_
+- [闻泰科技声明：安世荷兰声称公司回避与其沟通完全与事实不符](https://api3.cls.cn/share/article/2379833?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-23 11:32_
+- [美伊谈判进展甚微 美国务卿促欧洲盟友参与“B计划”](https://api3.cls.cn/share/article/2379830?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-23 11:15_
 - [商务部部长王文涛：中方支持在MC14工作基础上 尽快推动世贸组织改革进入实质磋商阶段](https://api3.cls.cn/share/article/2379823?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-23 10:31_
 - [卢甘斯克地区学校遭袭死亡人数升至11人](https://api3.cls.cn/share/article/2379822?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-23 10:29_
 - [中国红十字会总会紧急向湖南洪涝灾区追加调拨救灾物资](https://api3.cls.cn/share/article/2379820?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-23 10:19_
-- [伊朗革命卫队称过去24小时有25艘船通过霍尔木兹海峡](https://api3.cls.cn/share/article/2379815?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-23 09:47_
-- [自然资源部与中国气象局联合发布地质灾害气象风险预警](https://api3.cls.cn/share/article/2379814?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-23 09:41_
 - [卡塔尔首相与伊朗外长通电话 讨论地区局势](https://api3.cls.cn/share/article/2379803?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-23 09:22_
-- [财联社5月23日电，黄仁勋表示，内存价格是消费者面临的挑战，希望内存供应商尽快增加产能。](https://api3.cls.cn/share/article/2379801?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-23 09:20_
-- [消息人士：以色列没有参与美伊停火前的讨论](https://api3.cls.cn/share/article/2379799?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-23 09:02_
-- [伊朗民航局否认近期曾发布任何涉及限制航班飞行的警告](https://api3.cls.cn/share/article/2379798?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-23 09:01_
 - [乌干达报告新增3名埃博拉确诊病例](https://api3.cls.cn/share/article/2379792?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-23 08:25_
-- [山西绛县一石灰窑发生工人一氧化碳中毒事件 造成1人死亡 2人重伤](https://api3.cls.cn/share/article/2379791?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-23 08:25_
-- [美国夏威夷州发生6.0级地震](https://api3.cls.cn/share/article/2379789?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-23 08:15_
-- [中华全国总工会党组书记、副主席、书记处第一书记徐留平被查](https://api3.cls.cn/share/article/2379788?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-23 08:01_
 - [海关总署：对铁路、公路运输方式进口煤炭检验实施采信管理](https://api3.cls.cn/share/article/2379786?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-23 07:55_
+- [俄称乌无人机袭击卢甘斯克学校已致10死38伤](https://api3.cls.cn/share/article/2379780?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-23 07:39_
+- [以军称袭击黎巴嫩贝卡谷地的真主党地下设施](https://api3.cls.cn/share/article/2379776?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-23 07:29_
+- [湖南省气象局提升气象灾害（暴雨）三级应急响应为二级](https://api3.cls.cn/share/article/2379732?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-23 03:45_
+- [伊朗警告若再遭袭将开启战斗3.0](https://api3.cls.cn/share/article/2379730?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-23 03:45_
+- [财联社5月23日电，越南国家银行重申推动降低贷款利率的举措，称已准备好提供流动性支持。](https://api3.cls.cn/share/article/2379727?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-23 03:13_
 
 ## 财联社深度
+- [针对留神峪煤矿事故，国务院事故调查组将较真碰硬开展调查](https://www.cls.cn/detail/2379828) _2026-05-23 10:57_
+- [霸王茶姬推出冰激凌业务 茶饮公司纷纷跨界寻增量](https://www.cls.cn/detail/2379826) _2026-05-23 10:49_
 - [肿瘤医药顶级峰会将于下周召开，多家创新药上市公司发布相关公告，机构称会议有望催化板块行情](https://www.cls.cn/detail/2379790) _2026-05-23 08:28_
 - [“一舱难求”再现！多航线货运需求旺盛 业内预计欧美线出货高峰或持续1-2个月](https://www.cls.cn/detail/2379749) _2026-05-23 05:53_
-- [苹果、华为618降价抢份额，业内称手机涨价潮还在后面](https://www.cls.cn/detail/2379751) _2026-05-23 05:51_
-- [“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙](https://www.cls.cn/detail/2379735) _2026-05-23 04:23_
-- [机器人行业资本化加速：一二级市场同步活跃 头部公司量产节奏渐清晰](https://www.cls.cn/detail/2378982) _2026-05-23 00:55_
-- [美伊协议草案或将在数小时内公布](https://www.cls.cn/detail/2379684) _2026-05-23 00:53_
-- [特朗普称希望沃什保持“完全独立”：别看我，也别看任何人！](https://www.cls.cn/detail/2379673) _2026-05-23 00:01_
-- [伊朗外交部称难言协议接近达成 沃什宣誓就任美联储主席 | 环球市场](https://www.cls.cn/detail/2379658) _2026-05-22 22:45_
-- [张坤也减负了！270亿的这只产品增聘，行业为何频见减负动作？](https://www.cls.cn/detail/2379661) _2026-05-22 22:45_
+- [财联社创投通：一级市场本周114起融资环比增加5.56%，辐联科技完成7.5亿元D轮融资](https://www.cls.cn/detail/2379450) _2026-05-23 01:30_
+- [硬科技投向标|长鑫科技科创板IPO下周上会 恒生科技指数纳入MiniMax、智谱](https://www.cls.cn/detail/2379253) _2026-05-23 01:28_
+- [直击科创板智能制造公司业绩会：全球化进程提速 具身智能等领域业务进展受投资者关注](https://www.cls.cn/detail/2379683) _2026-05-23 01:18_
+- [【早报】8部门出手，整治非法跨境证券期货基金经营活动；证监会拟对老虎、富途、长桥依法严厉处罚](https://www.cls.cn/detail/2379666) _2026-05-22 23:00_
+- [“大鸽派”沃勒倒戈！美联储风向突变 加息概率骤然飙升](https://www.cls.cn/detail/2379600) _2026-05-22 16:38_
 - [六家上市公司同日被警示：五家涉信披违规 一家业绩“变脸”](https://www.cls.cn/detail/2379566) _2026-05-22 15:30_
 - [美国5月消费者信心创历史新低 高油价与战争忧虑推升通胀预期](https://www.cls.cn/detail/2379560) _2026-05-22 15:09_
-- [安世控制权争夺战升级！*ST闻泰提起诉讼获受理 索赔80亿并要求恢复控制权](https://www.cls.cn/detail/2379556) _2026-05-22 15:06_
-- [安世控制权争夺战升级！*ST闻泰提起诉讼获受理 索赔80亿并要求恢复控制权|速读公告](https://www.cls.cn/detail/2379556) _2026-05-22 15:06_
-- [SpaceX、OpenAI冲刺超级IPO 分析人士警告：这或许是市场见顶信号](https://www.cls.cn/detail/2379506) _2026-05-22 13:45_
-- [富途控股：拟被罚款总额约为18.5亿元](https://www.cls.cn/detail/2379489) _2026-05-22 13:23_
+- [本川智能：去年PCB产销率近95% 机器人定制板与AI服务器陶瓷基板双线推进|直击业绩会](https://www.cls.cn/detail/2379516) _2026-05-22 13:57_
+- [重组方案几经调整 哈森股份拟2.9亿元收购郎克斯股权|速读公告](https://www.cls.cn/detail/2379444) _2026-05-22 12:44_
+- [结束“地量”操作！央行25日开展6000亿元MLF操作 5月下旬流动性扰动因素增加](https://www.cls.cn/detail/2379429) _2026-05-22 12:39_
+- [结束“地量”操作！央行25日开展6000亿元MLF操作](https://www.cls.cn/detail/2379429) _2026-05-22 12:39_
