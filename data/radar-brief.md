@@ -1,53 +1,53 @@
 # 财经雷达 OPML 简报
-> 生成: 2026-05-25 07:03:26 | 3 源 | 展示 142 条
+> 生成: 2026-05-25 11:33:15 | 3 源 | 展示 132 条
 
 ## 财联社电报
+- [嘉友国际：拟以5000万元至1亿元回购股份](https://api3.cls.cn/share/article/2380946?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-25 11:28_
+- [财联社5月25日电，巴西12个月通胀率预计为4.07%，此前预计为3.95%。](https://api3.cls.cn/share/article/2380945?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-25 11:27_
+- [卡塔尔媒体：霍尔木兹海峡将分阶段开放](https://api3.cls.cn/share/article/2380941?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-25 11:20_
+- [珍宝岛药业完成管理层换届 步入“战略+运营”双核治理新阶段](https://api3.cls.cn/share/article/2380936?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-25 11:19_
+- [中航重机：拟询价转让上大股份不超过1673万股](https://api3.cls.cn/share/article/2380940?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-25 11:19_
+- [深圳常住人口首破1800万 去年增量居全国城市首位](https://api3.cls.cn/share/article/2380939?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-25 11:18_
+- [财联社5月25日电，利弗莫尔证券显示，浙江金龙电机股份有限公司在港交所递交上市申请，日进资本有限公司为独家保荐人。](https://api3.cls.cn/share/article/2380938?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-25 11:18_
+- [沐曦股份与迈富时签署战略合作协议](https://api3.cls.cn/share/article/2380937?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-25 11:18_
+- [抖音：AI求真大模型让谣言传播窗口期显著缩短](https://api3.cls.cn/share/article/2380931?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-25 11:12_
+- [财联社5月25日电，中韩半导体ETF华泰柏瑞(513310)将于2026年5月26日开市起至当日10:30停牌。](https://api3.cls.cn/share/article/2380927?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-25 11:10_
+- [国内商品期货收盘涨跌不一 焦煤、焦炭涨停](https://api3.cls.cn/share/article/2380596?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-25 07:00_
 - [中芯国际尾盘触及20cm涨停续创历史新高 A+H股总市值突破7300亿](https://api3.cls.cn/share/article/2380589?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-25 06:51_
 - [创业板指涨逾2% 上涨个股近2200只](https://api3.cls.cn/share/article/2380584?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-25 06:49_
 - [沪深两市成交额超3万亿 较上一日此时放量超2900亿](https://api3.cls.cn/share/article/2380579?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-25 06:47_
-- [财联社5月25日电，日本4月份芯片制造设备出货量同比增长14.1%。](https://api3.cls.cn/share/article/2380578?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-25 06:42_
-- [外交部就中美元首会晤涉日本问题报道答记者问：你提到的内容与中方掌握情况不符](https://api3.cls.cn/share/article/2380572?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-25 06:36_
-- [四环生物午后触及涨停上演“地天板” 成交超10亿元](https://api3.cls.cn/share/article/2380570?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-25 06:33_
-- [外交部：中国军队开展活动一贯符合国际法和国际惯例](https://api3.cls.cn/share/article/2380565?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-25 06:32_
-- [外交部：敦促德方有关人士恪守一个中国原则 停止向“台独”分裂势力发出错误信号](https://api3.cls.cn/share/article/2380566?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-25 06:32_
-- [外交部谈《不扩散核武器条约》审议大会未能通过成果文件：中方对此感到遗憾](https://api3.cls.cn/share/article/2380563?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-25 06:27_
-- [中国暂停向日本出口部分稀土产品 外交部：依法依规，制止日本拥核企图](https://api3.cls.cn/share/article/2380560?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-25 06:25_
-- [马来西亚一钻井平台发生安全事故 已致3死1伤](https://api3.cls.cn/share/article/2380370?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-25 02:32_
-- [【研选•行业数据】伴随电子、半导体超级周期启动，MLCC行业迎来“爆发时刻”](https://api3.cls.cn/share/article/2380336?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-25 02:25_
-- [沪深两市成交额突破1.5万亿 较上一日此时放量超2100亿](https://api3.cls.cn/share/article/2380366?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-25 02:25_
-- [汇川技术：已根据原材料价格上涨情况进行价格调整 工业自动化领域价格传导较顺利](https://api3.cls.cn/share/article/2380362?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-25 02:15_
-- [财联社5月25日电，泰铢兑美元升至32.400，为5月15日以来的最高水平。](https://api3.cls.cn/share/article/2380361?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-25 02:14_
+- [实名购药、严禁AI替代审方 《处方药网络零售合规指南》发布](https://api3.cls.cn/share/article/2380575?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-25 06:37_
 
 ## 财联社深度
-- [日股首次升破65000点 华尔街热议：仍有进一步上涨空间](https://www.cls.cn/detail/2380533) _2026-05-25 06:28_
-- [留给日韩的时间不多了！6月大限将至 “石脑油危机”恐彻底引爆？](https://www.cls.cn/detail/2380527) _2026-05-25 06:22_
-- [港股空头退潮信号显现 腾讯卖空金额从32亿港元骤降至8.66亿](https://www.cls.cn/detail/2380512) _2026-05-25 05:49_
-- [全球Token消耗量持续攀升 DeepSeek大模型登顶调用榜](https://www.cls.cn/detail/2380489) _2026-05-25 05:25_
-- [从投资避风港到动荡前沿，战火燎绕下中东人工智能和数据中心前景如何？](https://www.cls.cn/detail/2380475) _2026-05-25 05:21_
-- [华为首提半导体演进新原则 目标2031年实现1.4纳米等效性能](https://www.cls.cn/detail/2380476) _2026-05-25 05:03_
-- [美股涨势如虹！小摩喊出9000点目标价：AI超级周期或比想象更牛](https://www.cls.cn/detail/2380445) _2026-05-25 04:50_
-- [资管周报：理财估值再现平滑“隐蔽魔术”，券商投顾成新通道；基金销售结算新规5月底落地，中小银行冲刺系统整改](https://www.cls.cn/detail/2380434) _2026-05-25 04:05_
-- [高市内阁最新支持率公布](https://www.cls.cn/detail/2380440) _2026-05-25 03:56_
-- [美股最强50| AI时代的“数字地基”MongoDB，暴跌之后迎来布局机会？](https://www.cls.cn/detail/2380369) _2026-05-25 02:34_
-- [油价未来走势如何？分析师：不会很快跌到战前](https://www.cls.cn/detail/2380342) _2026-05-25 02:18_
-- [华为：今年秋季面世的麒麟手机芯片性能将大幅提升](https://www.cls.cn/detail/2380350) _2026-05-25 02:07_
-- [直击和辉光电股东会：“一把手”完成交接 华虹半导体前董事长唐均君接任](https://www.cls.cn/detail/2380340) _2026-05-25 02:00_
-- [再刷新高！日经225指数首破65000点 投资者相信美伊战争即将结束](https://www.cls.cn/detail/2380318) _2026-05-25 01:49_
-- [科技股集体回暖，PCB概念强势爆发，关注AI硬件产业链轮动机会](https://www.cls.cn/detail/2380302) _2026-05-25 01:17_
+- [富途老虎长桥遭重罚后，赴港投资资金未来流向哪里？](https://www.cls.cn/detail/2380932) _2026-05-25 11:14_
+- [“A股账户如何投港美股”，成了券商的热门业务贴](https://www.cls.cn/detail/2380914) _2026-05-25 10:58_
+- [追觅科技官宣C罗出任全球代言人](https://www.cls.cn/detail/2380908) _2026-05-25 10:56_
+- [德国投资环境亮红灯：外商新投资项目创2009年以来新低](https://www.cls.cn/detail/2380909) _2026-05-25 10:52_
+- [高盛：恒指季检将推动指数市值提升4.5% 这些股票将迎资金流入](https://www.cls.cn/detail/2380843) _2026-05-25 10:23_
+- [长鑫科技这笔IPO，承销保荐费能赚几个亿？跟投更带来隐形收益](https://www.cls.cn/detail/2380881) _2026-05-25 10:20_
+- [8000亿债券ETF市场迎利好，参与质押回购范围扩大，优质担保品地位明确](https://www.cls.cn/detail/2380853) _2026-05-25 10:16_
+- [腾讯、红杉中国押注 估值31.5亿元的硅基智能冲刺港股数字人第一股](https://www.cls.cn/detail/2380847) _2026-05-25 09:59_
+- [收购消息引爆股价！优步据悉将提高报价竞购德国Delivery Hero](https://www.cls.cn/detail/2380769) _2026-05-25 09:47_
+- [板块成交额突破万亿！电子股持续“吸金”，涨停股中占比两成，哪些标的为“常客”？](https://www.cls.cn/detail/2380804) _2026-05-25 09:46_
+- [【数据看盘】沪深300ETF连续三周份额缩减 超10亿元资金买入科创芯片龙头股](https://www.cls.cn/detail/2380808) _2026-05-25 09:45_
+- [阿联酋ADNOC船队“暗航”通过霍尔木兹 悄然把油气运出波斯湾](https://www.cls.cn/detail/2380771) _2026-05-25 09:19_
+- [海外研选日报0525 | 高盛：美联储大幅缩表门槛仍然很高](https://www.cls.cn/detail/2380762) _2026-05-25 09:15_
+- [【每日收评】科创50指数放量涨近6%，芯片产业链卷土重来，AI硬件反复活跃](https://www.cls.cn/detail/2380739) _2026-05-25 08:49_
+- [联储证券是如何被董事长与大股东掏走30亿的？即将对簿公堂](https://www.cls.cn/detail/2380689) _2026-05-25 08:10_
 
 ## 财新网
+- [【市场动态】软银集团股价创历史新高 受OpenAI的IPO预期提振](https://database.caixin.com/2026-05-25/102447373.html) _2026-05-25 09:59_
+- [【市场动态】油价下挫 美国宣扬在重开霍尔木兹海峡协议方面的进展](https://database.caixin.com/2026-05-25/102447377.html) _2026-05-25 09:53_
+- [【市场动态】高盛、巴克莱等警告：即使伊朗战争结束 收益率仍将居高不下](https://database.caixin.com/2026-05-25/102447375.html) _2026-05-25 09:51_
+- [DeepSeek-V4-Pro宣布API价格永久降价为原定价的四分之一 能否再掀模型价格战？](https://www.caixin.com/2026-05-25/102447362.html) _2026-05-25 09:34_
+- [历史褶皱处的影像先声：《赤龙》影视改编潜力探析](https://mini.caixin.com/2026-05-25/102447310.html) _2026-05-25 08:13_
 - [刚性负债陷阱：从会计恒等式看透债务问题](https://opinion.caixin.com/2026-05-25/102447273.html) _2026-05-25 05:57_
-- [特稿｜北方地区雾霾反弹 警示大气治理尚需爬坡](https://china.caixin.com/2026-05-25/102447267.html) _2026-05-25 05:33_
+- [陈燕妮：此去格陵兰之粮草先行](https://mini.caixin.com/2026-05-25/102447231.html) _2026-05-25 05:01_
 - [【今日热点】芯片产业链集体爆发 油气股跌幅居前](https://database.caixin.com/2026-05-25/102447218.html) _2026-05-25 04:44_
-- [超重和肥胖何以成为问题？｜营养过剩①](https://mini.caixin.com/2026-05-25/102447213.html) _2026-05-25 04:18_
+- [营养过剩（连载中）](https://key.caixin.com/topic/BQ02.000008016) _2026-05-25 04:12_
+- [高度拟人又正经胡说的AI：离法律责任承担还有多远](https://opinion.caixin.com/2026-05-25/102447210.html) _2026-05-25 04:10_
 - [能源内参｜特朗普称美伊协议“基本谈成”；中铝拟10亿美元在几内亚建氧化铝产线](https://www.caixin.com/2026-05-25/102447206.html) _2026-05-25 04:03_
 - [李宁、安踏、特步、361°……中国运动品牌如何一路走来？｜带着问题去读书](https://mini.caixin.com/2026-05-25/102447180.html) _2026-05-25 03:02_
-- [【市场动态】美国官员称逐步接近与伊朗达成协议 谈判聚焦于霍尔木兹海峡问题](https://database.caixin.com/2026-05-25/102447182.html) _2026-05-25 02:55_
-- [美债风险“重估”：未完待续](https://opinion.caixin.com/2026-05-25/102447178.html) _2026-05-25 02:54_
-- [票房｜《给阿嬷的情书》观影人次超3000万于和伟、黄渤新片票房滑铁卢](https://www.caixin.com/2026-05-25/102447174.html) _2026-05-25 02:17_
-- [财新闻｜专门针对中国用户，“银狐”木马病毒出现新变种，官方预警](https://mini.caixin.com/2026-05-25/102447171.html) _2026-05-25 01:45_
-- [【市场动态】印尼副贸易部长称政府将很快发布大宗商品出口新规的更多细节](https://database.caixin.com/2026-05-25/102447166.html) _2026-05-25 01:24_
+- [【市场动态】新加坡第一季度经济表现远超预期 人工智能热潮提振电子产品出口](https://database.caixin.com/2026-05-25/102447190.html) _2026-05-25 02:40_
+- [今日开盘：两市双双高开 沪指涨幅0.33%](https://finance.caixin.com/2026-05-25/102447168.html) _2026-05-25 01:29_
 - [【商圈】徐留平被查 “霸道总裁”的汽车改革往事](https://database.caixin.com/2026-05-25/102447161.html) _2026-05-25 01:12_
-- [GPT周报｜腾讯推出AI助手Marvis；字节火山引擎上线一站式AIGC短剧平台；OpenAI将在新加坡开设第一个海外AI实验室；谷歌Gemini发布3.5模型](https://www.caixin.com/2026-05-25/102447152.html) _2026-05-25 00:41_
-- [T早报｜闻泰科技在广东起诉安世荷兰；AI需求爆发促联想一季度营收增长27%；DeepSeek-V4上线并开源；神舟二十三号载人飞船发射升空](https://www.caixin.com/2026-05-25/102447147.html) _2026-05-25 00:23_
-- [物业服务：从边缘到潮头｜构建房地产新模式（17）](https://opinion.caixin.com/2026-05-25/102447142.html) _2026-05-24 23:57_
