@@ -1,53 +1,53 @@
 # 财经雷达 OPML 简报
-> 生成: 2026-05-26 22:48:41 | 3 源 | 展示 138 条
+> 生成: 2026-05-26 23:57:16 | 3 源 | 展示 129 条
 
 ## 财联社电报
+- [财联社5月27日电，日本4月企业服务价格指数同比上升3%，前值3.10%。](https://api3.cls.cn/share/article/2382325?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-26 23:51_
+- [湖南印发烟花爆竹生产企业复工复产工作方案](https://api3.cls.cn/share/article/2382324?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-26 23:49_
+- [今日申购指南及新股定位分析](https://api3.cls.cn/share/article/2382318?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-26 23:32_
+- [A股限售股解禁一览：6.68亿元市值限售股今日解禁](https://api3.cls.cn/share/article/2382319?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-26 23:31_
+- [“应退尽退”成常态 近日多家公司触及退市红线](https://api3.cls.cn/share/article/2382311?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-26 23:21_
+- [新加坡外长时隔8年再次到访朝鲜](https://api3.cls.cn/share/article/2382300?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-26 23:04_
+- [中央气象台继续发布暴雨黄色预警](https://api3.cls.cn/share/article/2382298?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-26 22:58_
+- [对柔性软体机械臂的有效控制首次实现](https://api3.cls.cn/share/article/2382296?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-26 22:53_
+- [可探测皮肤癌早期征兆的智能纳米探针制成](https://api3.cls.cn/share/article/2382295?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-26 22:52_
 - [财联社5月27日电，现货黄金从日内低点反弹至4500美元，日内下跌0.16%。](https://api3.cls.cn/share/article/2382289?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-26 22:40_
+- [AI眼镜新品频发 产业链追“光”逐“芯”](https://api3.cls.cn/share/article/2382287?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-26 22:31_
 - [这些码不能随便扫 国家安全部提示](https://api3.cls.cn/share/article/2382286?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-26 22:27_
+- [中巴ETF互通落地一周年，上交所举办巴西专场路演深化跨境合作](https://api3.cls.cn/share/article/2382285?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-26 22:25_
+- [伊朗官员：美国处于“请求”与伊朗达成协议的地位](https://api3.cls.cn/share/article/2382283?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-26 22:12_
 - [CME“美联储观察”：美联储6月维持利率不变的概率为99.2%](https://api3.cls.cn/share/article/2382281?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-26 22:05_
-- [财联社5月27日电，网络安全服务提供商Zscaler股价盘后暴跌19%，公司第四季度业绩指引疲软。](https://api3.cls.cn/share/article/2382279?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-26 21:42_
-- [MiMo-V2.5系列API永久降价 最高降幅达99%](https://api3.cls.cn/share/article/2382278?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-26 21:36_
-- [财联社5月27日电，富时A50期指连续夜盘收跌0.35%，报15729点。](https://api3.cls.cn/share/article/2382276?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-26 21:20_
-- [特朗普：内阁会议将由戴维营改至白宫举行](https://api3.cls.cn/share/article/2382275?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-26 21:12_
-- [初步评估显示哈马斯新任军事领导人被打死](https://api3.cls.cn/share/article/2382274?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-26 21:11_
-- [财联社5月27日电，富时罗素表示，符合条件的快速准入IPO将在初始上市后第五个交易日收盘后纳入。SpaceX将被独立审查以决定是否纳入指数。](https://api3.cls.cn/share/article/2382267?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-26 20:21_
-- [纳斯达克中国金龙指数收涨0.57%](https://api3.cls.cn/share/article/2382265?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-26 20:02_
-- [美股三大股指收盘涨跌不一 美光市值突破万亿美元大关](https://api3.cls.cn/share/article/2382264?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-26 20:00_
-- [财联社5月27日电，SpaceX获得美国太空军22.9亿美元合同，用于建设军事太空数据网络。](https://api3.cls.cn/share/article/2382263?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-26 19:50_
-- [美伊谈判关键之际 特朗普与内塔尼亚胡通话](https://api3.cls.cn/share/article/2382261?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-26 19:43_
-- [俄法院裁定欧洲清算银行立即向俄央行赔偿约2000亿欧元](https://api3.cls.cn/share/article/2382260?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-26 19:25_
-- [以色列称袭击哈马斯新任军事领导人](https://api3.cls.cn/share/article/2382259?os=web&sv=8.4.6&app=CailianpressWeb) _2026-05-26 19:14_
 
 ## 财联社深度
+- [中国民用航空局局长：推动低空经济健康有序发展](https://www.cls.cn/detail/2382301) _2026-05-26 23:32_
+- [【早报】兆易创新、沪电股份等热门股发布重要公告](https://www.cls.cn/detail/2382303) _2026-05-26 23:00_
+- [美国公布最新月球基地建设路线图](https://www.cls.cn/detail/2382272) _2026-05-26 21:19_
 - [从周期股到AI新王者！美光科技跻身万亿美元俱乐部](https://www.cls.cn/detail/2382213) _2026-05-26 16:16_
+- [1.89亿！富创精密拟收购上海日扬65%股权 切入半导体真空阀赛道](https://www.cls.cn/detail/2382225) _2026-05-26 16:15_
 - [月活破4亿、时长同比增长43% 小红书加码中长视频赛道](https://www.cls.cn/detail/2382224) _2026-05-26 16:11_
-- [子公司签下60亿元算力协议 盛视科技上月称拟购买不超71亿元资产|速读公告](https://www.cls.cn/detail/2382180) _2026-05-26 15:10_
 - [礼来豪掷38亿美元连吞三家公司 抢跑下一轮全球疫苗竞赛](https://www.cls.cn/detail/2382181) _2026-05-26 15:09_
 - [摩根大通：市场高估了央行加息风险 低波动股票或受益](https://www.cls.cn/detail/2382175) _2026-05-26 14:42_
-- [石油巨头BP因治理问题罢免董事长 股价盘中跌逾4%](https://www.cls.cn/detail/2382176) _2026-05-26 14:42_
+- [钛能化学“大手笔”推出1.9亿股员工持股计划 覆盖约200名核心员工|速读公告](https://www.cls.cn/detail/2382161) _2026-05-26 14:22_
 - [以军战机误炸以色列南部](https://www.cls.cn/detail/2382146) _2026-05-26 13:55_
-- [涉嫌信披违法违规林州重机被立案调查 曾因业绩“变脸”收监管函|速读公告](https://www.cls.cn/detail/2382139) _2026-05-26 13:43_
-- [港股风向标｜资金面放量恒指震荡整理 地缘等宏观风险影响力攀升](https://www.cls.cn/detail/2382122) _2026-05-26 13:40_
-- [淡季不淡！散运市场走强 铁矿、铝土矿需求或支撑H2行情](https://www.cls.cn/detail/2382124) _2026-05-26 13:30_
+- [深度|多银行加入基金严选赛道竞逐 业内：“必须要做了，有没有劣势不重要”](https://www.cls.cn/detail/2382120) _2026-05-26 13:49_
+- [科创板晚报|仕佳光子终止购买福可喜玛通讯公司 甬矽电子2.5D封装产品线正送样验证中](https://www.cls.cn/detail/2382100) _2026-05-26 13:01_
+- [老虎、富途被罚跨境买港险引热议 违规营销仍存 “地下保单”触红线](https://www.cls.cn/detail/2382087) _2026-05-26 12:48_
 - [海外研选 | 高盛：AI与“大而美”法案将推动美国资本开支强劲增长](https://www.cls.cn/detail/2382014) _2026-05-26 12:44_
-- [广州商转公新政落地，一线城市试水“商转组合贷”，存量置换压力对不同银行冲击不一](https://www.cls.cn/detail/2382070) _2026-05-26 12:26_
-- [专访|蔡司谢磊：不仅深耕长三角与大湾区，还要与中国企业一起走出去](https://www.cls.cn/detail/2382062) _2026-05-26 12:24_
-- [一季度“增收不增利” 小米汽车：全年销量目标不变](https://www.cls.cn/detail/2382060) _2026-05-26 12:21_
-- [AI概念彻底引爆诺基亚：美股股价年内翻倍 估值争议同步升温](https://www.cls.cn/detail/2382045) _2026-05-26 12:16_
+- [第一大股东近期累计减持633万股 3700亿存储芯片龙头发布异动公告|盘后公告集锦](https://www.cls.cn/detail/2382076) _2026-05-26 12:32_
 
 ## 财新网
-- [人事观察｜北京交大换校长 准“80后”刘攀接替57岁余祖俊](https://china.caixin.com/2026-05-26/102447695.html) _2026-05-26 12:30_
+- [【商圈】黎家盈：从计算机博士到香港首位航天员](https://database.caixin.com/2026-05-27/102447556.html) _2026-05-26 23:00_
+- [财经早知道｜深圳常住人口首破1800万，增量领跑全国](https://finance.caixin.com/2026-05-27/102447740.html) _2026-05-26 22:59_
+- [小米一季度净利润下跌43% 手机、汽车出货均不及预期](https://www.caixin.com/2026-05-26/102447727.html) _2026-05-26 14:40_
+- [菲律宾在建酒店坍塌 致4死17失踪](https://photos.caixin.com/2026-05-26/102447716.html) _2026-05-26 13:42_
+- [美伊启动多哈谈判 伊朗南部地区再遭美军袭击](https://international.caixin.com/2026-05-26/102447687.html) _2026-05-26 12:09_
 - [香港医生夫妇超市盗窃 定罪后遭医委会停牌4个月](https://china.caixin.com/2026-05-26/102447683.html) _2026-05-26 11:41_
 - [QDII额度受限 投资海外基金溢价率集体抬升](https://finance.caixin.com/2026-05-26/102447647.html) _2026-05-26 09:33_
-- [【市场动态】中东动荡重塑贸易流向 哈萨克斯坦斥资百亿美元提升中欧跨里海铁路](https://database.caixin.com/2026-05-26/102447629.html) _2026-05-26 09:10_
-- [【市场动态】不满奖金悬殊过大 三星非芯片部门员工寻求法院阻止初步协议的表决](https://database.caixin.com/2026-05-26/102447631.html) _2026-05-26 08:54_
-- [【市场动态】印尼黄金矿商Merdeka据悉计划通过罕见途径在香港上市](https://database.caixin.com/2026-05-26/102447633.html) _2026-05-26 08:46_
+- [脂肪与肥胖｜营养过剩②](https://mini.caixin.com/2026-05-26/102447627.html) _2026-05-26 08:56_
 - [特稿｜穿山甲非法贸易难禁绝 濒危动物药材寻找替代品](https://science.caixin.com/2026-05-26/102447614.html) _2026-05-26 07:11_
+- [从“进入市场”到“进入人心”：怎么讲故事｜出海远见](https://opinion.caixin.com/2026-05-26/102447613.html) _2026-05-26 07:05_
 - [消费“向下”地产“向上”：人口流动如何重新配置需求](https://opinion.caixin.com/2026-05-26/102447598.html) _2026-05-26 06:48_
-- [三方财富公司的兴衰与中国式影子银行](https://opinion.caixin.com/2026-05-26/102447595.html) _2026-05-26 06:12_
-- [【权益周观察】结构性行情愈加极致 高位科技股周中杀跌](https://database.caixin.com/2026-05-26/102447589.html) _2026-05-26 05:46_
 - [美国拟调整移民政策 绿卡申请者被要求必须离境申请](https://international.caixin.com/2026-05-26/102447571.html) _2026-05-26 05:02_
-- [黄金该翻空了吗](https://opinion.caixin.com/2026-05-26/102447569.html) _2026-05-26 04:45_
-- [【市场动态】主要铝土矿供应国几内亚将于6月公布出口控制措施](https://database.caixin.com/2026-05-26/102447493.html) _2026-05-26 01:58_
+- [【市场动态】天主教宗敦促领导人勿借战争转移选民对国内问题的注意力](https://database.caixin.com/2026-05-26/102447498.html) _2026-05-26 02:23_
+- [从传统基建到前沿技术：中国与“塞铁”将重塑升级合作](https://opinion.caixin.com/2026-05-26/102447490.html) _2026-05-26 01:47_
 - [财新闻｜宇树科技科创板IPO将于6月1日上会](https://mini.caixin.com/2026-05-26/102447486.html) _2026-05-26 01:30_
-- [今日开盘：两市双双低开 沪指跌幅0.37%](https://finance.caixin.com/2026-05-26/102447485.html) _2026-05-26 01:29_
