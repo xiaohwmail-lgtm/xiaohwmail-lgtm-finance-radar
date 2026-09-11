@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-09-11T06:13:55.132582Z",
+  "generated_at": "2026-09-11T15:30:59.030201Z",
   "window_hours": 24,
-  "total_items": 142,
-  "total_items_signal_raw": 164,
-  "total_items_raw": 2362,
-  "total_items_all_mode": 2086,
+  "total_items": 170,
+  "total_items_signal_raw": 183,
+  "total_items_raw": 3087,
+  "total_items_all_mode": 2770,
   "topic_filter": "finance_relevance_scoring_v1_0",
   "finance_relevance_threshold": 0.55,
-  "archive_total": 63817,
+  "archive_total": 62981,
   "site_count": 5,
-  "source_count": 8,
+  "source_count": 7,
   "site_stats": [
-    {
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "count": 51,
-      "raw_count": 2221
-    },
     {
       "site_id": "finance_caixin",
       "site_name": "财新网",
-      "count": 50,
-      "raw_count": 50
+      "count": 68,
+      "raw_count": 68
+    },
+    {
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "count": 62,
+      "raw_count": 2950
     },
     {
       "site_id": "finance_reuters",
@@ -32,8 +32,8 @@
     {
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
-      "count": 1,
-      "raw_count": 51
+      "count": 0,
+      "raw_count": 29
     },
     {
       "site_id": "finance_rss",
@@ -44,6 +44,690 @@
   ],
   "items": [
     {
+      "id": "9b2dbac886c948db9a519cc07263bc01f6bb893d",
+      "site_id": "finance_caixin",
+      "site_name": "财新网",
+      "source": "财新网",
+      "title": "贪污受贿1.76亿元 上实集团原总裁周军一审被判死缓",
+      "url": "https://companies.caixin.com/2026-09-11/102484181.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经相关",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_caixin"
+      ],
+      "finance_noise": [],
+      "title_original": "贪污受贿1.76亿元 上实集团原总裁周军一审被判死缓",
+      "title_en": null,
+      "title_zh": "贪污受贿1.76亿元 上实集团原总裁周军一审被判死缓",
+      "title_bilingual": "贪污受贿1.76亿元 上实集团原总裁周军一审被判死缓"
+    },
+    {
+      "id": "40fdd0150b10160131f40f43b883342bd6e8c135",
+      "site_id": "finance_caixin",
+      "site_name": "财新网",
+      "source": "财新网",
+      "title": "招行原副行长施顺华退休三年半后被查 曾主管对公业务",
+      "url": "https://finance.caixin.com/2026-09-11/102484173.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经综合",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_caixin"
+      ],
+      "finance_noise": [],
+      "title_original": "招行原副行长施顺华退休三年半后被查 曾主管对公业务",
+      "title_en": null,
+      "title_zh": "招行原副行长施顺华退休三年半后被查 曾主管对公业务",
+      "title_bilingual": "招行原副行长施顺华退休三年半后被查 曾主管对公业务"
+    },
+    {
+      "id": "f2c180a6fb1c2b17bf72e6cc1f4941085c2a6e29",
+      "site_id": "finance_caixin",
+      "site_name": "财新网",
+      "source": "财新网",
+      "title": "美国8月CPI环比增速反弹 美联储9月加息概率跳升至85%",
+      "url": "https://international.caixin.com/2026-09-11/102484167.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "宏观政策",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "cpi",
+        "加息",
+        "美联储"
+      ],
+      "finance_noise": [],
+      "title_original": "美国8月CPI环比增速反弹 美联储9月加息概率跳升至85%",
+      "title_en": null,
+      "title_zh": "美国8月CPI环比增速反弹 美联储9月加息概率跳升至85%",
+      "title_bilingual": "美国8月CPI环比增速反弹 美联储9月加息概率跳升至85%"
+    },
+    {
+      "id": "243e3d72ca38e523fe06ecafd252ecec14f2c2ab",
+      "site_id": "finance_caixin",
+      "site_name": "财新网",
+      "source": "财新网",
+      "title": "中央纪委、财政部通报隐性债务问责案例 原地市一把手被点名",
+      "url": "https://economy.caixin.com/2026-09-11/102484160.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经综合",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_caixin"
+      ],
+      "finance_noise": [],
+      "title_original": "中央纪委、财政部通报隐性债务问责案例 原地市一把手被点名",
+      "title_en": null,
+      "title_zh": "中央纪委、财政部通报隐性债务问责案例 原地市一把手被点名",
+      "title_bilingual": "中央纪委、财政部通报隐性债务问责案例 原地市一把手被点名"
+    },
+    {
+      "id": "797221708f4cb11bd43287e2239042020e088674",
+      "site_id": "finance_caixin",
+      "site_name": "财新网",
+      "source": "财新网",
+      "title": "人事观察｜清华工学博士王崧履新郑州市委书记",
+      "url": "https://china.caixin.com/2026-09-11/102484155.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经相关",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_caixin"
+      ],
+      "finance_noise": [],
+      "title_original": "人事观察｜清华工学博士王崧履新郑州市委书记",
+      "title_en": null,
+      "title_zh": "人事观察｜清华工学博士王崧履新郑州市委书记",
+      "title_bilingual": "人事观察｜清华工学博士王崧履新郑州市委书记"
+    },
+    {
+      "id": "da9da9a56384782fb19df3fde1ac99f73b70f08a",
+      "site_id": "finance_caixin",
+      "site_name": "财新网",
+      "source": "财新网",
+      "title": "视线｜8天内3头白鲸死亡 跨国转运与加拿大62年白鲸圈养历史的终结",
+      "url": "https://photos.caixin.com/2026-09-11/102484119.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经相关",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_caixin"
+      ],
+      "finance_noise": [],
+      "title_original": "视线｜8天内3头白鲸死亡 跨国转运与加拿大62年白鲸圈养历史的终结",
+      "title_en": null,
+      "title_zh": "视线｜8天内3头白鲸死亡 跨国转运与加拿大62年白鲸圈养历史的终结",
+      "title_bilingual": "视线｜8天内3头白鲸死亡 跨国转运与加拿大62年白鲸圈养历史的终结"
+    },
+    {
+      "id": "c8965befc078826f71d66a1ee2f344b9f94c4253",
+      "site_id": "finance_caixin",
+      "site_name": "财新网",
+      "source": "财新网",
+      "title": "两名落马中管干部被“双开”并移送司法",
+      "url": "https://china.caixin.com/2026-09-11/102484114.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经相关",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_caixin"
+      ],
+      "finance_noise": [],
+      "title_original": "两名落马中管干部被“双开”并移送司法",
+      "title_en": null,
+      "title_zh": "两名落马中管干部被“双开”并移送司法",
+      "title_bilingual": "两名落马中管干部被“双开”并移送司法"
+    },
+    {
+      "id": "8d598384ce48ca24409669f9deb275ccccc4cc80",
+      "site_id": "finance_caixin",
+      "site_name": "财新网",
+      "source": "财新网",
+      "title": "儿童癌症用药的可得性｜疾辨",
+      "url": "https://opinion.caixin.com/2026-09-11/102484105.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经相关",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_caixin"
+      ],
+      "finance_noise": [],
+      "title_original": "儿童癌症用药的可得性｜疾辨",
+      "title_en": null,
+      "title_zh": "儿童癌症用药的可得性｜疾辨",
+      "title_bilingual": "儿童癌症用药的可得性｜疾辨"
+    },
+    {
+      "id": "aa252de7cc589c140aee8099ca0e6b1c6a4ba269",
+      "site_id": "finance_caixin",
+      "site_name": "财新网",
+      "source": "财新网",
+      "title": "陆朝阳：量子计算暂时无法用于大模型、金融领域不应过度狂热",
+      "url": "https://www.caixin.com/2026-09-11/102484100.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经综合",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_caixin"
+      ],
+      "finance_noise": [],
+      "title_original": "陆朝阳：量子计算暂时无法用于大模型、金融领域不应过度狂热",
+      "title_en": null,
+      "title_zh": "陆朝阳：量子计算暂时无法用于大模型、金融领域不应过度狂热",
+      "title_bilingual": "陆朝阳：量子计算暂时无法用于大模型、金融领域不应过度狂热"
+    },
+    {
+      "id": "16abc88cd29225c0ec42e8b1540593aba4c8c6f2",
+      "site_id": "finance_caixin",
+      "site_name": "财新网",
+      "source": "财新网",
+      "title": "智能体生意仍在早期 卡点何在？",
+      "url": "https://www.caixin.com/2026-09-11/102484094.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经相关",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_caixin"
+      ],
+      "finance_noise": [],
+      "title_original": "智能体生意仍在早期 卡点何在？",
+      "title_en": null,
+      "title_zh": "智能体生意仍在早期 卡点何在？",
+      "title_bilingual": "智能体生意仍在早期 卡点何在？"
+    },
+    {
+      "id": "8e21f5c62311488032f3e8f25857f89f575e5d6f",
+      "site_id": "finance_caixin",
+      "site_name": "财新网",
+      "source": "财新网",
+      "title": "下周前瞻：美日央行分别议息；第20届亚运会开幕",
+      "url": "https://china.caixin.com/2026-09-11/102484080.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "宏观政策",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "央行"
+      ],
+      "finance_noise": [],
+      "title_original": "下周前瞻：美日央行分别议息；第20届亚运会开幕",
+      "title_en": null,
+      "title_zh": "下周前瞻：美日央行分别议息；第20届亚运会开幕",
+      "title_bilingual": "下周前瞻：美日央行分别议息；第20届亚运会开幕"
+    },
+    {
+      "id": "f90afdfb9843e721e87660842beba697bcc30992",
+      "site_id": "finance_caixin",
+      "site_name": "财新网",
+      "source": "财新网",
+      "title": "新政后深圳首场土拍溢价超100% 中海地产竞价200多轮拿下地块",
+      "url": "https://www.caixin.com/2026-09-11/102484076.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经相关",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_caixin"
+      ],
+      "finance_noise": [],
+      "title_original": "新政后深圳首场土拍溢价超100% 中海地产竞价200多轮拿下地块",
+      "title_en": null,
+      "title_zh": "新政后深圳首场土拍溢价超100% 中海地产竞价200多轮拿下地块",
+      "title_bilingual": "新政后深圳首场土拍溢价超100% 中海地产竞价200多轮拿下地块"
+    },
+    {
+      "id": "11d2d437c9c908edc4feaa706807ba089f59d6e2",
+      "site_id": "finance_caixin",
+      "site_name": "财新网",
+      "source": "财新网",
+      "title": "一年三次职务调整 贵州53岁女厅官高晓昀被查",
+      "url": "https://china.caixin.com/2026-09-11/102484061.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经相关",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_caixin"
+      ],
+      "finance_noise": [],
+      "title_original": "一年三次职务调整 贵州53岁女厅官高晓昀被查",
+      "title_en": null,
+      "title_zh": "一年三次职务调整 贵州53岁女厅官高晓昀被查",
+      "title_bilingual": "一年三次职务调整 贵州53岁女厅官高晓昀被查"
+    },
+    {
+      "id": "e911f2c9870bf6f0e84eb813b5470c21b6d5a6df",
+      "site_id": "finance_caixin",
+      "site_name": "财新网",
+      "source": "财新网",
+      "title": "朱学东：黄豆的一生｜饮食",
+      "url": "https://mini.caixin.com/2026-09-11/102484059.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经相关",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_caixin"
+      ],
+      "finance_noise": [],
+      "title_original": "朱学东：黄豆的一生｜饮食",
+      "title_en": null,
+      "title_zh": "朱学东：黄豆的一生｜饮食",
+      "title_bilingual": "朱学东：黄豆的一生｜饮食"
+    },
+    {
+      "id": "3044794ff47a747c2e13d4966583eb7da370bcdd",
+      "site_id": "finance_caixin",
+      "site_name": "财新网",
+      "source": "财新网",
+      "title": "精神病院里的960万元骗保生意｜小辛漫闻",
+      "url": "https://mini.caixin.com/2026-09-11/102484056.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经相关",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_caixin"
+      ],
+      "finance_noise": [],
+      "title_original": "精神病院里的960万元骗保生意｜小辛漫闻",
+      "title_en": null,
+      "title_zh": "精神病院里的960万元骗保生意｜小辛漫闻",
+      "title_bilingual": "精神病院里的960万元骗保生意｜小辛漫闻"
+    },
+    {
+      "id": "5fa0497cc3284d60ff2a3fc0bdd0196a40a8441e",
+      "site_id": "finance_caixin",
+      "site_name": "财新网",
+      "source": "财新网",
+      "title": "解决回款难问题、保护中小企业权益，还须回归法治轨道",
+      "url": "https://opinion.caixin.com/2026-09-11/102484007.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经相关",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_caixin"
+      ],
+      "finance_noise": [],
+      "title_original": "解决回款难问题、保护中小企业权益，还须回归法治轨道",
+      "title_en": null,
+      "title_zh": "解决回款难问题、保护中小企业权益，还须回归法治轨道",
+      "title_bilingual": "解决回款难问题、保护中小企业权益，还须回归法治轨道"
+    },
+    {
+      "id": "67c966c07373c24a6b1fdb40a9b04b40442a0e4c",
+      "site_id": "finance_caixin",
+      "site_name": "财新网",
+      "source": "财新网",
+      "title": "GPT周报｜DeepSeek发V4.1-Flash价格下调；苹果发布首款折叠屏手机iPhone Duo；Meta发布个人AI智能体Muse",
+      "url": "https://www.caixin.com/2026-09-11/102484002.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经相关",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "eps"
+      ],
+      "finance_noise": [],
+      "title_original": "GPT周报｜DeepSeek发V4.1-Flash价格下调；苹果发布首款折叠屏手机iPhone Duo；Meta发布个人AI智能体Muse",
+      "title_en": null,
+      "title_zh": "GPT周报｜DeepSeek发V4.1-Flash价格下调；苹果发布首款折叠屏手机iPhone Duo；Meta发布个人AI智能体Muse",
+      "title_bilingual": "GPT周报｜DeepSeek发V4.1-Flash价格下调；苹果发布首款折叠屏手机iPhone Duo；Meta发布个人AI智能体Muse"
+    },
+    {
+      "id": "4175a9e0257211aca4a485ec27a670145c561a3f",
+      "site_id": "finance_caixin",
+      "site_name": "财新网",
+      "source": "财新网",
+      "title": "如何判定低价无序竞争？两部委明确重要工业品成本核算原则",
+      "url": "https://economy.caixin.com/2026-09-11/102483970.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经综合",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_caixin"
+      ],
+      "finance_noise": [],
+      "title_original": "如何判定低价无序竞争？两部委明确重要工业品成本核算原则",
+      "title_en": null,
+      "title_zh": "如何判定低价无序竞争？两部委明确重要工业品成本核算原则",
+      "title_bilingual": "如何判定低价无序竞争？两部委明确重要工业品成本核算原则"
+    },
+    {
+      "id": "dc5aaa4a451514d9f790bf84ddce58b6ce3a0a95",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "雪球 · 今日话题",
+      "title": "A股地量出现，要变盘了吗？",
+      "url": "http://xueqiu.com/1843761023/408862077",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 0.56,
+      "finance_label": "股市",
+      "finance_relevance_reason": "matched_finance_signal",
+      "finance_signals": [
+        "a股"
+      ],
+      "finance_noise": [],
+      "title_original": "A股地量出现，要变盘了吗？",
+      "title_en": null,
+      "title_zh": "A股地量出现，要变盘了吗？",
+      "title_bilingual": "A股地量出现，要变盘了吗？"
+    },
+    {
+      "id": "5a2932431624954997e678abb8c8099bef917978",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "雪球 · 今日话题",
+      "title": "新能源的电价有底吗？",
+      "url": "http://xueqiu.com/5385800475/408915068",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 0.56,
+      "finance_label": "产业经济",
+      "finance_relevance_reason": "matched_finance_signal",
+      "finance_signals": [
+        "新能源"
+      ],
+      "finance_noise": [],
+      "title_original": "新能源的电价有底吗？",
+      "title_en": null,
+      "title_zh": "新能源的电价有底吗？",
+      "title_bilingual": "新能源的电价有底吗？"
+    },
+    {
+      "id": "9c5c1ebbf94a00e79cf4433ba6ce693789172953",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "雪球 · 今日话题",
+      "title": "债台高筑为何仍要加息？看清全球宏观困局与资产博弈的底层真相",
+      "url": "http://xueqiu.com/2884313460/408947941",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 0.59,
+      "finance_label": "宏观政策",
+      "finance_relevance_reason": "matched_finance_signal",
+      "finance_signals": [
+        "加息",
+        "资产"
+      ],
+      "finance_noise": [],
+      "title_original": "债台高筑为何仍要加息？看清全球宏观困局与资产博弈的底层真相",
+      "title_en": null,
+      "title_zh": "债台高筑为何仍要加息？看清全球宏观困局与资产博弈的底层真相",
+      "title_bilingual": "债台高筑为何仍要加息？看清全球宏观困局与资产博弈的底层真相"
+    },
+    {
+      "id": "2c213e5ff52646c243d8654532444b1bef98e896",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "雪球 · 今日话题",
+      "title": "把投资中的焦虑，安放在对的地方",
+      "url": "http://xueqiu.com/2245748859/408922298",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 0.55,
+      "finance_label": "财经综合",
+      "finance_relevance_reason": "matched_broad_finance_signal",
+      "finance_signals": [
+        "投资"
+      ],
+      "finance_noise": [],
+      "title_original": "把投资中的焦虑，安放在对的地方",
+      "title_en": null,
+      "title_zh": "把投资中的焦虑，安放在对的地方",
+      "title_bilingual": "把投资中的焦虑，安放在对的地方"
+    },
+    {
+      "id": "1564aff2c12a216a0a342487eb2145466abb96cb",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "第一财经 · 新闻排行周榜",
+      "title": "中东投资公司对瑞幸咖啡投资10亿美元，看好中国咖啡市场前景",
+      "url": "https://www.yicai.com/news/103358778.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 0.62,
+      "finance_label": "债汇",
+      "finance_relevance_reason": "matched_finance_signal",
+      "finance_signals": [
+        "美元",
+        "投资",
+        "财经"
+      ],
+      "finance_noise": [],
+      "title_original": "中东投资公司对瑞幸咖啡投资10亿美元，看好中国咖啡市场前景",
+      "title_en": null,
+      "title_zh": "中东投资公司对瑞幸咖啡投资10亿美元，看好中国咖啡市场前景",
+      "title_bilingual": "中东投资公司对瑞幸咖啡投资10亿美元，看好中国咖啡市场前景"
+    },
+    {
+      "id": "a95d2f09b548832370b640dceeeafe437fe60b52",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "华尔街见闻 · 日排行",
+      "title": "美国8月核心CPI同比2.4%创五年半来最低水平，环比0.3%超预期、为4个月来最大涨幅",
+      "url": "https://wallstreetcn.com/articles/3781591",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 0.56,
+      "finance_label": "宏观政策",
+      "finance_relevance_reason": "matched_finance_signal",
+      "finance_signals": [
+        "cpi"
+      ],
+      "finance_noise": [],
+      "title_original": "美国8月核心CPI同比2.4%创五年半来最低水平，环比0.3%超预期、为4个月来最大涨幅",
+      "title_en": null,
+      "title_zh": "美国8月核心CPI同比2.4%创五年半来最低水平，环比0.3%超预期、为4个月来最大涨幅",
+      "title_bilingual": "美国8月核心CPI同比2.4%创五年半来最低水平，环比0.3%超预期、为4个月来最大涨幅"
+    },
+    {
+      "id": "d0fcae8f73987af0ecb11e5c533ab00db688dfc9",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "华尔街见闻 · 日排行",
+      "title": "美国8月CPI巩固加息预期，但美股仍大幅高开，存储高开低走，10年期美债收益率回落，现货黄金站上4400美元",
+      "url": "https://wallstreetcn.com/articles/3781549",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 0.68,
+      "finance_label": "宏观政策",
+      "finance_relevance_reason": "matched_finance_signal",
+      "finance_signals": [
+        "cpi",
+        "加息",
+        "收益率",
+        "美元",
+        "美股",
+        "黄金"
+      ],
+      "finance_noise": [],
+      "title_original": "美国8月CPI巩固加息预期，但美股仍大幅高开，存储高开低走，10年期美债收益率回落，现货黄金站上4400美元",
+      "title_en": null,
+      "title_zh": "美国8月CPI巩固加息预期，但美股仍大幅高开，存储高开低走，10年期美债收益率回落，现货黄金站上4400美元",
+      "title_bilingual": "美国8月CPI巩固加息预期，但美股仍大幅高开，存储高开低走，10年期美债收益率回落，现货黄金站上4400美元"
+    },
+    {
+      "id": "311d4326fe49e3d816ecf2b791423a6e151d99ac",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "华尔街见闻 · 日排行",
+      "title": "下周美联储加息与否，今晚CPI一锤定音？",
+      "url": "https://wallstreetcn.com/articles/3781566",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 0.64,
+      "finance_label": "宏观政策",
+      "finance_relevance_reason": "matched_finance_signal",
+      "finance_signals": [
+        "cpi",
+        "加息",
+        "美联储"
+      ],
+      "finance_noise": [],
+      "title_original": "下周美联储加息与否，今晚CPI一锤定音？",
+      "title_en": null,
+      "title_zh": "下周美联储加息与否，今晚CPI一锤定音？",
+      "title_bilingual": "下周美联储加息与否，今晚CPI一锤定音？"
+    },
+    {
+      "id": "225f41db2f8f51905b7f80685a53c9b549389e19",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "华尔街见闻 · 日排行",
+      "title": "研究员要失业了？OpenAI推出金融版ChatGPT，研究、建模、PPT一站式完成",
+      "url": "https://wallstreetcn.com/articles/3781534",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 0.55,
+      "finance_label": "财经综合",
+      "finance_relevance_reason": "matched_broad_finance_signal",
+      "finance_signals": [
+        "金融"
+      ],
+      "finance_noise": [],
+      "title_original": "研究员要失业了？OpenAI推出金融版ChatGPT，研究、建模、PPT一站式完成",
+      "title_en": null,
+      "title_zh": "研究员要失业了？OpenAI推出金融版ChatGPT，研究、建模、PPT一站式完成",
+      "title_bilingual": "研究员要失业了？OpenAI推出金融版ChatGPT，研究、建模、PPT一站式完成"
+    },
+    {
+      "id": "5ab2ff3be79aac58b22b118266768fb8eb0ca7e6",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "新浪财经新闻 · 点击量排行",
+      "title": "燧原科技大涨188%，中一签赚超13万元，腾讯小米已布局",
+      "url": "https://finance.sina.com.cn/wm/2026-09-11/doc-inirmfei2217391.shtml",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 0.55,
+      "finance_label": "财经综合",
+      "finance_relevance_reason": "matched_broad_finance_signal",
+      "finance_signals": [
+        "finance",
+        "财经"
+      ],
+      "finance_noise": [],
+      "title_original": "燧原科技大涨188%，中一签赚超13万元，腾讯小米已布局",
+      "title_en": null,
+      "title_zh": "燧原科技大涨188%，中一签赚超13万元，腾讯小米已布局",
+      "title_bilingual": "燧原科技大涨188%，中一签赚超13万元，腾讯小米已布局"
+    },
+    {
+      "id": "accad411749138523aec89298bec3a9d256e4f43",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "新浪财经新闻 · 点击量排行",
+      "title": "2026年A股上市公司现金分红榜单揭晓 2.4万亿元“真金白银”落地",
+      "url": "https://finance.sina.com.cn/roll/2026-09-11/doc-inirkuqm5452771.shtml",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 0.7,
+      "finance_label": "股市",
+      "finance_relevance_reason": "matched_finance_signal",
+      "finance_signals": [
+        "a股",
+        "上市",
+        "分红",
+        "finance",
+        "财经"
+      ],
+      "finance_noise": [],
+      "title_original": "2026年A股上市公司现金分红榜单揭晓 2.4万亿元“真金白银”落地",
+      "title_en": null,
+      "title_zh": "2026年A股上市公司现金分红榜单揭晓 2.4万亿元“真金白银”落地",
+      "title_bilingual": "2026年A股上市公司现金分红榜单揭晓 2.4万亿元“真金白银”落地"
+    },
+    {
       "id": "90f5df5923892ddf87d3892bea20691f17b022de",
       "site_id": "finance_caixin",
       "site_name": "财新网",
@@ -526,8 +1210,8 @@
       "finance_noise": [],
       "title_original": "Global bond selloff pushes 10-year US yield toward 5% on oil, rate-hike fears",
       "title_en": "Global bond selloff pushes 10-year US yield toward 5% on oil, rate-hike fears",
-      "title_zh": null,
-      "title_bilingual": "Global bond selloff pushes 10-year US yield toward 5% on oil, rate-hike fears"
+      "title_zh": "由于石油和加息担忧，全球债券抛售将美国10年期国债收益率推向5%",
+      "title_bilingual": "由于石油和加息担忧，全球债券抛售将美国10年期国债收益率推向5% / Global bond selloff pushes 10-year US yield toward 5% on oil, rate-hike fears"
     },
     {
       "id": "5f40fe8600512550eb4efa1647dae592b842c6af",
@@ -549,8 +1233,8 @@
       "finance_noise": [],
       "title_original": "Focus: Premier of Germany's Lower Saxony walks high wire between VW cuts and AfD",
       "title_en": "Focus: Premier of Germany's Lower Saxony walks high wire between VW cuts and AfD",
-      "title_zh": null,
-      "title_bilingual": "Focus: Premier of Germany's Lower Saxony walks high wire between VW cuts and AfD"
+      "title_zh": "焦点：德国下萨克森州州长在大众汽车削减开支和德国选择党之间走钢丝",
+      "title_bilingual": "焦点：德国下萨克森州州长在大众汽车削减开支和德国选择党之间走钢丝 / Focus: Premier of Germany's Lower Saxony walks high wire between VW cuts and AfD"
     },
     {
       "id": "593b482a48551c4439aa52acb4e4755454948a4c",
@@ -572,8 +1256,8 @@
       "finance_noise": [],
       "title_original": "Focus: Novartis investors turn spotlight on M&A after trial setbacks",
       "title_en": "Focus: Novartis investors turn spotlight on M&A after trial setbacks",
-      "title_zh": null,
-      "title_bilingual": "Focus: Novartis investors turn spotlight on M&A after trial setbacks"
+      "title_zh": "焦点：诺华投资者在试验受挫后将注意力转向并购",
+      "title_bilingual": "焦点：诺华投资者在试验受挫后将注意力转向并购 / Focus: Novartis investors turn spotlight on M&A after trial setbacks"
     },
     {
       "id": "74a767afc94698d4ec0b8c734bb875e15714929d",
@@ -596,8 +1280,8 @@
       "finance_noise": [],
       "title_original": "Morning Bid: Lenders say show me the money as bond carnage spreads",
       "title_en": "Morning Bid: Lenders say show me the money as bond carnage spreads",
-      "title_zh": null,
-      "title_bilingual": "Morning Bid: Lenders say show me the money as bond carnage spreads"
+      "title_zh": "早间出价：贷款人说随着债券大屠杀的蔓延，让我看看钱",
+      "title_bilingual": "早间出价：贷款人说随着债券大屠杀的蔓延，让我看看钱 / Morning Bid: Lenders say show me the money as bond carnage spreads"
     },
     {
       "id": "bb6aa8ce779ee6e46786856ec9c47a1dc2a64373",
@@ -619,8 +1303,8 @@
       "finance_noise": [],
       "title_original": "Gasoline likely to boost US consumer prices in August",
       "title_en": "Gasoline likely to boost US consumer prices in August",
-      "title_zh": null,
-      "title_bilingual": "Gasoline likely to boost US consumer prices in August"
+      "title_zh": "汽油可能会推高八月份美国消费者价格",
+      "title_bilingual": "汽油可能会推高八月份美国消费者价格 / Gasoline likely to boost US consumer prices in August"
     },
     {
       "id": "7f60d69639262144a2da1d10c478667c107b4788",
@@ -642,8 +1326,8 @@
       "finance_noise": [],
       "title_original": "China targets mass deployment of self-driving vehicles by 2030",
       "title_en": "China targets mass deployment of self-driving vehicles by 2030",
-      "title_zh": null,
-      "title_bilingual": "China targets mass deployment of self-driving vehicles by 2030"
+      "title_zh": "中国计划到2030年大规模部署自动驾驶汽车",
+      "title_bilingual": "中国计划到2030年大规模部署自动驾驶汽车 / China targets mass deployment of self-driving vehicles by 2030"
     },
     {
       "id": "608cb6fde0d27768be8ba13990776bcdcf8804a4",
@@ -665,8 +1349,8 @@
       "finance_noise": [],
       "title_original": "BOJ set to lift rates next week but offer few clues on terminal, sources say",
       "title_en": "BOJ set to lift rates next week but offer few clues on terminal, sources say",
-      "title_zh": null,
-      "title_bilingual": "BOJ set to lift rates next week but offer few clues on terminal, sources say"
+      "title_zh": "消息人士称，日本央行计划下周加息，但在终端方面几乎没有提供任何线索",
+      "title_bilingual": "消息人士称，日本央行计划下周加息，但在终端方面几乎没有提供任何线索 / BOJ set to lift rates next week but offer few clues on terminal, sources say"
     },
     {
       "id": "3568edfe819fce0779e92e45ffdb71de0f0ee0cd",
@@ -688,8 +1372,8 @@
       "finance_noise": [],
       "title_original": "Texas judge rules TikTok misled users on child safety feature",
       "title_en": "Texas judge rules TikTok misled users on child safety feature",
-      "title_zh": null,
-      "title_bilingual": "Texas judge rules TikTok misled users on child safety feature"
+      "title_zh": "德克萨斯州法官裁定 TikTok 在儿童安全功能上误导用户",
+      "title_bilingual": "德克萨斯州法官裁定 TikTok 在儿童安全功能上误导用户 / Texas judge rules TikTok misled users on child safety feature"
     },
     {
       "id": "757a7569e4b6cce9129df7ef64dc74bcac7ef712",
@@ -711,8 +1395,8 @@
       "finance_noise": [],
       "title_original": "Oil prices set to end week above $100 for first time in nearly 4 months",
       "title_en": "Oil prices set to end week above $100 for first time in nearly 4 months",
-      "title_zh": null,
-      "title_bilingual": "Oil prices set to end week above $100 for first time in nearly 4 months"
+      "title_zh": "本周油价将近 4 个月来首次突破 100 美元",
+      "title_bilingual": "本周油价将近 4 个月来首次突破 100 美元 / Oil prices set to end week above $100 for first time in nearly 4 months"
     },
     {
       "id": "d1fb02b8cbd028309c52a12ce41dcba248c2e5f5",
@@ -734,8 +1418,8 @@
       "finance_noise": [],
       "title_original": "Dollar holds gains, yen slips as Middle East energy shock deepens",
       "title_en": "Dollar holds gains, yen slips as Middle East energy shock deepens",
-      "title_zh": null,
-      "title_bilingual": "Dollar holds gains, yen slips as Middle East energy shock deepens"
+      "title_zh": "随着中东能源冲击加深，美元保持上涨，日元下跌",
+      "title_bilingual": "随着中东能源冲击加深，美元保持上涨，日元下跌 / Dollar holds gains, yen slips as Middle East energy shock deepens"
     },
     {
       "id": "b2cae5dc3ef93fe3b371f251263104b10bafd90e",
@@ -759,8 +1443,8 @@
       "finance_noise": [],
       "title_original": "Bonds buckle, stocks fall as surging oil prices inflame inflation risks",
       "title_en": "Bonds buckle, stocks fall as surging oil prices inflame inflation risks",
-      "title_zh": null,
-      "title_bilingual": "Bonds buckle, stocks fall as surging oil prices inflame inflation risks"
+      "title_zh": "油价飙升加剧通胀风险，债券下跌，股市下跌",
+      "title_bilingual": "油价飙升加剧通胀风险，债券下跌，股市下跌 / Bonds buckle, stocks fall as surging oil prices inflame inflation risks"
     },
     {
       "id": "94a394b9d0084c52eaa177bb052f75b68e021b89",
@@ -782,8 +1466,8 @@
       "finance_noise": [],
       "title_original": "Apple’s foldable iPhone poses a $1,999 question: Who is it for?",
       "title_en": "Apple’s foldable iPhone poses a $1,999 question: Who is it for?",
-      "title_zh": null,
-      "title_bilingual": "Apple’s foldable iPhone poses a $1,999 question: Who is it for?"
+      "title_zh": "苹果售价 1,999 美元的可折叠 iPhone 带来了一个问题：它适合谁？",
+      "title_bilingual": "苹果售价 1,999 美元的可折叠 iPhone 带来了一个问题：它适合谁？ / Apple’s foldable iPhone poses a $1,999 question: Who is it for?"
     },
     {
       "id": "2e0a35392f3774f5184316eb0dc7375b6419a6b4",
@@ -805,8 +1489,8 @@
       "finance_noise": [],
       "title_original": "More US lawmakers seek new AI rules after Anthropic researchers warn of human extinction",
       "title_en": "More US lawmakers seek new AI rules after Anthropic researchers warn of human extinction",
-      "title_zh": null,
-      "title_bilingual": "More US lawmakers seek new AI rules after Anthropic researchers warn of human extinction"
+      "title_zh": "在人类研究人员警告人类灭绝后，更多美国立法者寻求新的人工智能规则",
+      "title_bilingual": "在人类研究人员警告人类灭绝后，更多美国立法者寻求新的人工智能规则 / More US lawmakers seek new AI rules after Anthropic researchers warn of human extinction"
     },
     {
       "id": "5d821db2f210887dcf3ef34b5683e616646bea75",
@@ -817,7 +1501,7 @@
       "url": "https://www.36kr.com/p/3978247601601280",
       "published_at": null,
       "first_seen_at": "2026-09-11T06:13:55.132582Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
       "finance_is_related": true,
       "finance_score": 0.6,
       "finance_label": "宏观政策",
@@ -864,7 +1548,7 @@
       "url": "https://wallstreetcn.com/articles/3781524",
       "published_at": null,
       "first_seen_at": "2026-09-11T06:13:55.132582Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
       "finance_is_related": true,
       "finance_score": 0.56,
       "finance_label": "大宗商品",
@@ -887,7 +1571,7 @@
       "url": "https://finance.sina.com.cn/jjxw/2026-09-11/doc-inirkywe2348223.shtml",
       "published_at": null,
       "first_seen_at": "2026-09-11T06:13:55.132582Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
       "finance_is_related": true,
       "finance_score": 0.55,
       "finance_label": "财经综合",
@@ -911,7 +1595,7 @@
       "url": "https://finance.sina.com.cn/world/2026-09-11/doc-inirmfef5320805.shtml",
       "published_at": null,
       "first_seen_at": "2026-09-11T06:13:55.132582Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
       "finance_is_related": true,
       "finance_score": 0.55,
       "finance_label": "财经综合",
@@ -935,7 +1619,7 @@
       "url": "https://finance.sina.com.cn/wm/2026-09-11/doc-inirmfei2115209.shtml",
       "published_at": null,
       "first_seen_at": "2026-09-11T06:13:55.132582Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
       "finance_is_related": true,
       "finance_score": 0.66,
       "finance_label": "大宗商品",
@@ -961,7 +1645,7 @@
       "url": "https://finance.sina.com.cn/jjxw/2026-09-11/doc-inirkywi5408751.shtml",
       "published_at": null,
       "first_seen_at": "2026-09-11T06:13:55.132582Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
       "finance_is_related": true,
       "finance_score": 0.55,
       "finance_label": "财经综合",
@@ -985,7 +1669,7 @@
       "url": "https://finance.sina.com.cn/stock/cpbd/2026-09-11/doc-inirkywi5440798.shtml",
       "published_at": null,
       "first_seen_at": "2026-09-11T06:13:55.132582Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
       "finance_is_related": true,
       "finance_score": 0.62,
       "finance_label": "财经综合",
@@ -1010,7 +1694,7 @@
       "url": "https://finance.sina.com.cn/roll/2026-09-11/doc-inirkuqh2418393.shtml",
       "published_at": null,
       "first_seen_at": "2026-09-11T06:13:55.132582Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
       "finance_is_related": true,
       "finance_score": 0.65,
       "finance_label": "监管政策",
@@ -1063,7 +1747,7 @@
       "url": "https://finance.sina.com.cn/roll/2026-09-11/doc-inirkywe7173513.shtml",
       "published_at": null,
       "first_seen_at": "2026-09-11T06:13:55.132582Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
       "finance_is_related": true,
       "finance_score": 0.7,
       "finance_label": "宏观政策",
@@ -1090,7 +1774,7 @@
       "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-11/doc-inirkywe2341627.shtml",
       "published_at": null,
       "first_seen_at": "2026-09-11T06:13:55.132582Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
       "finance_is_related": true,
       "finance_score": 0.66,
       "finance_label": "股市",
@@ -1131,6 +1815,29 @@
       "title_en": null,
       "title_zh": "美财政部宣布对伊朗相关个人和实体实施制裁",
       "title_bilingual": "美财政部宣布对伊朗相关个人和实体实施制裁"
+    },
+    {
+      "id": "8a640ff006f12b6d447f71e4936bddc78da34a38",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "华尔街见闻 · 日排行",
+      "title": "沃什导师、传奇交易员Druckenmiller闭门会议：美国利率偏低，鸽派立场荒谬，AI或有盈利泡沫",
+      "url": "https://wallstreetcn.com/articles/3781519",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T01:15:17.425580Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 0.56,
+      "finance_label": "宏观政策",
+      "finance_relevance_reason": "matched_finance_signal",
+      "finance_signals": [
+        "利率"
+      ],
+      "finance_noise": [],
+      "title_original": "沃什导师、传奇交易员Druckenmiller闭门会议：美国利率偏低，鸽派立场荒谬，AI或有盈利泡沫",
+      "title_en": null,
+      "title_zh": "沃什导师、传奇交易员Druckenmiller闭门会议：美国利率偏低，鸽派立场荒谬，AI或有盈利泡沫",
+      "title_bilingual": "沃什导师、传奇交易员Druckenmiller闭门会议：美国利率偏低，鸽派立场荒谬，AI或有盈利泡沫"
     },
     {
       "id": "ce286c28d7c04c50fef2b248c0369e60848e1f84",
@@ -1319,29 +2026,6 @@
       "title_bilingual": "一艘利比亚籍货轮青岛检修中起火致25死"
     },
     {
-      "id": "8a640ff006f12b6d447f71e4936bddc78da34a38",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "华尔街见闻 · 日排行",
-      "title": "沃什导师、传奇交易员Druckenmiller闭门会议：美国利率偏低，鸽派立场荒谬，AI或有盈利泡沫",
-      "url": "https://wallstreetcn.com/articles/3781519",
-      "published_at": null,
-      "first_seen_at": "2026-09-11T01:15:17.425580Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
-      "finance_is_related": true,
-      "finance_score": 0.56,
-      "finance_label": "宏观政策",
-      "finance_relevance_reason": "matched_finance_signal",
-      "finance_signals": [
-        "利率"
-      ],
-      "finance_noise": [],
-      "title_original": "沃什导师、传奇交易员Druckenmiller闭门会议：美国利率偏低，鸽派立场荒谬，AI或有盈利泡沫",
-      "title_en": null,
-      "title_zh": "沃什导师、传奇交易员Druckenmiller闭门会议：美国利率偏低，鸽派立场荒谬，AI或有盈利泡沫",
-      "title_bilingual": "沃什导师、传奇交易员Druckenmiller闭门会议：美国利率偏低，鸽派立场荒谬，AI或有盈利泡沫"
-    },
-    {
       "id": "01e396db93e0ad733a74871668afc41f7c34daaa",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -1421,6 +2105,123 @@
       "title_bilingual": "特朗普豪言凸显共和党选举困境 5000美元发钱承诺落地希望渺茫"
     },
     {
+      "id": "e4d0aab65d779541f45ac1b3d084ff1e8db312e1",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "华尔街见闻 · 日排行",
+      "title": "通胀忧虑重燃，美国股债双杀，存储芯片股普跌，美油飙涨7%破百，黄金重挫逼近4300",
+      "url": "https://wallstreetcn.com/articles/3781481",
+      "published_at": null,
+      "first_seen_at": "2026-09-10T23:16:38.684002Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 0.6,
+      "finance_label": "宏观政策",
+      "finance_relevance_reason": "matched_finance_signal",
+      "finance_signals": [
+        "通胀",
+        "黄金"
+      ],
+      "finance_noise": [],
+      "title_original": "通胀忧虑重燃，美国股债双杀，存储芯片股普跌，美油飙涨7%破百，黄金重挫逼近4300",
+      "title_en": null,
+      "title_zh": "通胀忧虑重燃，美国股债双杀，存储芯片股普跌，美油飙涨7%破百，黄金重挫逼近4300",
+      "title_bilingual": "通胀忧虑重燃，美国股债双杀，存储芯片股普跌，美油飙涨7%破百，黄金重挫逼近4300"
+    },
+    {
+      "id": "a6985d7554d34c3f121cd8cc94c32e0c607fe842",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "华尔街见闻 · 日排行",
+      "title": "特朗普拟给美国成年人每人发5000美元，美媒算账：总额高达1.2万亿美元，关税收入远远不够",
+      "url": "https://wallstreetcn.com/articles/3781496",
+      "published_at": null,
+      "first_seen_at": "2026-09-10T23:16:38.684002Z",
+      "last_seen_at": "2026-09-11T06:13:55.132582Z",
+      "finance_is_related": true,
+      "finance_score": 0.6,
+      "finance_label": "国际贸易",
+      "finance_relevance_reason": "matched_finance_signal",
+      "finance_signals": [
+        "关税",
+        "美元"
+      ],
+      "finance_noise": [],
+      "title_original": "特朗普拟给美国成年人每人发5000美元，美媒算账：总额高达1.2万亿美元，关税收入远远不够",
+      "title_en": null,
+      "title_zh": "特朗普拟给美国成年人每人发5000美元，美媒算账：总额高达1.2万亿美元，关税收入远远不够",
+      "title_bilingual": "特朗普拟给美国成年人每人发5000美元，美媒算账：总额高达1.2万亿美元，关税收入远远不够"
+    },
+    {
+      "id": "d24cf97e2bc7537044d5c18e7c7a9c825ca7e4bf",
+      "site_id": "finance_reuters",
+      "site_name": "Reuters Business",
+      "source": "Reuters Business",
+      "title": "Pentagon in talks to lend $5 billion to AI cloud startup Fluidstack, WSJ reports",
+      "url": "https://www.reuters.com/technology/pentagon-talks-lend-5-billion-ai-cloud-startup-fluidstack-wsj-reports-2026-09-10",
+      "published_at": null,
+      "first_seen_at": "2026-09-10T23:16:38.684002Z",
+      "last_seen_at": "2026-09-11T06:13:55.132582Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经相关",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_reuters"
+      ],
+      "finance_noise": [],
+      "title_original": "Pentagon in talks to lend $5 billion to AI cloud startup Fluidstack, WSJ reports",
+      "title_en": "Pentagon in talks to lend $5 billion to AI cloud startup Fluidstack, WSJ reports",
+      "title_zh": "据《华尔街日报》报道，五角大楼正在洽谈向人工智能云初创公司 Fluidstack 提供 50 亿美元贷款",
+      "title_bilingual": "据《华尔街日报》报道，五角大楼正在洽谈向人工智能云初创公司 Fluidstack 提供 50 亿美元贷款 / Pentagon in talks to lend $5 billion to AI cloud startup Fluidstack, WSJ reports"
+    },
+    {
+      "id": "e506c555903c73505c5371d128a5dd600654331e",
+      "site_id": "finance_reuters",
+      "site_name": "Reuters Business",
+      "source": "Reuters Business",
+      "title": "US average diesel price passes $6 a gallon for the first time, GasBuddy says",
+      "url": "https://www.reuters.com/business/energy/us-average-diesel-prices-cross-6-gallon-first-time-gasbuddy-says-2026-09-10",
+      "published_at": null,
+      "first_seen_at": "2026-09-10T23:16:38.684002Z",
+      "last_seen_at": "2026-09-11T06:13:55.132582Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经相关",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_reuters"
+      ],
+      "finance_noise": [],
+      "title_original": "US average diesel price passes $6 a gallon for the first time, GasBuddy says",
+      "title_en": "US average diesel price passes $6 a gallon for the first time, GasBuddy says",
+      "title_zh": "GasBuddy 表示，美国柴油平均价格首次突破每加仑 6 美元",
+      "title_bilingual": "GasBuddy 表示，美国柴油平均价格首次突破每加仑 6 美元 / US average diesel price passes $6 a gallon for the first time, GasBuddy says"
+    },
+    {
+      "id": "53cfa66a366a600b862aca6fd1bfea10cc80f843",
+      "site_id": "finance_reuters",
+      "site_name": "Reuters Business",
+      "source": "Reuters Business",
+      "title": "Oracle tops estimates as AI demand tempers cash-burn fears",
+      "url": "https://www.reuters.com/technology/oracles-quarterly-revenue-beats-estimates-ai-boom-drives-cloud-demand-2026-09-10",
+      "published_at": null,
+      "first_seen_at": "2026-09-10T23:16:38.684002Z",
+      "last_seen_at": "2026-09-11T06:13:55.132582Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "公司事件",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "revenue"
+      ],
+      "finance_noise": [],
+      "title_original": "Oracle tops estimates as AI demand tempers cash-burn fears",
+      "title_en": "Oracle tops estimates as AI demand tempers cash-burn fears",
+      "title_zh": "人工智能需求缓解现金消耗担忧，甲骨文超出预期",
+      "title_bilingual": "人工智能需求缓解现金消耗担忧，甲骨文超出预期 / Oracle tops estimates as AI demand tempers cash-burn fears"
+    },
+    {
       "id": "4a4ddc2b185d4a5cea356dcc576b06e8a701b801",
       "site_id": "finance_caixin",
       "site_name": "财新网",
@@ -1466,54 +2267,6 @@
       "title_en": null,
       "title_zh": "财经早知道｜一艘利比里亚籍货轮青岛检修中起火致25死",
       "title_bilingual": "财经早知道｜一艘利比里亚籍货轮青岛检修中起火致25死"
-    },
-    {
-      "id": "e4d0aab65d779541f45ac1b3d084ff1e8db312e1",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "华尔街见闻 · 日排行",
-      "title": "通胀忧虑重燃，美国股债双杀，存储芯片股普跌，美油飙涨7%破百，黄金重挫逼近4300",
-      "url": "https://wallstreetcn.com/articles/3781481",
-      "published_at": null,
-      "first_seen_at": "2026-09-10T23:16:38.684002Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
-      "finance_is_related": true,
-      "finance_score": 0.6,
-      "finance_label": "宏观政策",
-      "finance_relevance_reason": "matched_finance_signal",
-      "finance_signals": [
-        "通胀",
-        "黄金"
-      ],
-      "finance_noise": [],
-      "title_original": "通胀忧虑重燃，美国股债双杀，存储芯片股普跌，美油飙涨7%破百，黄金重挫逼近4300",
-      "title_en": null,
-      "title_zh": "通胀忧虑重燃，美国股债双杀，存储芯片股普跌，美油飙涨7%破百，黄金重挫逼近4300",
-      "title_bilingual": "通胀忧虑重燃，美国股债双杀，存储芯片股普跌，美油飙涨7%破百，黄金重挫逼近4300"
-    },
-    {
-      "id": "a6985d7554d34c3f121cd8cc94c32e0c607fe842",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "华尔街见闻 · 日排行",
-      "title": "特朗普拟给美国成年人每人发5000美元，美媒算账：总额高达1.2万亿美元，关税收入远远不够",
-      "url": "https://wallstreetcn.com/articles/3781496",
-      "published_at": null,
-      "first_seen_at": "2026-09-10T23:16:38.684002Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
-      "finance_is_related": true,
-      "finance_score": 0.6,
-      "finance_label": "国际贸易",
-      "finance_relevance_reason": "matched_finance_signal",
-      "finance_signals": [
-        "关税",
-        "美元"
-      ],
-      "finance_noise": [],
-      "title_original": "特朗普拟给美国成年人每人发5000美元，美媒算账：总额高达1.2万亿美元，关税收入远远不够",
-      "title_en": null,
-      "title_zh": "特朗普拟给美国成年人每人发5000美元，美媒算账：总额高达1.2万亿美元，关税收入远远不够",
-      "title_bilingual": "特朗普拟给美国成年人每人发5000美元，美媒算账：总额高达1.2万亿美元，关税收入远远不够"
     },
     {
       "id": "d4c893e979dfa59c31fe58486daa81fd2dd4fa05",
@@ -1611,8 +2364,8 @@
       "finance_noise": [],
       "title_original": "Europe drives global EV sales growth in August, offsetting China, North America weakness",
       "title_en": "Europe drives global EV sales growth in August, offsetting China, North America weakness",
-      "title_zh": null,
-      "title_bilingual": "Europe drives global EV sales growth in August, offsetting China, North America weakness"
+      "title_zh": "欧洲推动 8 月份全球电动汽车销量增长，抵消了中国和北美的疲软",
+      "title_bilingual": "欧洲推动 8 月份全球电动汽车销量增长，抵消了中国和北美的疲软 / Europe drives global EV sales growth in August, offsetting China, North America weakness"
     },
     {
       "id": "5540645b892cc33e265fab9625468f0fb92b922a",
@@ -1634,31 +2387,8 @@
       "finance_noise": [],
       "title_original": "Microsoft plans 38 gigawatts of data center capacity by 2032, Bloomberg News reports",
       "title_en": "Microsoft plans 38 gigawatts of data center capacity by 2032, Bloomberg News reports",
-      "title_zh": null,
-      "title_bilingual": "Microsoft plans 38 gigawatts of data center capacity by 2032, Bloomberg News reports"
-    },
-    {
-      "id": "d24cf97e2bc7537044d5c18e7c7a9c825ca7e4bf",
-      "site_id": "finance_reuters",
-      "site_name": "Reuters Business",
-      "source": "Reuters Business",
-      "title": "Pentagon in talks to lend $5 billion to AI cloud startup Fluidstack, WSJ reports",
-      "url": "https://www.reuters.com/technology/pentagon-talks-lend-5-billion-ai-cloud-startup-fluidstack-wsj-reports-2026-09-10",
-      "published_at": null,
-      "first_seen_at": "2026-09-10T23:16:38.684002Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
-      "finance_is_related": true,
-      "finance_score": 1.0,
-      "finance_label": "财经相关",
-      "finance_relevance_reason": "trusted_finance_source_default_keep",
-      "finance_signals": [
-        "finance_reuters"
-      ],
-      "finance_noise": [],
-      "title_original": "Pentagon in talks to lend $5 billion to AI cloud startup Fluidstack, WSJ reports",
-      "title_en": "Pentagon in talks to lend $5 billion to AI cloud startup Fluidstack, WSJ reports",
-      "title_zh": null,
-      "title_bilingual": "Pentagon in talks to lend $5 billion to AI cloud startup Fluidstack, WSJ reports"
+      "title_zh": "据彭博社报道，微软计划到 2032 年数据中心容量达到 38 吉瓦",
+      "title_bilingual": "据彭博社报道，微软计划到 2032 年数据中心容量达到 38 吉瓦 / Microsoft plans 38 gigawatts of data center capacity by 2032, Bloomberg News reports"
     },
     {
       "id": "0f9dc349a74bc1380330f932361a9a442bfb800a",
@@ -1682,8 +2412,8 @@
       "finance_noise": [],
       "title_original": "Texas Stock Exchange captures first primary equity market listings from NYSE",
       "title_en": "Texas Stock Exchange captures first primary equity market listings from NYSE",
-      "title_zh": null,
-      "title_bilingual": "Texas Stock Exchange captures first primary equity market listings from NYSE"
+      "title_zh": "德克萨斯证券交易所从纽约证券交易所获得第一批一级股票市场上市",
+      "title_bilingual": "德克萨斯证券交易所从纽约证券交易所获得第一批一级股票市场上市 / Texas Stock Exchange captures first primary equity market listings from NYSE"
     },
     {
       "id": "9658f09fb6f0209e9b96852cbdefd4d928ab87b1",
@@ -1705,8 +2435,8 @@
       "finance_noise": [],
       "title_original": "US lawmakers call on American government to blacklist three Indian hack-for-hire firms",
       "title_en": "US lawmakers call on American government to blacklist three Indian hack-for-hire firms",
-      "title_zh": null,
-      "title_bilingual": "US lawmakers call on American government to blacklist three Indian hack-for-hire firms"
+      "title_zh": "美国议员呼吁美国政府将三家印度黑客雇佣公司列入黑名单",
+      "title_bilingual": "美国议员呼吁美国政府将三家印度黑客雇佣公司列入黑名单 / US lawmakers call on American government to blacklist three Indian hack-for-hire firms"
     },
     {
       "id": "47f3fe1cc7042a9f61b33487784554894e01600e",
@@ -1728,54 +2458,8 @@
       "finance_noise": [],
       "title_original": "Barington Capital takes Bath & Body Works stake, pushes for sale, Bloomberg reports",
       "title_en": "Barington Capital takes Bath & Body Works stake, pushes for sale, Bloomberg reports",
-      "title_zh": null,
-      "title_bilingual": "Barington Capital takes Bath & Body Works stake, pushes for sale, Bloomberg reports"
-    },
-    {
-      "id": "e506c555903c73505c5371d128a5dd600654331e",
-      "site_id": "finance_reuters",
-      "site_name": "Reuters Business",
-      "source": "Reuters Business",
-      "title": "US average diesel price passes $6 a gallon for the first time, GasBuddy says",
-      "url": "https://www.reuters.com/business/energy/us-average-diesel-prices-cross-6-gallon-first-time-gasbuddy-says-2026-09-10",
-      "published_at": null,
-      "first_seen_at": "2026-09-10T23:16:38.684002Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
-      "finance_is_related": true,
-      "finance_score": 1.0,
-      "finance_label": "财经相关",
-      "finance_relevance_reason": "trusted_finance_source_default_keep",
-      "finance_signals": [
-        "finance_reuters"
-      ],
-      "finance_noise": [],
-      "title_original": "US average diesel price passes $6 a gallon for the first time, GasBuddy says",
-      "title_en": "US average diesel price passes $6 a gallon for the first time, GasBuddy says",
-      "title_zh": null,
-      "title_bilingual": "US average diesel price passes $6 a gallon for the first time, GasBuddy says"
-    },
-    {
-      "id": "53cfa66a366a600b862aca6fd1bfea10cc80f843",
-      "site_id": "finance_reuters",
-      "site_name": "Reuters Business",
-      "source": "Reuters Business",
-      "title": "Oracle tops estimates as AI demand tempers cash-burn fears",
-      "url": "https://www.reuters.com/technology/oracles-quarterly-revenue-beats-estimates-ai-boom-drives-cloud-demand-2026-09-10",
-      "published_at": null,
-      "first_seen_at": "2026-09-10T23:16:38.684002Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
-      "finance_is_related": true,
-      "finance_score": 1.0,
-      "finance_label": "公司事件",
-      "finance_relevance_reason": "trusted_finance_source_default_keep",
-      "finance_signals": [
-        "revenue"
-      ],
-      "finance_noise": [],
-      "title_original": "Oracle tops estimates as AI demand tempers cash-burn fears",
-      "title_en": "Oracle tops estimates as AI demand tempers cash-burn fears",
-      "title_zh": null,
-      "title_bilingual": "Oracle tops estimates as AI demand tempers cash-burn fears"
+      "title_zh": "据彭博社报道，Barington Capital 收购 Bath & Body Works 股份并推动出售",
+      "title_bilingual": "据彭博社报道，Barington Capital 收购 Bath & Body Works 股份并推动出售 / Barington Capital takes Bath & Body Works stake, pushes for sale, Bloomberg reports"
     },
     {
       "id": "4b748d76ff76234f9e3629db874dc2105af8f178",
@@ -1826,6 +2510,98 @@
       "title_en": null,
       "title_zh": "美国内政部长伯格姆谈及柴油出口管制：所有方案均在考量范围内。",
       "title_bilingual": "美国内政部长伯格姆谈及柴油出口管制：所有方案均在考量范围内。"
+    },
+    {
+      "id": "91d519963d4c345dd05a5fda6272a2c35123906f",
+      "site_id": "finance_reuters",
+      "site_name": "Reuters Business",
+      "source": "Reuters Business",
+      "title": "Adobe beats third-quarter revenue estimates on AI product demand",
+      "url": "https://www.reuters.com/business/adobe-beats-third-quarter-revenue-estimates-2026-09-10",
+      "published_at": null,
+      "first_seen_at": "2026-09-10T21:18:03.571861Z",
+      "last_seen_at": "2026-09-11T06:13:55.132582Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "公司事件",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "revenue"
+      ],
+      "finance_noise": [],
+      "title_original": "Adobe beats third-quarter revenue estimates on AI product demand",
+      "title_en": "Adobe beats third-quarter revenue estimates on AI product demand",
+      "title_zh": "Adobe 对人工智能产品需求的第三季度收入超出预期",
+      "title_bilingual": "Adobe 对人工智能产品需求的第三季度收入超出预期 / Adobe beats third-quarter revenue estimates on AI product demand"
+    },
+    {
+      "id": "466b0084f2b1aedb9dea3d460f53c987e43550e4",
+      "site_id": "finance_reuters",
+      "site_name": "Reuters Business",
+      "source": "Reuters Business",
+      "title": "Silver Lake, Intel-backed Altera prepares IPO that could raise over $2 billion as early as 2026, sources say",
+      "url": "https://www.reuters.com/world/silver-lake-intel-backed-altera-prepares-ipo-that-could-raise-over-2-billion-2026-09-10",
+      "published_at": null,
+      "first_seen_at": "2026-09-10T21:18:03.571861Z",
+      "last_seen_at": "2026-09-11T06:13:55.132582Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "股市",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "ipo"
+      ],
+      "finance_noise": [],
+      "title_original": "Silver Lake, Intel-backed Altera prepares IPO that could raise over $2 billion as early as 2026, sources say",
+      "title_en": "Silver Lake, Intel-backed Altera prepares IPO that could raise over $2 billion as early as 2026, sources say",
+      "title_zh": "消息人士称，英特尔支持的 Silver Lake 正在准备 IPO，最早可能在 2026 年筹集超过 20 亿美元资金",
+      "title_bilingual": "消息人士称，英特尔支持的 Silver Lake 正在准备 IPO，最早可能在 2026 年筹集超过 20 亿美元资金 / Silver Lake, Intel-backed Altera prepares IPO that could raise over $2 billion as early as 2026, sources say"
+    },
+    {
+      "id": "348b152fdb62615db1f3621e549005f5d48f8891",
+      "site_id": "finance_reuters",
+      "site_name": "Reuters Business",
+      "source": "Reuters Business",
+      "title": "US producer prices increase as expected in August; but key details firmer",
+      "url": "https://www.reuters.com/business/us-producer-prices-increase-expected-august-2026-09-10",
+      "published_at": null,
+      "first_seen_at": "2026-09-10T21:18:03.571861Z",
+      "last_seen_at": "2026-09-11T06:13:55.132582Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经相关",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_reuters"
+      ],
+      "finance_noise": [],
+      "title_original": "US producer prices increase as expected in August; but key details firmer",
+      "title_en": "US producer prices increase as expected in August; but key details firmer",
+      "title_zh": "美国8月生产者价格上涨符合预期；但关键细节更加坚定",
+      "title_bilingual": "美国8月生产者价格上涨符合预期；但关键细节更加坚定 / US producer prices increase as expected in August; but key details firmer"
+    },
+    {
+      "id": "a440e86b3cb52bc1e938bafdc6e61b3e91c52153",
+      "site_id": "finance_reuters",
+      "site_name": "Reuters Business",
+      "source": "Reuters Business",
+      "title": "Trump administration proposes axing grace period for H-1B visa holders after job loss",
+      "url": "https://www.reuters.com/legal/government/trump-administration-proposes-waiving-grace-period-h-1b-holders-after-job-loss-2026-09-10",
+      "published_at": null,
+      "first_seen_at": "2026-09-10T21:18:03.571861Z",
+      "last_seen_at": "2026-09-11T06:13:55.132582Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经相关",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_reuters"
+      ],
+      "finance_noise": [],
+      "title_original": "Trump administration proposes axing grace period for H-1B visa holders after job loss",
+      "title_en": "Trump administration proposes axing grace period for H-1B visa holders after job loss",
+      "title_zh": "特朗普政府提议取消H-1B签证持有者失业后的宽限期",
+      "title_bilingual": "特朗普政府提议取消H-1B签证持有者失业后的宽限期 / Trump administration proposes axing grace period for H-1B visa holders after job loss"
     },
     {
       "id": "0cd95671f9b116e45ba4ca43e5cadc8f8963d29d",
@@ -1944,54 +2720,8 @@
       "finance_noise": [],
       "title_original": "Trading Day: Inflation palpitations",
       "title_en": "Trading Day: Inflation palpitations",
-      "title_zh": null,
-      "title_bilingual": "Trading Day: Inflation palpitations"
-    },
-    {
-      "id": "91d519963d4c345dd05a5fda6272a2c35123906f",
-      "site_id": "finance_reuters",
-      "site_name": "Reuters Business",
-      "source": "Reuters Business",
-      "title": "Adobe beats third-quarter revenue estimates on AI product demand",
-      "url": "https://www.reuters.com/business/adobe-beats-third-quarter-revenue-estimates-2026-09-10",
-      "published_at": null,
-      "first_seen_at": "2026-09-10T21:18:03.571861Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
-      "finance_is_related": true,
-      "finance_score": 1.0,
-      "finance_label": "公司事件",
-      "finance_relevance_reason": "trusted_finance_source_default_keep",
-      "finance_signals": [
-        "revenue"
-      ],
-      "finance_noise": [],
-      "title_original": "Adobe beats third-quarter revenue estimates on AI product demand",
-      "title_en": "Adobe beats third-quarter revenue estimates on AI product demand",
-      "title_zh": null,
-      "title_bilingual": "Adobe beats third-quarter revenue estimates on AI product demand"
-    },
-    {
-      "id": "466b0084f2b1aedb9dea3d460f53c987e43550e4",
-      "site_id": "finance_reuters",
-      "site_name": "Reuters Business",
-      "source": "Reuters Business",
-      "title": "Silver Lake, Intel-backed Altera prepares IPO that could raise over $2 billion as early as 2026, sources say",
-      "url": "https://www.reuters.com/world/silver-lake-intel-backed-altera-prepares-ipo-that-could-raise-over-2-billion-2026-09-10",
-      "published_at": null,
-      "first_seen_at": "2026-09-10T21:18:03.571861Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
-      "finance_is_related": true,
-      "finance_score": 1.0,
-      "finance_label": "股市",
-      "finance_relevance_reason": "trusted_finance_source_default_keep",
-      "finance_signals": [
-        "ipo"
-      ],
-      "finance_noise": [],
-      "title_original": "Silver Lake, Intel-backed Altera prepares IPO that could raise over $2 billion as early as 2026, sources say",
-      "title_en": "Silver Lake, Intel-backed Altera prepares IPO that could raise over $2 billion as early as 2026, sources say",
-      "title_zh": null,
-      "title_bilingual": "Silver Lake, Intel-backed Altera prepares IPO that could raise over $2 billion as early as 2026, sources say"
+      "title_zh": "交易日：通胀心悸",
+      "title_bilingual": "交易日：通胀心悸 / Trading Day: Inflation palpitations"
     },
     {
       "id": "39a39f70e0d85207654f9e27728f63b19dd75c43",
@@ -2013,31 +2743,8 @@
       "finance_noise": [],
       "title_original": "OpenAI launches ChatGPT for financial services industry",
       "title_en": "OpenAI launches ChatGPT for financial services industry",
-      "title_zh": null,
-      "title_bilingual": "OpenAI launches ChatGPT for financial services industry"
-    },
-    {
-      "id": "348b152fdb62615db1f3621e549005f5d48f8891",
-      "site_id": "finance_reuters",
-      "site_name": "Reuters Business",
-      "source": "Reuters Business",
-      "title": "US producer prices increase as expected in August; but key details firmer",
-      "url": "https://www.reuters.com/business/us-producer-prices-increase-expected-august-2026-09-10",
-      "published_at": null,
-      "first_seen_at": "2026-09-10T21:18:03.571861Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
-      "finance_is_related": true,
-      "finance_score": 1.0,
-      "finance_label": "财经相关",
-      "finance_relevance_reason": "trusted_finance_source_default_keep",
-      "finance_signals": [
-        "finance_reuters"
-      ],
-      "finance_noise": [],
-      "title_original": "US producer prices increase as expected in August; but key details firmer",
-      "title_en": "US producer prices increase as expected in August; but key details firmer",
-      "title_zh": null,
-      "title_bilingual": "US producer prices increase as expected in August; but key details firmer"
+      "title_zh": "OpenAI 推出针对金融服务行业的 ChatGPT",
+      "title_bilingual": "OpenAI 推出针对金融服务行业的 ChatGPT / OpenAI launches ChatGPT for financial services industry"
     },
     {
       "id": "fc9022ff8dfc2d880c71e5ecc44a400c6700f118",
@@ -2059,8 +2766,8 @@
       "finance_noise": [],
       "title_original": "UK deepens reliance on Musk's SpaceX, spending nearly $40 million on satellite services",
       "title_en": "UK deepens reliance on Musk's SpaceX, spending nearly $40 million on satellite services",
-      "title_zh": null,
-      "title_bilingual": "UK deepens reliance on Musk's SpaceX, spending nearly $40 million on satellite services"
+      "title_zh": "英国加深对马斯克旗下SpaceX的依赖，在卫星服务上花费近4000万美元",
+      "title_bilingual": "英国加深对马斯克旗下SpaceX的依赖，在卫星服务上花费近4000万美元 / UK deepens reliance on Musk's SpaceX, spending nearly $40 million on satellite services"
     },
     {
       "id": "b542ecaa71b03bef0bfba4ac9e19a36186e0bc5d",
@@ -2082,8 +2789,8 @@
       "finance_noise": [],
       "title_original": "Capital One and JPMorgan bet that fighting Trump may be safer than settling",
       "title_en": "Capital One and JPMorgan bet that fighting Trump may be safer than settling",
-      "title_zh": null,
-      "title_bilingual": "Capital One and JPMorgan bet that fighting Trump may be safer than settling"
+      "title_zh": "第一资本和摩根大通打赌，对抗特朗普可能比和解更安全",
+      "title_bilingual": "第一资本和摩根大通打赌，对抗特朗普可能比和解更安全 / Capital One and JPMorgan bet that fighting Trump may be safer than settling"
     },
     {
       "id": "c906c670654f3c86de256f002e5d0b7df879d60f",
@@ -2106,8 +2813,8 @@
       "finance_noise": [],
       "title_original": "Edgy bond investors unconsoled by Bessent's big buyback",
       "title_en": "Edgy bond investors unconsoled by Bessent's big buyback",
-      "title_zh": null,
-      "title_bilingual": "Edgy bond investors unconsoled by Bessent's big buyback"
+      "title_zh": "急躁的债券投资者对 Bessent 的大规模回购感到不安",
+      "title_bilingual": "急躁的债券投资者对 Bessent 的大规模回购感到不安 / Edgy bond investors unconsoled by Bessent's big buyback"
     },
     {
       "id": "57023bec81be1a3e2bd3cc7194118e30c4d80db5",
@@ -2129,8 +2836,8 @@
       "finance_noise": [],
       "title_original": "S&P 500 ends down as Treasury yields rise and traders fret about inflation",
       "title_en": "S&P 500 ends down as Treasury yields rise and traders fret about inflation",
-      "title_zh": null,
-      "title_bilingual": "S&P 500 ends down as Treasury yields rise and traders fret about inflation"
+      "title_zh": "由于美国国债收益率上升且交易员担心通胀，标普 500 指数最终下跌",
+      "title_bilingual": "由于美国国债收益率上升且交易员担心通胀，标普 500 指数最终下跌 / S&P 500 ends down as Treasury yields rise and traders fret about inflation"
     },
     {
       "id": "0b8f0177d88085071f3157c54476d03ac21b57c5",
@@ -2152,8 +2859,8 @@
       "finance_noise": [],
       "title_original": "US lawmakers call for new AI rules after Anthropic researchers' safety warnings",
       "title_en": "US lawmakers call for new AI rules after Anthropic researchers' safety warnings",
-      "title_zh": null,
-      "title_bilingual": "US lawmakers call for new AI rules after Anthropic researchers' safety warnings"
+      "title_zh": "在人类研究人员发出安全警告后，美国立法者呼吁制定新的人工智能规则",
+      "title_bilingual": "在人类研究人员发出安全警告后，美国立法者呼吁制定新的人工智能规则 / US lawmakers call for new AI rules after Anthropic researchers' safety warnings"
     },
     {
       "id": "065769604bc23e41941a3b969f269af4365e1c58",
@@ -2175,8 +2882,8 @@
       "finance_noise": [],
       "title_original": "ECB raises interest rates, bolstering bets for further moves",
       "title_en": "ECB raises interest rates, bolstering bets for further moves",
-      "title_zh": null,
-      "title_bilingual": "ECB raises interest rates, bolstering bets for further moves"
+      "title_zh": "欧洲央行加息，增强了进一步行动的押注",
+      "title_bilingual": "欧洲央行加息，增强了进一步行动的押注 / ECB raises interest rates, bolstering bets for further moves"
     },
     {
       "id": "200edf01ded1126176a9f3e63ae3064a50e67dd9",
@@ -2222,8 +2929,8 @@
       "finance_noise": [],
       "title_original": "US average diesel price crosses $6 a gallon for the first time, GasBuddy says",
       "title_en": "US average diesel price crosses $6 a gallon for the first time, GasBuddy says",
-      "title_zh": null,
-      "title_bilingual": "US average diesel price crosses $6 a gallon for the first time, GasBuddy says"
+      "title_zh": "GasBuddy 表示，美国平均柴油价格首次突破每加仑 6 美元",
+      "title_bilingual": "GasBuddy 表示，美国平均柴油价格首次突破每加仑 6 美元 / US average diesel price crosses $6 a gallon for the first time, GasBuddy says"
     },
     {
       "id": "c82abc84e814c8490fbd07a5cfb6784780b18de8",
@@ -2245,8 +2952,8 @@
       "finance_noise": [],
       "title_original": "Oracle's quarterly revenue beats estimates as AI boom drives cloud demand",
       "title_en": "Oracle's quarterly revenue beats estimates as AI boom drives cloud demand",
-      "title_zh": null,
-      "title_bilingual": "Oracle's quarterly revenue beats estimates as AI boom drives cloud demand"
+      "title_zh": "人工智能繁荣推动云需求，甲骨文季度收入超出预期",
+      "title_bilingual": "人工智能繁荣推动云需求，甲骨文季度收入超出预期 / Oracle's quarterly revenue beats estimates as AI boom drives cloud demand"
     },
     {
       "id": "93b75875b9128239f438a0764a125f84759ad31b",
@@ -2268,8 +2975,8 @@
       "finance_noise": [],
       "title_original": "Stellantis CEO highlights diverging US and global strategies",
       "title_en": "Stellantis CEO highlights diverging US and global strategies",
-      "title_zh": null,
-      "title_bilingual": "Stellantis CEO highlights diverging US and global strategies"
+      "title_zh": "Stellantis 首席执行官强调美国和全球战略的不同",
+      "title_bilingual": "Stellantis 首席执行官强调美国和全球战略的不同 / Stellantis CEO highlights diverging US and global strategies"
     },
     {
       "id": "3b5c870a8b8947f7bd2a83bdec10e95fe59839e9",
@@ -2291,8 +2998,8 @@
       "finance_noise": [],
       "title_original": "Trump's $5,000 dividend plan draws some Republican skepticism",
       "title_en": "Trump's $5,000 dividend plan draws some Republican skepticism",
-      "title_zh": null,
-      "title_bilingual": "Trump's $5,000 dividend plan draws some Republican skepticism"
+      "title_zh": "特朗普的 5,000 美元股息计划引起了一些共和党人的怀疑",
+      "title_bilingual": "特朗普的 5,000 美元股息计划引起了一些共和党人的怀疑 / Trump's $5,000 dividend plan draws some Republican skepticism"
     },
     {
       "id": "7dbb43a0f36c3f246a0f08ddd59394d76585b080",
@@ -2314,8 +3021,8 @@
       "finance_noise": [],
       "title_original": "US FAA head meets with airline CEOS on plan to cut flight delays",
       "title_en": "US FAA head meets with airline CEOS on plan to cut flight delays",
-      "title_zh": null,
-      "title_bilingual": "US FAA head meets with airline CEOS on plan to cut flight delays"
+      "title_zh": "美国联邦航空管理局局长会见航空公司首席执行官，讨论减少航班延误的计划",
+      "title_bilingual": "美国联邦航空管理局局长会见航空公司首席执行官，讨论减少航班延误的计划 / US FAA head meets with airline CEOS on plan to cut flight delays"
     },
     {
       "id": "e95dc042a173497d7b6f3fbac8780e2d11e2280b",
@@ -2337,31 +3044,8 @@
       "finance_noise": [],
       "title_original": "Explainer: Is Trump's $5,000 'dividend' legal and how would it work?",
       "title_en": "Explainer: Is Trump's $5,000 'dividend' legal and how would it work?",
-      "title_zh": null,
-      "title_bilingual": "Explainer: Is Trump's $5,000 'dividend' legal and how would it work?"
-    },
-    {
-      "id": "a440e86b3cb52bc1e938bafdc6e61b3e91c52153",
-      "site_id": "finance_reuters",
-      "site_name": "Reuters Business",
-      "source": "Reuters Business",
-      "title": "Trump administration proposes axing grace period for H-1B visa holders after job loss",
-      "url": "https://www.reuters.com/legal/government/trump-administration-proposes-waiving-grace-period-h-1b-holders-after-job-loss-2026-09-10",
-      "published_at": null,
-      "first_seen_at": "2026-09-10T21:18:03.571861Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
-      "finance_is_related": true,
-      "finance_score": 1.0,
-      "finance_label": "财经相关",
-      "finance_relevance_reason": "trusted_finance_source_default_keep",
-      "finance_signals": [
-        "finance_reuters"
-      ],
-      "finance_noise": [],
-      "title_original": "Trump administration proposes axing grace period for H-1B visa holders after job loss",
-      "title_en": "Trump administration proposes axing grace period for H-1B visa holders after job loss",
-      "title_zh": null,
-      "title_bilingual": "Trump administration proposes axing grace period for H-1B visa holders after job loss"
+      "title_zh": "解释者：特朗普的 5,000 美元“股息”合法吗？它会如何运作？",
+      "title_bilingual": "解释者：特朗普的 5,000 美元“股息”合法吗？它会如何运作？ / Explainer: Is Trump's $5,000 'dividend' legal and how would it work?"
     },
     {
       "id": "07960fdffcf87a4b4965bb438c7fce60ad7ab333",
@@ -2383,8 +3067,8 @@
       "finance_noise": [],
       "title_original": "White House copper tariff plan stalls amid affordability concerns, sources say",
       "title_en": "White House copper tariff plan stalls amid affordability concerns, sources say",
-      "title_zh": null,
-      "title_bilingual": "White House copper tariff plan stalls amid affordability concerns, sources say"
+      "title_zh": "消息人士称，由于负担能力担忧，白宫铜关税计划陷入停滞",
+      "title_bilingual": "消息人士称，由于负担能力担忧，白宫铜关税计划陷入停滞 / White House copper tariff plan stalls amid affordability concerns, sources say"
     },
     {
       "id": "096c09cfa0e16bb6b90c842baeae276380957d07",
@@ -2506,6 +3190,152 @@
       "title_en": null,
       "title_zh": "SpaceX：本月早些时候签署了新的数据中心托管协议。",
       "title_bilingual": "SpaceX：本月早些时候签署了新的数据中心托管协议。"
+    },
+    {
+      "id": "74db7068a3589f3cf50d70511f6fdeaef3a55f69",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "36氪 · 24小时热榜",
+      "title": "海底捞减持背后，“离岸富豪”排队补税",
+      "url": "https://www.36kr.com/p/3977186183655680",
+      "published_at": null,
+      "first_seen_at": "2026-09-10T18:37:07.200153Z",
+      "last_seen_at": "2026-09-11T06:13:55.132582Z",
+      "finance_is_related": true,
+      "finance_score": 0.6,
+      "finance_label": "公司事件",
+      "finance_relevance_reason": "matched_finance_signal",
+      "finance_signals": [
+        "减持",
+        "离岸"
+      ],
+      "finance_noise": [],
+      "title_original": "海底捞减持背后，“离岸富豪”排队补税",
+      "title_en": null,
+      "title_zh": "海底捞减持背后，“离岸富豪”排队补税",
+      "title_bilingual": "海底捞减持背后，“离岸富豪”排队补税"
+    },
+    {
+      "id": "4e62bf18a3eca3e5dfaa2f02233068f35416e368",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "雪球 · 今日话题",
+      "title": "中金黄金2026年中报分析：拐点时刻到来",
+      "url": "http://xueqiu.com/2828641690/408796148",
+      "published_at": null,
+      "first_seen_at": "2026-09-10T18:37:07.200153Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 0.56,
+      "finance_label": "大宗商品",
+      "finance_relevance_reason": "matched_finance_signal",
+      "finance_signals": [
+        "黄金"
+      ],
+      "finance_noise": [],
+      "title_original": "中金黄金2026年中报分析：拐点时刻到来",
+      "title_en": null,
+      "title_zh": "中金黄金2026年中报分析：拐点时刻到来",
+      "title_bilingual": "中金黄金2026年中报分析：拐点时刻到来"
+    },
+    {
+      "id": "288f1df935f1a2eb018d023817cdc05f41730028",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "雪球 · 今日话题",
+      "title": "A股价值指数怎么选？300价值、国证价值100、国信价值有何不同？（09.10）",
+      "url": "http://xueqiu.com/9391624441/408726466",
+      "published_at": null,
+      "first_seen_at": "2026-09-10T18:37:07.200153Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 0.56,
+      "finance_label": "股市",
+      "finance_relevance_reason": "matched_finance_signal",
+      "finance_signals": [
+        "a股"
+      ],
+      "finance_noise": [],
+      "title_original": "A股价值指数怎么选？300价值、国证价值100、国信价值有何不同？（09.10）",
+      "title_en": null,
+      "title_zh": "A股价值指数怎么选？300价值、国证价值100、国信价值有何不同？（09.10）",
+      "title_bilingual": "A股价值指数怎么选？300价值、国证价值100、国信价值有何不同？（09.10）"
+    },
+    {
+      "id": "0c3306044e37f3ddc03895fbd45a35a85c1835d7",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "第一财经 · 新闻排行周榜",
+      "title": "观察｜“染色莴笋”再次暴露农产品违法添加乱象，不应让消费者寒心农户赔本",
+      "url": "https://www.yicai.com/news/103353167.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-10T18:37:07.200153Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 0.59,
+      "finance_label": "产业经济",
+      "finance_relevance_reason": "matched_finance_signal",
+      "finance_signals": [
+        "消费",
+        "财经"
+      ],
+      "finance_noise": [],
+      "title_original": "观察｜“染色莴笋”再次暴露农产品违法添加乱象，不应让消费者寒心农户赔本",
+      "title_en": null,
+      "title_zh": "观察｜“染色莴笋”再次暴露农产品违法添加乱象，不应让消费者寒心农户赔本",
+      "title_bilingual": "观察｜“染色莴笋”再次暴露农产品违法添加乱象，不应让消费者寒心农户赔本"
+    },
+    {
+      "id": "f5d8dda6104609f556384fde3bb466074bd5eb7a",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "华尔街见闻 · 日排行",
+      "title": "美国8月PPI同比加速至5.4%超预期，核心PPI同比4.6%，美联储加息预期骤升",
+      "url": "https://wallstreetcn.com/articles/3781506",
+      "published_at": null,
+      "first_seen_at": "2026-09-10T18:37:07.200153Z",
+      "last_seen_at": "2026-09-11T06:13:55.132582Z",
+      "finance_is_related": true,
+      "finance_score": 0.64,
+      "finance_label": "宏观政策",
+      "finance_relevance_reason": "matched_finance_signal",
+      "finance_signals": [
+        "ppi",
+        "加息",
+        "美联储"
+      ],
+      "finance_noise": [],
+      "title_original": "美国8月PPI同比加速至5.4%超预期，核心PPI同比4.6%，美联储加息预期骤升",
+      "title_en": null,
+      "title_zh": "美国8月PPI同比加速至5.4%超预期，核心PPI同比4.6%，美联储加息预期骤升",
+      "title_bilingual": "美国8月PPI同比加速至5.4%超预期，核心PPI同比4.6%，美联储加息预期骤升"
+    },
+    {
+      "id": "3348cd5a57a1c838e642022c89c4108a0ce03809",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "华尔街见闻 · 日排行",
+      "title": "重磅金融发布会！证监会、央行、金融监管总局、外汇局齐发声",
+      "url": "https://wallstreetcn.com/articles/3781482",
+      "published_at": null,
+      "first_seen_at": "2026-09-10T18:37:07.200153Z",
+      "last_seen_at": "2026-09-11T06:13:55.132582Z",
+      "finance_is_related": true,
+      "finance_score": 0.71,
+      "finance_label": "宏观政策",
+      "finance_relevance_reason": "matched_finance_signal",
+      "finance_signals": [
+        "外汇",
+        "央行",
+        "监管",
+        "证监会",
+        "金融"
+      ],
+      "finance_noise": [],
+      "title_original": "重磅金融发布会！证监会、央行、金融监管总局、外汇局齐发声",
+      "title_en": null,
+      "title_zh": "重磅金融发布会！证监会、央行、金融监管总局、外汇局齐发声",
+      "title_bilingual": "重磅金融发布会！证监会、央行、金融监管总局、外汇局齐发声"
     },
     {
       "id": "687ccb2481dfbfcc16d1b9b07d72a41c69c94785",
@@ -2737,152 +3567,6 @@
       "title_en": null,
       "title_zh": "东南亚扩大中国清洁能源产品采购 年内贸易额同比增五成",
       "title_bilingual": "东南亚扩大中国清洁能源产品采购 年内贸易额同比增五成"
-    },
-    {
-      "id": "74db7068a3589f3cf50d70511f6fdeaef3a55f69",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "36氪 · 24小时热榜",
-      "title": "海底捞减持背后，“离岸富豪”排队补税",
-      "url": "https://www.36kr.com/p/3977186183655680",
-      "published_at": null,
-      "first_seen_at": "2026-09-10T18:37:07.200153Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
-      "finance_is_related": true,
-      "finance_score": 0.6,
-      "finance_label": "公司事件",
-      "finance_relevance_reason": "matched_finance_signal",
-      "finance_signals": [
-        "减持",
-        "离岸"
-      ],
-      "finance_noise": [],
-      "title_original": "海底捞减持背后，“离岸富豪”排队补税",
-      "title_en": null,
-      "title_zh": "海底捞减持背后，“离岸富豪”排队补税",
-      "title_bilingual": "海底捞减持背后，“离岸富豪”排队补税"
-    },
-    {
-      "id": "4e62bf18a3eca3e5dfaa2f02233068f35416e368",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "雪球 · 今日话题",
-      "title": "中金黄金2026年中报分析：拐点时刻到来",
-      "url": "http://xueqiu.com/2828641690/408796148",
-      "published_at": null,
-      "first_seen_at": "2026-09-10T18:37:07.200153Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
-      "finance_is_related": true,
-      "finance_score": 0.56,
-      "finance_label": "大宗商品",
-      "finance_relevance_reason": "matched_finance_signal",
-      "finance_signals": [
-        "黄金"
-      ],
-      "finance_noise": [],
-      "title_original": "中金黄金2026年中报分析：拐点时刻到来",
-      "title_en": null,
-      "title_zh": "中金黄金2026年中报分析：拐点时刻到来",
-      "title_bilingual": "中金黄金2026年中报分析：拐点时刻到来"
-    },
-    {
-      "id": "288f1df935f1a2eb018d023817cdc05f41730028",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "雪球 · 今日话题",
-      "title": "A股价值指数怎么选？300价值、国证价值100、国信价值有何不同？（09.10）",
-      "url": "http://xueqiu.com/9391624441/408726466",
-      "published_at": null,
-      "first_seen_at": "2026-09-10T18:37:07.200153Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
-      "finance_is_related": true,
-      "finance_score": 0.56,
-      "finance_label": "股市",
-      "finance_relevance_reason": "matched_finance_signal",
-      "finance_signals": [
-        "a股"
-      ],
-      "finance_noise": [],
-      "title_original": "A股价值指数怎么选？300价值、国证价值100、国信价值有何不同？（09.10）",
-      "title_en": null,
-      "title_zh": "A股价值指数怎么选？300价值、国证价值100、国信价值有何不同？（09.10）",
-      "title_bilingual": "A股价值指数怎么选？300价值、国证价值100、国信价值有何不同？（09.10）"
-    },
-    {
-      "id": "0c3306044e37f3ddc03895fbd45a35a85c1835d7",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "第一财经 · 新闻排行周榜",
-      "title": "观察｜“染色莴笋”再次暴露农产品违法添加乱象，不应让消费者寒心农户赔本",
-      "url": "https://www.yicai.com/news/103353167.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-10T18:37:07.200153Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
-      "finance_is_related": true,
-      "finance_score": 0.59,
-      "finance_label": "产业经济",
-      "finance_relevance_reason": "matched_finance_signal",
-      "finance_signals": [
-        "消费",
-        "财经"
-      ],
-      "finance_noise": [],
-      "title_original": "观察｜“染色莴笋”再次暴露农产品违法添加乱象，不应让消费者寒心农户赔本",
-      "title_en": null,
-      "title_zh": "观察｜“染色莴笋”再次暴露农产品违法添加乱象，不应让消费者寒心农户赔本",
-      "title_bilingual": "观察｜“染色莴笋”再次暴露农产品违法添加乱象，不应让消费者寒心农户赔本"
-    },
-    {
-      "id": "f5d8dda6104609f556384fde3bb466074bd5eb7a",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "华尔街见闻 · 日排行",
-      "title": "美国8月PPI同比加速至5.4%超预期，核心PPI同比4.6%，美联储加息预期骤升",
-      "url": "https://wallstreetcn.com/articles/3781506",
-      "published_at": null,
-      "first_seen_at": "2026-09-10T18:37:07.200153Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
-      "finance_is_related": true,
-      "finance_score": 0.64,
-      "finance_label": "宏观政策",
-      "finance_relevance_reason": "matched_finance_signal",
-      "finance_signals": [
-        "ppi",
-        "加息",
-        "美联储"
-      ],
-      "finance_noise": [],
-      "title_original": "美国8月PPI同比加速至5.4%超预期，核心PPI同比4.6%，美联储加息预期骤升",
-      "title_en": null,
-      "title_zh": "美国8月PPI同比加速至5.4%超预期，核心PPI同比4.6%，美联储加息预期骤升",
-      "title_bilingual": "美国8月PPI同比加速至5.4%超预期，核心PPI同比4.6%，美联储加息预期骤升"
-    },
-    {
-      "id": "3348cd5a57a1c838e642022c89c4108a0ce03809",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "华尔街见闻 · 日排行",
-      "title": "重磅金融发布会！证监会、央行、金融监管总局、外汇局齐发声",
-      "url": "https://wallstreetcn.com/articles/3781482",
-      "published_at": null,
-      "first_seen_at": "2026-09-10T18:37:07.200153Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
-      "finance_is_related": true,
-      "finance_score": 0.71,
-      "finance_label": "宏观政策",
-      "finance_relevance_reason": "matched_finance_signal",
-      "finance_signals": [
-        "外汇",
-        "央行",
-        "监管",
-        "证监会",
-        "金融"
-      ],
-      "finance_noise": [],
-      "title_original": "重磅金融发布会！证监会、央行、金融监管总局、外汇局齐发声",
-      "title_en": null,
-      "title_zh": "重磅金融发布会！证监会、央行、金融监管总局、外汇局齐发声",
-      "title_bilingual": "重磅金融发布会！证监会、央行、金融监管总局、外汇局齐发声"
     },
     {
       "id": "66d9b32c25e8be1410005e4c7b870392a0c851e9",
@@ -3387,33 +4071,694 @@
       "title_en": null,
       "title_zh": "硬蹭《狂飙》卖酒，赔偿500万元",
       "title_bilingual": "硬蹭《狂飙》卖酒，赔偿500万元"
-    },
-    {
-      "id": "5cc0fd87effb728617d22f276aa0d79a97d2f493",
-      "site_id": "opmlrss",
-      "site_name": "OPML RSS",
-      "source": "财新网",
-      "title": "东南亚扩大中国清洁能源产品采购 年内贸易额同比增5成",
-      "url": "https://www.caixin.com/2026-09-10/102483667.html",
-      "published_at": "2026-09-10T11:53:12Z",
-      "first_seen_at": "2026-09-11T01:15:17.425580Z",
-      "last_seen_at": "2026-09-11T01:15:17.425580Z",
-      "finance_is_related": true,
-      "finance_score": 0.66,
-      "finance_label": "国际贸易",
-      "finance_relevance_reason": "matched_finance_signal",
-      "finance_signals": [
-        "贸易"
-      ],
-      "finance_noise": [],
-      "title_original": "东南亚扩大中国清洁能源产品采购 年内贸易额同比增5成",
-      "title_en": null,
-      "title_zh": "东南亚扩大中国清洁能源产品采购 年内贸易额同比增5成",
-      "title_bilingual": "东南亚扩大中国清洁能源产品采购 年内贸易额同比增5成"
     }
   ],
   "items_signal": [
     {
+      "id": "9b2dbac886c948db9a519cc07263bc01f6bb893d",
+      "site_id": "finance_caixin",
+      "site_name": "财新网",
+      "source": "财新网",
+      "title": "贪污受贿1.76亿元 上实集团原总裁周军一审被判死缓",
+      "url": "https://companies.caixin.com/2026-09-11/102484181.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经相关",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_caixin"
+      ],
+      "finance_noise": [],
+      "title_original": "贪污受贿1.76亿元 上实集团原总裁周军一审被判死缓",
+      "title_en": null,
+      "title_zh": "贪污受贿1.76亿元 上实集团原总裁周军一审被判死缓",
+      "title_bilingual": "贪污受贿1.76亿元 上实集团原总裁周军一审被判死缓"
+    },
+    {
+      "id": "40fdd0150b10160131f40f43b883342bd6e8c135",
+      "site_id": "finance_caixin",
+      "site_name": "财新网",
+      "source": "财新网",
+      "title": "招行原副行长施顺华退休三年半后被查 曾主管对公业务",
+      "url": "https://finance.caixin.com/2026-09-11/102484173.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经综合",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_caixin"
+      ],
+      "finance_noise": [],
+      "title_original": "招行原副行长施顺华退休三年半后被查 曾主管对公业务",
+      "title_en": null,
+      "title_zh": "招行原副行长施顺华退休三年半后被查 曾主管对公业务",
+      "title_bilingual": "招行原副行长施顺华退休三年半后被查 曾主管对公业务"
+    },
+    {
+      "id": "f2c180a6fb1c2b17bf72e6cc1f4941085c2a6e29",
+      "site_id": "finance_caixin",
+      "site_name": "财新网",
+      "source": "财新网",
+      "title": "美国8月CPI环比增速反弹 美联储9月加息概率跳升至85%",
+      "url": "https://international.caixin.com/2026-09-11/102484167.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "宏观政策",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "cpi",
+        "加息",
+        "美联储"
+      ],
+      "finance_noise": [],
+      "title_original": "美国8月CPI环比增速反弹 美联储9月加息概率跳升至85%",
+      "title_en": null,
+      "title_zh": "美国8月CPI环比增速反弹 美联储9月加息概率跳升至85%",
+      "title_bilingual": "美国8月CPI环比增速反弹 美联储9月加息概率跳升至85%"
+    },
+    {
+      "id": "243e3d72ca38e523fe06ecafd252ecec14f2c2ab",
+      "site_id": "finance_caixin",
+      "site_name": "财新网",
+      "source": "财新网",
+      "title": "中央纪委、财政部通报隐性债务问责案例 原地市一把手被点名",
+      "url": "https://economy.caixin.com/2026-09-11/102484160.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经综合",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_caixin"
+      ],
+      "finance_noise": [],
+      "title_original": "中央纪委、财政部通报隐性债务问责案例 原地市一把手被点名",
+      "title_en": null,
+      "title_zh": "中央纪委、财政部通报隐性债务问责案例 原地市一把手被点名",
+      "title_bilingual": "中央纪委、财政部通报隐性债务问责案例 原地市一把手被点名"
+    },
+    {
+      "id": "797221708f4cb11bd43287e2239042020e088674",
+      "site_id": "finance_caixin",
+      "site_name": "财新网",
+      "source": "财新网",
+      "title": "人事观察｜清华工学博士王崧履新郑州市委书记",
+      "url": "https://china.caixin.com/2026-09-11/102484155.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经相关",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_caixin"
+      ],
+      "finance_noise": [],
+      "title_original": "人事观察｜清华工学博士王崧履新郑州市委书记",
+      "title_en": null,
+      "title_zh": "人事观察｜清华工学博士王崧履新郑州市委书记",
+      "title_bilingual": "人事观察｜清华工学博士王崧履新郑州市委书记"
+    },
+    {
+      "id": "da9da9a56384782fb19df3fde1ac99f73b70f08a",
+      "site_id": "finance_caixin",
+      "site_name": "财新网",
+      "source": "财新网",
+      "title": "视线｜8天内3头白鲸死亡 跨国转运与加拿大62年白鲸圈养历史的终结",
+      "url": "https://photos.caixin.com/2026-09-11/102484119.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经相关",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_caixin"
+      ],
+      "finance_noise": [],
+      "title_original": "视线｜8天内3头白鲸死亡 跨国转运与加拿大62年白鲸圈养历史的终结",
+      "title_en": null,
+      "title_zh": "视线｜8天内3头白鲸死亡 跨国转运与加拿大62年白鲸圈养历史的终结",
+      "title_bilingual": "视线｜8天内3头白鲸死亡 跨国转运与加拿大62年白鲸圈养历史的终结"
+    },
+    {
+      "id": "c8965befc078826f71d66a1ee2f344b9f94c4253",
+      "site_id": "finance_caixin",
+      "site_name": "财新网",
+      "source": "财新网",
+      "title": "两名落马中管干部被“双开”并移送司法",
+      "url": "https://china.caixin.com/2026-09-11/102484114.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经相关",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_caixin"
+      ],
+      "finance_noise": [],
+      "title_original": "两名落马中管干部被“双开”并移送司法",
+      "title_en": null,
+      "title_zh": "两名落马中管干部被“双开”并移送司法",
+      "title_bilingual": "两名落马中管干部被“双开”并移送司法"
+    },
+    {
+      "id": "8d598384ce48ca24409669f9deb275ccccc4cc80",
+      "site_id": "finance_caixin",
+      "site_name": "财新网",
+      "source": "财新网",
+      "title": "儿童癌症用药的可得性｜疾辨",
+      "url": "https://opinion.caixin.com/2026-09-11/102484105.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经相关",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_caixin"
+      ],
+      "finance_noise": [],
+      "title_original": "儿童癌症用药的可得性｜疾辨",
+      "title_en": null,
+      "title_zh": "儿童癌症用药的可得性｜疾辨",
+      "title_bilingual": "儿童癌症用药的可得性｜疾辨"
+    },
+    {
+      "id": "aa252de7cc589c140aee8099ca0e6b1c6a4ba269",
+      "site_id": "finance_caixin",
+      "site_name": "财新网",
+      "source": "财新网",
+      "title": "陆朝阳：量子计算暂时无法用于大模型、金融领域不应过度狂热",
+      "url": "https://www.caixin.com/2026-09-11/102484100.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经综合",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_caixin"
+      ],
+      "finance_noise": [],
+      "title_original": "陆朝阳：量子计算暂时无法用于大模型、金融领域不应过度狂热",
+      "title_en": null,
+      "title_zh": "陆朝阳：量子计算暂时无法用于大模型、金融领域不应过度狂热",
+      "title_bilingual": "陆朝阳：量子计算暂时无法用于大模型、金融领域不应过度狂热"
+    },
+    {
+      "id": "16abc88cd29225c0ec42e8b1540593aba4c8c6f2",
+      "site_id": "finance_caixin",
+      "site_name": "财新网",
+      "source": "财新网",
+      "title": "智能体生意仍在早期 卡点何在？",
+      "url": "https://www.caixin.com/2026-09-11/102484094.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经相关",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_caixin"
+      ],
+      "finance_noise": [],
+      "title_original": "智能体生意仍在早期 卡点何在？",
+      "title_en": null,
+      "title_zh": "智能体生意仍在早期 卡点何在？",
+      "title_bilingual": "智能体生意仍在早期 卡点何在？"
+    },
+    {
+      "id": "8e21f5c62311488032f3e8f25857f89f575e5d6f",
+      "site_id": "finance_caixin",
+      "site_name": "财新网",
+      "source": "财新网",
+      "title": "下周前瞻：美日央行分别议息；第20届亚运会开幕",
+      "url": "https://china.caixin.com/2026-09-11/102484080.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "宏观政策",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "央行"
+      ],
+      "finance_noise": [],
+      "title_original": "下周前瞻：美日央行分别议息；第20届亚运会开幕",
+      "title_en": null,
+      "title_zh": "下周前瞻：美日央行分别议息；第20届亚运会开幕",
+      "title_bilingual": "下周前瞻：美日央行分别议息；第20届亚运会开幕"
+    },
+    {
+      "id": "f90afdfb9843e721e87660842beba697bcc30992",
+      "site_id": "finance_caixin",
+      "site_name": "财新网",
+      "source": "财新网",
+      "title": "新政后深圳首场土拍溢价超100% 中海地产竞价200多轮拿下地块",
+      "url": "https://www.caixin.com/2026-09-11/102484076.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经相关",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_caixin"
+      ],
+      "finance_noise": [],
+      "title_original": "新政后深圳首场土拍溢价超100% 中海地产竞价200多轮拿下地块",
+      "title_en": null,
+      "title_zh": "新政后深圳首场土拍溢价超100% 中海地产竞价200多轮拿下地块",
+      "title_bilingual": "新政后深圳首场土拍溢价超100% 中海地产竞价200多轮拿下地块"
+    },
+    {
+      "id": "11d2d437c9c908edc4feaa706807ba089f59d6e2",
+      "site_id": "finance_caixin",
+      "site_name": "财新网",
+      "source": "财新网",
+      "title": "一年三次职务调整 贵州53岁女厅官高晓昀被查",
+      "url": "https://china.caixin.com/2026-09-11/102484061.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经相关",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_caixin"
+      ],
+      "finance_noise": [],
+      "title_original": "一年三次职务调整 贵州53岁女厅官高晓昀被查",
+      "title_en": null,
+      "title_zh": "一年三次职务调整 贵州53岁女厅官高晓昀被查",
+      "title_bilingual": "一年三次职务调整 贵州53岁女厅官高晓昀被查"
+    },
+    {
+      "id": "e911f2c9870bf6f0e84eb813b5470c21b6d5a6df",
+      "site_id": "finance_caixin",
+      "site_name": "财新网",
+      "source": "财新网",
+      "title": "朱学东：黄豆的一生｜饮食",
+      "url": "https://mini.caixin.com/2026-09-11/102484059.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经相关",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_caixin"
+      ],
+      "finance_noise": [],
+      "title_original": "朱学东：黄豆的一生｜饮食",
+      "title_en": null,
+      "title_zh": "朱学东：黄豆的一生｜饮食",
+      "title_bilingual": "朱学东：黄豆的一生｜饮食"
+    },
+    {
+      "id": "3044794ff47a747c2e13d4966583eb7da370bcdd",
+      "site_id": "finance_caixin",
+      "site_name": "财新网",
+      "source": "财新网",
+      "title": "精神病院里的960万元骗保生意｜小辛漫闻",
+      "url": "https://mini.caixin.com/2026-09-11/102484056.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经相关",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_caixin"
+      ],
+      "finance_noise": [],
+      "title_original": "精神病院里的960万元骗保生意｜小辛漫闻",
+      "title_en": null,
+      "title_zh": "精神病院里的960万元骗保生意｜小辛漫闻",
+      "title_bilingual": "精神病院里的960万元骗保生意｜小辛漫闻"
+    },
+    {
+      "id": "5fa0497cc3284d60ff2a3fc0bdd0196a40a8441e",
+      "site_id": "finance_caixin",
+      "site_name": "财新网",
+      "source": "财新网",
+      "title": "解决回款难问题、保护中小企业权益，还须回归法治轨道",
+      "url": "https://opinion.caixin.com/2026-09-11/102484007.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经相关",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_caixin"
+      ],
+      "finance_noise": [],
+      "title_original": "解决回款难问题、保护中小企业权益，还须回归法治轨道",
+      "title_en": null,
+      "title_zh": "解决回款难问题、保护中小企业权益，还须回归法治轨道",
+      "title_bilingual": "解决回款难问题、保护中小企业权益，还须回归法治轨道"
+    },
+    {
+      "id": "67c966c07373c24a6b1fdb40a9b04b40442a0e4c",
+      "site_id": "finance_caixin",
+      "site_name": "财新网",
+      "source": "财新网",
+      "title": "GPT周报｜DeepSeek发V4.1-Flash价格下调；苹果发布首款折叠屏手机iPhone Duo；Meta发布个人AI智能体Muse",
+      "url": "https://www.caixin.com/2026-09-11/102484002.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经相关",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "eps"
+      ],
+      "finance_noise": [],
+      "title_original": "GPT周报｜DeepSeek发V4.1-Flash价格下调；苹果发布首款折叠屏手机iPhone Duo；Meta发布个人AI智能体Muse",
+      "title_en": null,
+      "title_zh": "GPT周报｜DeepSeek发V4.1-Flash价格下调；苹果发布首款折叠屏手机iPhone Duo；Meta发布个人AI智能体Muse",
+      "title_bilingual": "GPT周报｜DeepSeek发V4.1-Flash价格下调；苹果发布首款折叠屏手机iPhone Duo；Meta发布个人AI智能体Muse"
+    },
+    {
+      "id": "4175a9e0257211aca4a485ec27a670145c561a3f",
+      "site_id": "finance_caixin",
+      "site_name": "财新网",
+      "source": "财新网",
+      "title": "如何判定低价无序竞争？两部委明确重要工业品成本核算原则",
+      "url": "https://economy.caixin.com/2026-09-11/102483970.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经综合",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_caixin"
+      ],
+      "finance_noise": [],
+      "title_original": "如何判定低价无序竞争？两部委明确重要工业品成本核算原则",
+      "title_en": null,
+      "title_zh": "如何判定低价无序竞争？两部委明确重要工业品成本核算原则",
+      "title_bilingual": "如何判定低价无序竞争？两部委明确重要工业品成本核算原则"
+    },
+    {
+      "id": "dc5aaa4a451514d9f790bf84ddce58b6ce3a0a95",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "雪球 · 今日话题",
+      "title": "A股地量出现，要变盘了吗？",
+      "url": "http://xueqiu.com/1843761023/408862077",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 0.56,
+      "finance_label": "股市",
+      "finance_relevance_reason": "matched_finance_signal",
+      "finance_signals": [
+        "a股"
+      ],
+      "finance_noise": [],
+      "title_original": "A股地量出现，要变盘了吗？",
+      "title_en": null,
+      "title_zh": "A股地量出现，要变盘了吗？",
+      "title_bilingual": "A股地量出现，要变盘了吗？"
+    },
+    {
+      "id": "5a2932431624954997e678abb8c8099bef917978",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "雪球 · 今日话题",
+      "title": "新能源的电价有底吗？",
+      "url": "http://xueqiu.com/5385800475/408915068",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 0.56,
+      "finance_label": "产业经济",
+      "finance_relevance_reason": "matched_finance_signal",
+      "finance_signals": [
+        "新能源"
+      ],
+      "finance_noise": [],
+      "title_original": "新能源的电价有底吗？",
+      "title_en": null,
+      "title_zh": "新能源的电价有底吗？",
+      "title_bilingual": "新能源的电价有底吗？"
+    },
+    {
+      "id": "9c5c1ebbf94a00e79cf4433ba6ce693789172953",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "雪球 · 今日话题",
+      "title": "债台高筑为何仍要加息？看清全球宏观困局与资产博弈的底层真相",
+      "url": "http://xueqiu.com/2884313460/408947941",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 0.59,
+      "finance_label": "宏观政策",
+      "finance_relevance_reason": "matched_finance_signal",
+      "finance_signals": [
+        "加息",
+        "资产"
+      ],
+      "finance_noise": [],
+      "title_original": "债台高筑为何仍要加息？看清全球宏观困局与资产博弈的底层真相",
+      "title_en": null,
+      "title_zh": "债台高筑为何仍要加息？看清全球宏观困局与资产博弈的底层真相",
+      "title_bilingual": "债台高筑为何仍要加息？看清全球宏观困局与资产博弈的底层真相"
+    },
+    {
+      "id": "2c213e5ff52646c243d8654532444b1bef98e896",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "雪球 · 今日话题",
+      "title": "把投资中的焦虑，安放在对的地方",
+      "url": "http://xueqiu.com/2245748859/408922298",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 0.55,
+      "finance_label": "财经综合",
+      "finance_relevance_reason": "matched_broad_finance_signal",
+      "finance_signals": [
+        "投资"
+      ],
+      "finance_noise": [],
+      "title_original": "把投资中的焦虑，安放在对的地方",
+      "title_en": null,
+      "title_zh": "把投资中的焦虑，安放在对的地方",
+      "title_bilingual": "把投资中的焦虑，安放在对的地方"
+    },
+    {
+      "id": "1564aff2c12a216a0a342487eb2145466abb96cb",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "第一财经 · 新闻排行周榜",
+      "title": "中东投资公司对瑞幸咖啡投资10亿美元，看好中国咖啡市场前景",
+      "url": "https://www.yicai.com/news/103358778.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 0.62,
+      "finance_label": "债汇",
+      "finance_relevance_reason": "matched_finance_signal",
+      "finance_signals": [
+        "美元",
+        "投资",
+        "财经"
+      ],
+      "finance_noise": [],
+      "title_original": "中东投资公司对瑞幸咖啡投资10亿美元，看好中国咖啡市场前景",
+      "title_en": null,
+      "title_zh": "中东投资公司对瑞幸咖啡投资10亿美元，看好中国咖啡市场前景",
+      "title_bilingual": "中东投资公司对瑞幸咖啡投资10亿美元，看好中国咖啡市场前景"
+    },
+    {
+      "id": "a95d2f09b548832370b640dceeeafe437fe60b52",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "华尔街见闻 · 日排行",
+      "title": "美国8月核心CPI同比2.4%创五年半来最低水平，环比0.3%超预期、为4个月来最大涨幅",
+      "url": "https://wallstreetcn.com/articles/3781591",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 0.56,
+      "finance_label": "宏观政策",
+      "finance_relevance_reason": "matched_finance_signal",
+      "finance_signals": [
+        "cpi"
+      ],
+      "finance_noise": [],
+      "title_original": "美国8月核心CPI同比2.4%创五年半来最低水平，环比0.3%超预期、为4个月来最大涨幅",
+      "title_en": null,
+      "title_zh": "美国8月核心CPI同比2.4%创五年半来最低水平，环比0.3%超预期、为4个月来最大涨幅",
+      "title_bilingual": "美国8月核心CPI同比2.4%创五年半来最低水平，环比0.3%超预期、为4个月来最大涨幅"
+    },
+    {
+      "id": "d0fcae8f73987af0ecb11e5c533ab00db688dfc9",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "华尔街见闻 · 日排行",
+      "title": "美国8月CPI巩固加息预期，但美股仍大幅高开，存储高开低走，10年期美债收益率回落，现货黄金站上4400美元",
+      "url": "https://wallstreetcn.com/articles/3781549",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 0.68,
+      "finance_label": "宏观政策",
+      "finance_relevance_reason": "matched_finance_signal",
+      "finance_signals": [
+        "cpi",
+        "加息",
+        "收益率",
+        "美元",
+        "美股",
+        "黄金"
+      ],
+      "finance_noise": [],
+      "title_original": "美国8月CPI巩固加息预期，但美股仍大幅高开，存储高开低走，10年期美债收益率回落，现货黄金站上4400美元",
+      "title_en": null,
+      "title_zh": "美国8月CPI巩固加息预期，但美股仍大幅高开，存储高开低走，10年期美债收益率回落，现货黄金站上4400美元",
+      "title_bilingual": "美国8月CPI巩固加息预期，但美股仍大幅高开，存储高开低走，10年期美债收益率回落，现货黄金站上4400美元"
+    },
+    {
+      "id": "311d4326fe49e3d816ecf2b791423a6e151d99ac",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "华尔街见闻 · 日排行",
+      "title": "下周美联储加息与否，今晚CPI一锤定音？",
+      "url": "https://wallstreetcn.com/articles/3781566",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 0.64,
+      "finance_label": "宏观政策",
+      "finance_relevance_reason": "matched_finance_signal",
+      "finance_signals": [
+        "cpi",
+        "加息",
+        "美联储"
+      ],
+      "finance_noise": [],
+      "title_original": "下周美联储加息与否，今晚CPI一锤定音？",
+      "title_en": null,
+      "title_zh": "下周美联储加息与否，今晚CPI一锤定音？",
+      "title_bilingual": "下周美联储加息与否，今晚CPI一锤定音？"
+    },
+    {
+      "id": "225f41db2f8f51905b7f80685a53c9b549389e19",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "华尔街见闻 · 日排行",
+      "title": "研究员要失业了？OpenAI推出金融版ChatGPT，研究、建模、PPT一站式完成",
+      "url": "https://wallstreetcn.com/articles/3781534",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 0.55,
+      "finance_label": "财经综合",
+      "finance_relevance_reason": "matched_broad_finance_signal",
+      "finance_signals": [
+        "金融"
+      ],
+      "finance_noise": [],
+      "title_original": "研究员要失业了？OpenAI推出金融版ChatGPT，研究、建模、PPT一站式完成",
+      "title_en": null,
+      "title_zh": "研究员要失业了？OpenAI推出金融版ChatGPT，研究、建模、PPT一站式完成",
+      "title_bilingual": "研究员要失业了？OpenAI推出金融版ChatGPT，研究、建模、PPT一站式完成"
+    },
+    {
+      "id": "5ab2ff3be79aac58b22b118266768fb8eb0ca7e6",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "新浪财经新闻 · 点击量排行",
+      "title": "燧原科技大涨188%，中一签赚超13万元，腾讯小米已布局",
+      "url": "https://finance.sina.com.cn/wm/2026-09-11/doc-inirmfei2217391.shtml",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 0.55,
+      "finance_label": "财经综合",
+      "finance_relevance_reason": "matched_broad_finance_signal",
+      "finance_signals": [
+        "finance",
+        "财经"
+      ],
+      "finance_noise": [],
+      "title_original": "燧原科技大涨188%，中一签赚超13万元，腾讯小米已布局",
+      "title_en": null,
+      "title_zh": "燧原科技大涨188%，中一签赚超13万元，腾讯小米已布局",
+      "title_bilingual": "燧原科技大涨188%，中一签赚超13万元，腾讯小米已布局"
+    },
+    {
+      "id": "accad411749138523aec89298bec3a9d256e4f43",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "新浪财经新闻 · 点击量排行",
+      "title": "2026年A股上市公司现金分红榜单揭晓 2.4万亿元“真金白银”落地",
+      "url": "https://finance.sina.com.cn/roll/2026-09-11/doc-inirkuqm5452771.shtml",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T15:30:59.030201Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 0.7,
+      "finance_label": "股市",
+      "finance_relevance_reason": "matched_finance_signal",
+      "finance_signals": [
+        "a股",
+        "上市",
+        "分红",
+        "finance",
+        "财经"
+      ],
+      "finance_noise": [],
+      "title_original": "2026年A股上市公司现金分红榜单揭晓 2.4万亿元“真金白银”落地",
+      "title_en": null,
+      "title_zh": "2026年A股上市公司现金分红榜单揭晓 2.4万亿元“真金白银”落地",
+      "title_bilingual": "2026年A股上市公司现金分红榜单揭晓 2.4万亿元“真金白银”落地"
+    },
+    {
       "id": "90f5df5923892ddf87d3892bea20691f17b022de",
       "site_id": "finance_caixin",
       "site_name": "财新网",
@@ -3896,8 +5241,8 @@
       "finance_noise": [],
       "title_original": "Global bond selloff pushes 10-year US yield toward 5% on oil, rate-hike fears",
       "title_en": "Global bond selloff pushes 10-year US yield toward 5% on oil, rate-hike fears",
-      "title_zh": null,
-      "title_bilingual": "Global bond selloff pushes 10-year US yield toward 5% on oil, rate-hike fears"
+      "title_zh": "由于石油和加息担忧，全球债券抛售将美国10年期国债收益率推向5%",
+      "title_bilingual": "由于石油和加息担忧，全球债券抛售将美国10年期国债收益率推向5% / Global bond selloff pushes 10-year US yield toward 5% on oil, rate-hike fears"
     },
     {
       "id": "5f40fe8600512550eb4efa1647dae592b842c6af",
@@ -3919,8 +5264,8 @@
       "finance_noise": [],
       "title_original": "Focus: Premier of Germany's Lower Saxony walks high wire between VW cuts and AfD",
       "title_en": "Focus: Premier of Germany's Lower Saxony walks high wire between VW cuts and AfD",
-      "title_zh": null,
-      "title_bilingual": "Focus: Premier of Germany's Lower Saxony walks high wire between VW cuts and AfD"
+      "title_zh": "焦点：德国下萨克森州州长在大众汽车削减开支和德国选择党之间走钢丝",
+      "title_bilingual": "焦点：德国下萨克森州州长在大众汽车削减开支和德国选择党之间走钢丝 / Focus: Premier of Germany's Lower Saxony walks high wire between VW cuts and AfD"
     },
     {
       "id": "593b482a48551c4439aa52acb4e4755454948a4c",
@@ -3942,8 +5287,8 @@
       "finance_noise": [],
       "title_original": "Focus: Novartis investors turn spotlight on M&A after trial setbacks",
       "title_en": "Focus: Novartis investors turn spotlight on M&A after trial setbacks",
-      "title_zh": null,
-      "title_bilingual": "Focus: Novartis investors turn spotlight on M&A after trial setbacks"
+      "title_zh": "焦点：诺华投资者在试验受挫后将注意力转向并购",
+      "title_bilingual": "焦点：诺华投资者在试验受挫后将注意力转向并购 / Focus: Novartis investors turn spotlight on M&A after trial setbacks"
     },
     {
       "id": "74a767afc94698d4ec0b8c734bb875e15714929d",
@@ -3966,8 +5311,8 @@
       "finance_noise": [],
       "title_original": "Morning Bid: Lenders say show me the money as bond carnage spreads",
       "title_en": "Morning Bid: Lenders say show me the money as bond carnage spreads",
-      "title_zh": null,
-      "title_bilingual": "Morning Bid: Lenders say show me the money as bond carnage spreads"
+      "title_zh": "早间出价：贷款人说随着债券大屠杀的蔓延，让我看看钱",
+      "title_bilingual": "早间出价：贷款人说随着债券大屠杀的蔓延，让我看看钱 / Morning Bid: Lenders say show me the money as bond carnage spreads"
     },
     {
       "id": "bb6aa8ce779ee6e46786856ec9c47a1dc2a64373",
@@ -3989,8 +5334,8 @@
       "finance_noise": [],
       "title_original": "Gasoline likely to boost US consumer prices in August",
       "title_en": "Gasoline likely to boost US consumer prices in August",
-      "title_zh": null,
-      "title_bilingual": "Gasoline likely to boost US consumer prices in August"
+      "title_zh": "汽油可能会推高八月份美国消费者价格",
+      "title_bilingual": "汽油可能会推高八月份美国消费者价格 / Gasoline likely to boost US consumer prices in August"
     },
     {
       "id": "7f60d69639262144a2da1d10c478667c107b4788",
@@ -4012,8 +5357,8 @@
       "finance_noise": [],
       "title_original": "China targets mass deployment of self-driving vehicles by 2030",
       "title_en": "China targets mass deployment of self-driving vehicles by 2030",
-      "title_zh": null,
-      "title_bilingual": "China targets mass deployment of self-driving vehicles by 2030"
+      "title_zh": "中国计划到2030年大规模部署自动驾驶汽车",
+      "title_bilingual": "中国计划到2030年大规模部署自动驾驶汽车 / China targets mass deployment of self-driving vehicles by 2030"
     },
     {
       "id": "608cb6fde0d27768be8ba13990776bcdcf8804a4",
@@ -4035,8 +5380,8 @@
       "finance_noise": [],
       "title_original": "BOJ set to lift rates next week but offer few clues on terminal, sources say",
       "title_en": "BOJ set to lift rates next week but offer few clues on terminal, sources say",
-      "title_zh": null,
-      "title_bilingual": "BOJ set to lift rates next week but offer few clues on terminal, sources say"
+      "title_zh": "消息人士称，日本央行计划下周加息，但在终端方面几乎没有提供任何线索",
+      "title_bilingual": "消息人士称，日本央行计划下周加息，但在终端方面几乎没有提供任何线索 / BOJ set to lift rates next week but offer few clues on terminal, sources say"
     },
     {
       "id": "3568edfe819fce0779e92e45ffdb71de0f0ee0cd",
@@ -4058,8 +5403,8 @@
       "finance_noise": [],
       "title_original": "Texas judge rules TikTok misled users on child safety feature",
       "title_en": "Texas judge rules TikTok misled users on child safety feature",
-      "title_zh": null,
-      "title_bilingual": "Texas judge rules TikTok misled users on child safety feature"
+      "title_zh": "德克萨斯州法官裁定 TikTok 在儿童安全功能上误导用户",
+      "title_bilingual": "德克萨斯州法官裁定 TikTok 在儿童安全功能上误导用户 / Texas judge rules TikTok misled users on child safety feature"
     },
     {
       "id": "757a7569e4b6cce9129df7ef64dc74bcac7ef712",
@@ -4081,8 +5426,8 @@
       "finance_noise": [],
       "title_original": "Oil prices set to end week above $100 for first time in nearly 4 months",
       "title_en": "Oil prices set to end week above $100 for first time in nearly 4 months",
-      "title_zh": null,
-      "title_bilingual": "Oil prices set to end week above $100 for first time in nearly 4 months"
+      "title_zh": "本周油价将近 4 个月来首次突破 100 美元",
+      "title_bilingual": "本周油价将近 4 个月来首次突破 100 美元 / Oil prices set to end week above $100 for first time in nearly 4 months"
     },
     {
       "id": "d1fb02b8cbd028309c52a12ce41dcba248c2e5f5",
@@ -4104,8 +5449,8 @@
       "finance_noise": [],
       "title_original": "Dollar holds gains, yen slips as Middle East energy shock deepens",
       "title_en": "Dollar holds gains, yen slips as Middle East energy shock deepens",
-      "title_zh": null,
-      "title_bilingual": "Dollar holds gains, yen slips as Middle East energy shock deepens"
+      "title_zh": "随着中东能源冲击加深，美元保持上涨，日元下跌",
+      "title_bilingual": "随着中东能源冲击加深，美元保持上涨，日元下跌 / Dollar holds gains, yen slips as Middle East energy shock deepens"
     },
     {
       "id": "b2cae5dc3ef93fe3b371f251263104b10bafd90e",
@@ -4129,8 +5474,8 @@
       "finance_noise": [],
       "title_original": "Bonds buckle, stocks fall as surging oil prices inflame inflation risks",
       "title_en": "Bonds buckle, stocks fall as surging oil prices inflame inflation risks",
-      "title_zh": null,
-      "title_bilingual": "Bonds buckle, stocks fall as surging oil prices inflame inflation risks"
+      "title_zh": "油价飙升加剧通胀风险，债券下跌，股市下跌",
+      "title_bilingual": "油价飙升加剧通胀风险，债券下跌，股市下跌 / Bonds buckle, stocks fall as surging oil prices inflame inflation risks"
     },
     {
       "id": "94a394b9d0084c52eaa177bb052f75b68e021b89",
@@ -4152,8 +5497,8 @@
       "finance_noise": [],
       "title_original": "Apple’s foldable iPhone poses a $1,999 question: Who is it for?",
       "title_en": "Apple’s foldable iPhone poses a $1,999 question: Who is it for?",
-      "title_zh": null,
-      "title_bilingual": "Apple’s foldable iPhone poses a $1,999 question: Who is it for?"
+      "title_zh": "苹果售价 1,999 美元的可折叠 iPhone 带来了一个问题：它适合谁？",
+      "title_bilingual": "苹果售价 1,999 美元的可折叠 iPhone 带来了一个问题：它适合谁？ / Apple’s foldable iPhone poses a $1,999 question: Who is it for?"
     },
     {
       "id": "2e0a35392f3774f5184316eb0dc7375b6419a6b4",
@@ -4175,8 +5520,8 @@
       "finance_noise": [],
       "title_original": "More US lawmakers seek new AI rules after Anthropic researchers warn of human extinction",
       "title_en": "More US lawmakers seek new AI rules after Anthropic researchers warn of human extinction",
-      "title_zh": null,
-      "title_bilingual": "More US lawmakers seek new AI rules after Anthropic researchers warn of human extinction"
+      "title_zh": "在人类研究人员警告人类灭绝后，更多美国立法者寻求新的人工智能规则",
+      "title_bilingual": "在人类研究人员警告人类灭绝后，更多美国立法者寻求新的人工智能规则 / More US lawmakers seek new AI rules after Anthropic researchers warn of human extinction"
     },
     {
       "id": "5d821db2f210887dcf3ef34b5683e616646bea75",
@@ -4187,7 +5532,7 @@
       "url": "https://www.36kr.com/p/3978247601601280",
       "published_at": null,
       "first_seen_at": "2026-09-11T06:13:55.132582Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
       "finance_is_related": true,
       "finance_score": 0.6,
       "finance_label": "宏观政策",
@@ -4234,7 +5579,7 @@
       "url": "https://wallstreetcn.com/articles/3781524",
       "published_at": null,
       "first_seen_at": "2026-09-11T06:13:55.132582Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
       "finance_is_related": true,
       "finance_score": 0.56,
       "finance_label": "大宗商品",
@@ -4257,7 +5602,7 @@
       "url": "https://finance.sina.com.cn/jjxw/2026-09-11/doc-inirkywe2348223.shtml",
       "published_at": null,
       "first_seen_at": "2026-09-11T06:13:55.132582Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
       "finance_is_related": true,
       "finance_score": 0.55,
       "finance_label": "财经综合",
@@ -4281,7 +5626,7 @@
       "url": "https://finance.sina.com.cn/world/2026-09-11/doc-inirmfef5320805.shtml",
       "published_at": null,
       "first_seen_at": "2026-09-11T06:13:55.132582Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
       "finance_is_related": true,
       "finance_score": 0.55,
       "finance_label": "财经综合",
@@ -4305,7 +5650,7 @@
       "url": "https://finance.sina.com.cn/wm/2026-09-11/doc-inirmfei2115209.shtml",
       "published_at": null,
       "first_seen_at": "2026-09-11T06:13:55.132582Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
       "finance_is_related": true,
       "finance_score": 0.66,
       "finance_label": "大宗商品",
@@ -4331,7 +5676,7 @@
       "url": "https://finance.sina.com.cn/jjxw/2026-09-11/doc-inirkywi5408751.shtml",
       "published_at": null,
       "first_seen_at": "2026-09-11T06:13:55.132582Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
       "finance_is_related": true,
       "finance_score": 0.55,
       "finance_label": "财经综合",
@@ -4355,7 +5700,7 @@
       "url": "https://finance.sina.com.cn/stock/cpbd/2026-09-11/doc-inirkywi5440798.shtml",
       "published_at": null,
       "first_seen_at": "2026-09-11T06:13:55.132582Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
       "finance_is_related": true,
       "finance_score": 0.62,
       "finance_label": "财经综合",
@@ -4380,7 +5725,7 @@
       "url": "https://finance.sina.com.cn/roll/2026-09-11/doc-inirkuqh2418393.shtml",
       "published_at": null,
       "first_seen_at": "2026-09-11T06:13:55.132582Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
       "finance_is_related": true,
       "finance_score": 0.65,
       "finance_label": "监管政策",
@@ -4433,7 +5778,7 @@
       "url": "https://finance.sina.com.cn/roll/2026-09-11/doc-inirkywe7173513.shtml",
       "published_at": null,
       "first_seen_at": "2026-09-11T06:13:55.132582Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
       "finance_is_related": true,
       "finance_score": 0.7,
       "finance_label": "宏观政策",
@@ -4460,7 +5805,7 @@
       "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-11/doc-inirkywe2341627.shtml",
       "published_at": null,
       "first_seen_at": "2026-09-11T06:13:55.132582Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
       "finance_is_related": true,
       "finance_score": 0.66,
       "finance_label": "股市",
@@ -4501,6 +5846,29 @@
       "title_en": null,
       "title_zh": "美财政部宣布对伊朗相关个人和实体实施制裁",
       "title_bilingual": "美财政部宣布对伊朗相关个人和实体实施制裁"
+    },
+    {
+      "id": "8a640ff006f12b6d447f71e4936bddc78da34a38",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "华尔街见闻 · 日排行",
+      "title": "沃什导师、传奇交易员Druckenmiller闭门会议：美国利率偏低，鸽派立场荒谬，AI或有盈利泡沫",
+      "url": "https://wallstreetcn.com/articles/3781519",
+      "published_at": null,
+      "first_seen_at": "2026-09-11T01:15:17.425580Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 0.56,
+      "finance_label": "宏观政策",
+      "finance_relevance_reason": "matched_finance_signal",
+      "finance_signals": [
+        "利率"
+      ],
+      "finance_noise": [],
+      "title_original": "沃什导师、传奇交易员Druckenmiller闭门会议：美国利率偏低，鸽派立场荒谬，AI或有盈利泡沫",
+      "title_en": null,
+      "title_zh": "沃什导师、传奇交易员Druckenmiller闭门会议：美国利率偏低，鸽派立场荒谬，AI或有盈利泡沫",
+      "title_bilingual": "沃什导师、传奇交易员Druckenmiller闭门会议：美国利率偏低，鸽派立场荒谬，AI或有盈利泡沫"
     },
     {
       "id": "ce286c28d7c04c50fef2b248c0369e60848e1f84",
@@ -4689,29 +6057,6 @@
       "title_bilingual": "一艘利比亚籍货轮青岛检修中起火致25死"
     },
     {
-      "id": "8a640ff006f12b6d447f71e4936bddc78da34a38",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "华尔街见闻 · 日排行",
-      "title": "沃什导师、传奇交易员Druckenmiller闭门会议：美国利率偏低，鸽派立场荒谬，AI或有盈利泡沫",
-      "url": "https://wallstreetcn.com/articles/3781519",
-      "published_at": null,
-      "first_seen_at": "2026-09-11T01:15:17.425580Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
-      "finance_is_related": true,
-      "finance_score": 0.56,
-      "finance_label": "宏观政策",
-      "finance_relevance_reason": "matched_finance_signal",
-      "finance_signals": [
-        "利率"
-      ],
-      "finance_noise": [],
-      "title_original": "沃什导师、传奇交易员Druckenmiller闭门会议：美国利率偏低，鸽派立场荒谬，AI或有盈利泡沫",
-      "title_en": null,
-      "title_zh": "沃什导师、传奇交易员Druckenmiller闭门会议：美国利率偏低，鸽派立场荒谬，AI或有盈利泡沫",
-      "title_bilingual": "沃什导师、传奇交易员Druckenmiller闭门会议：美国利率偏低，鸽派立场荒谬，AI或有盈利泡沫"
-    },
-    {
       "id": "01e396db93e0ad733a74871668afc41f7c34daaa",
       "site_id": "tophub",
       "site_name": "TopHub",
@@ -4791,6 +6136,123 @@
       "title_bilingual": "特朗普豪言凸显共和党选举困境 5000美元发钱承诺落地希望渺茫"
     },
     {
+      "id": "e4d0aab65d779541f45ac1b3d084ff1e8db312e1",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "华尔街见闻 · 日排行",
+      "title": "通胀忧虑重燃，美国股债双杀，存储芯片股普跌，美油飙涨7%破百，黄金重挫逼近4300",
+      "url": "https://wallstreetcn.com/articles/3781481",
+      "published_at": null,
+      "first_seen_at": "2026-09-10T23:16:38.684002Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 0.6,
+      "finance_label": "宏观政策",
+      "finance_relevance_reason": "matched_finance_signal",
+      "finance_signals": [
+        "通胀",
+        "黄金"
+      ],
+      "finance_noise": [],
+      "title_original": "通胀忧虑重燃，美国股债双杀，存储芯片股普跌，美油飙涨7%破百，黄金重挫逼近4300",
+      "title_en": null,
+      "title_zh": "通胀忧虑重燃，美国股债双杀，存储芯片股普跌，美油飙涨7%破百，黄金重挫逼近4300",
+      "title_bilingual": "通胀忧虑重燃，美国股债双杀，存储芯片股普跌，美油飙涨7%破百，黄金重挫逼近4300"
+    },
+    {
+      "id": "a6985d7554d34c3f121cd8cc94c32e0c607fe842",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "华尔街见闻 · 日排行",
+      "title": "特朗普拟给美国成年人每人发5000美元，美媒算账：总额高达1.2万亿美元，关税收入远远不够",
+      "url": "https://wallstreetcn.com/articles/3781496",
+      "published_at": null,
+      "first_seen_at": "2026-09-10T23:16:38.684002Z",
+      "last_seen_at": "2026-09-11T06:13:55.132582Z",
+      "finance_is_related": true,
+      "finance_score": 0.6,
+      "finance_label": "国际贸易",
+      "finance_relevance_reason": "matched_finance_signal",
+      "finance_signals": [
+        "关税",
+        "美元"
+      ],
+      "finance_noise": [],
+      "title_original": "特朗普拟给美国成年人每人发5000美元，美媒算账：总额高达1.2万亿美元，关税收入远远不够",
+      "title_en": null,
+      "title_zh": "特朗普拟给美国成年人每人发5000美元，美媒算账：总额高达1.2万亿美元，关税收入远远不够",
+      "title_bilingual": "特朗普拟给美国成年人每人发5000美元，美媒算账：总额高达1.2万亿美元，关税收入远远不够"
+    },
+    {
+      "id": "d24cf97e2bc7537044d5c18e7c7a9c825ca7e4bf",
+      "site_id": "finance_reuters",
+      "site_name": "Reuters Business",
+      "source": "Reuters Business",
+      "title": "Pentagon in talks to lend $5 billion to AI cloud startup Fluidstack, WSJ reports",
+      "url": "https://www.reuters.com/technology/pentagon-talks-lend-5-billion-ai-cloud-startup-fluidstack-wsj-reports-2026-09-10",
+      "published_at": null,
+      "first_seen_at": "2026-09-10T23:16:38.684002Z",
+      "last_seen_at": "2026-09-11T06:13:55.132582Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经相关",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_reuters"
+      ],
+      "finance_noise": [],
+      "title_original": "Pentagon in talks to lend $5 billion to AI cloud startup Fluidstack, WSJ reports",
+      "title_en": "Pentagon in talks to lend $5 billion to AI cloud startup Fluidstack, WSJ reports",
+      "title_zh": "据《华尔街日报》报道，五角大楼正在洽谈向人工智能云初创公司 Fluidstack 提供 50 亿美元贷款",
+      "title_bilingual": "据《华尔街日报》报道，五角大楼正在洽谈向人工智能云初创公司 Fluidstack 提供 50 亿美元贷款 / Pentagon in talks to lend $5 billion to AI cloud startup Fluidstack, WSJ reports"
+    },
+    {
+      "id": "e506c555903c73505c5371d128a5dd600654331e",
+      "site_id": "finance_reuters",
+      "site_name": "Reuters Business",
+      "source": "Reuters Business",
+      "title": "US average diesel price passes $6 a gallon for the first time, GasBuddy says",
+      "url": "https://www.reuters.com/business/energy/us-average-diesel-prices-cross-6-gallon-first-time-gasbuddy-says-2026-09-10",
+      "published_at": null,
+      "first_seen_at": "2026-09-10T23:16:38.684002Z",
+      "last_seen_at": "2026-09-11T06:13:55.132582Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经相关",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_reuters"
+      ],
+      "finance_noise": [],
+      "title_original": "US average diesel price passes $6 a gallon for the first time, GasBuddy says",
+      "title_en": "US average diesel price passes $6 a gallon for the first time, GasBuddy says",
+      "title_zh": "GasBuddy 表示，美国柴油平均价格首次突破每加仑 6 美元",
+      "title_bilingual": "GasBuddy 表示，美国柴油平均价格首次突破每加仑 6 美元 / US average diesel price passes $6 a gallon for the first time, GasBuddy says"
+    },
+    {
+      "id": "53cfa66a366a600b862aca6fd1bfea10cc80f843",
+      "site_id": "finance_reuters",
+      "site_name": "Reuters Business",
+      "source": "Reuters Business",
+      "title": "Oracle tops estimates as AI demand tempers cash-burn fears",
+      "url": "https://www.reuters.com/technology/oracles-quarterly-revenue-beats-estimates-ai-boom-drives-cloud-demand-2026-09-10",
+      "published_at": null,
+      "first_seen_at": "2026-09-10T23:16:38.684002Z",
+      "last_seen_at": "2026-09-11T06:13:55.132582Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "公司事件",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "revenue"
+      ],
+      "finance_noise": [],
+      "title_original": "Oracle tops estimates as AI demand tempers cash-burn fears",
+      "title_en": "Oracle tops estimates as AI demand tempers cash-burn fears",
+      "title_zh": "人工智能需求缓解现金消耗担忧，甲骨文超出预期",
+      "title_bilingual": "人工智能需求缓解现金消耗担忧，甲骨文超出预期 / Oracle tops estimates as AI demand tempers cash-burn fears"
+    },
+    {
       "id": "4a4ddc2b185d4a5cea356dcc576b06e8a701b801",
       "site_id": "finance_caixin",
       "site_name": "财新网",
@@ -4836,54 +6298,6 @@
       "title_en": null,
       "title_zh": "财经早知道｜一艘利比里亚籍货轮青岛检修中起火致25死",
       "title_bilingual": "财经早知道｜一艘利比里亚籍货轮青岛检修中起火致25死"
-    },
-    {
-      "id": "e4d0aab65d779541f45ac1b3d084ff1e8db312e1",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "华尔街见闻 · 日排行",
-      "title": "通胀忧虑重燃，美国股债双杀，存储芯片股普跌，美油飙涨7%破百，黄金重挫逼近4300",
-      "url": "https://wallstreetcn.com/articles/3781481",
-      "published_at": null,
-      "first_seen_at": "2026-09-10T23:16:38.684002Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
-      "finance_is_related": true,
-      "finance_score": 0.6,
-      "finance_label": "宏观政策",
-      "finance_relevance_reason": "matched_finance_signal",
-      "finance_signals": [
-        "通胀",
-        "黄金"
-      ],
-      "finance_noise": [],
-      "title_original": "通胀忧虑重燃，美国股债双杀，存储芯片股普跌，美油飙涨7%破百，黄金重挫逼近4300",
-      "title_en": null,
-      "title_zh": "通胀忧虑重燃，美国股债双杀，存储芯片股普跌，美油飙涨7%破百，黄金重挫逼近4300",
-      "title_bilingual": "通胀忧虑重燃，美国股债双杀，存储芯片股普跌，美油飙涨7%破百，黄金重挫逼近4300"
-    },
-    {
-      "id": "a6985d7554d34c3f121cd8cc94c32e0c607fe842",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "华尔街见闻 · 日排行",
-      "title": "特朗普拟给美国成年人每人发5000美元，美媒算账：总额高达1.2万亿美元，关税收入远远不够",
-      "url": "https://wallstreetcn.com/articles/3781496",
-      "published_at": null,
-      "first_seen_at": "2026-09-10T23:16:38.684002Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
-      "finance_is_related": true,
-      "finance_score": 0.6,
-      "finance_label": "国际贸易",
-      "finance_relevance_reason": "matched_finance_signal",
-      "finance_signals": [
-        "关税",
-        "美元"
-      ],
-      "finance_noise": [],
-      "title_original": "特朗普拟给美国成年人每人发5000美元，美媒算账：总额高达1.2万亿美元，关税收入远远不够",
-      "title_en": null,
-      "title_zh": "特朗普拟给美国成年人每人发5000美元，美媒算账：总额高达1.2万亿美元，关税收入远远不够",
-      "title_bilingual": "特朗普拟给美国成年人每人发5000美元，美媒算账：总额高达1.2万亿美元，关税收入远远不够"
     },
     {
       "id": "d4c893e979dfa59c31fe58486daa81fd2dd4fa05",
@@ -4981,8 +6395,8 @@
       "finance_noise": [],
       "title_original": "Europe drives global EV sales growth in August, offsetting China, North America weakness",
       "title_en": "Europe drives global EV sales growth in August, offsetting China, North America weakness",
-      "title_zh": null,
-      "title_bilingual": "Europe drives global EV sales growth in August, offsetting China, North America weakness"
+      "title_zh": "欧洲推动 8 月份全球电动汽车销量增长，抵消了中国和北美的疲软",
+      "title_bilingual": "欧洲推动 8 月份全球电动汽车销量增长，抵消了中国和北美的疲软 / Europe drives global EV sales growth in August, offsetting China, North America weakness"
     },
     {
       "id": "5540645b892cc33e265fab9625468f0fb92b922a",
@@ -5004,31 +6418,8 @@
       "finance_noise": [],
       "title_original": "Microsoft plans 38 gigawatts of data center capacity by 2032, Bloomberg News reports",
       "title_en": "Microsoft plans 38 gigawatts of data center capacity by 2032, Bloomberg News reports",
-      "title_zh": null,
-      "title_bilingual": "Microsoft plans 38 gigawatts of data center capacity by 2032, Bloomberg News reports"
-    },
-    {
-      "id": "d24cf97e2bc7537044d5c18e7c7a9c825ca7e4bf",
-      "site_id": "finance_reuters",
-      "site_name": "Reuters Business",
-      "source": "Reuters Business",
-      "title": "Pentagon in talks to lend $5 billion to AI cloud startup Fluidstack, WSJ reports",
-      "url": "https://www.reuters.com/technology/pentagon-talks-lend-5-billion-ai-cloud-startup-fluidstack-wsj-reports-2026-09-10",
-      "published_at": null,
-      "first_seen_at": "2026-09-10T23:16:38.684002Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
-      "finance_is_related": true,
-      "finance_score": 1.0,
-      "finance_label": "财经相关",
-      "finance_relevance_reason": "trusted_finance_source_default_keep",
-      "finance_signals": [
-        "finance_reuters"
-      ],
-      "finance_noise": [],
-      "title_original": "Pentagon in talks to lend $5 billion to AI cloud startup Fluidstack, WSJ reports",
-      "title_en": "Pentagon in talks to lend $5 billion to AI cloud startup Fluidstack, WSJ reports",
-      "title_zh": null,
-      "title_bilingual": "Pentagon in talks to lend $5 billion to AI cloud startup Fluidstack, WSJ reports"
+      "title_zh": "据彭博社报道，微软计划到 2032 年数据中心容量达到 38 吉瓦",
+      "title_bilingual": "据彭博社报道，微软计划到 2032 年数据中心容量达到 38 吉瓦 / Microsoft plans 38 gigawatts of data center capacity by 2032, Bloomberg News reports"
     },
     {
       "id": "0f9dc349a74bc1380330f932361a9a442bfb800a",
@@ -5052,8 +6443,8 @@
       "finance_noise": [],
       "title_original": "Texas Stock Exchange captures first primary equity market listings from NYSE",
       "title_en": "Texas Stock Exchange captures first primary equity market listings from NYSE",
-      "title_zh": null,
-      "title_bilingual": "Texas Stock Exchange captures first primary equity market listings from NYSE"
+      "title_zh": "德克萨斯证券交易所从纽约证券交易所获得第一批一级股票市场上市",
+      "title_bilingual": "德克萨斯证券交易所从纽约证券交易所获得第一批一级股票市场上市 / Texas Stock Exchange captures first primary equity market listings from NYSE"
     },
     {
       "id": "9658f09fb6f0209e9b96852cbdefd4d928ab87b1",
@@ -5075,8 +6466,8 @@
       "finance_noise": [],
       "title_original": "US lawmakers call on American government to blacklist three Indian hack-for-hire firms",
       "title_en": "US lawmakers call on American government to blacklist three Indian hack-for-hire firms",
-      "title_zh": null,
-      "title_bilingual": "US lawmakers call on American government to blacklist three Indian hack-for-hire firms"
+      "title_zh": "美国议员呼吁美国政府将三家印度黑客雇佣公司列入黑名单",
+      "title_bilingual": "美国议员呼吁美国政府将三家印度黑客雇佣公司列入黑名单 / US lawmakers call on American government to blacklist three Indian hack-for-hire firms"
     },
     {
       "id": "47f3fe1cc7042a9f61b33487784554894e01600e",
@@ -5098,54 +6489,8 @@
       "finance_noise": [],
       "title_original": "Barington Capital takes Bath & Body Works stake, pushes for sale, Bloomberg reports",
       "title_en": "Barington Capital takes Bath & Body Works stake, pushes for sale, Bloomberg reports",
-      "title_zh": null,
-      "title_bilingual": "Barington Capital takes Bath & Body Works stake, pushes for sale, Bloomberg reports"
-    },
-    {
-      "id": "e506c555903c73505c5371d128a5dd600654331e",
-      "site_id": "finance_reuters",
-      "site_name": "Reuters Business",
-      "source": "Reuters Business",
-      "title": "US average diesel price passes $6 a gallon for the first time, GasBuddy says",
-      "url": "https://www.reuters.com/business/energy/us-average-diesel-prices-cross-6-gallon-first-time-gasbuddy-says-2026-09-10",
-      "published_at": null,
-      "first_seen_at": "2026-09-10T23:16:38.684002Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
-      "finance_is_related": true,
-      "finance_score": 1.0,
-      "finance_label": "财经相关",
-      "finance_relevance_reason": "trusted_finance_source_default_keep",
-      "finance_signals": [
-        "finance_reuters"
-      ],
-      "finance_noise": [],
-      "title_original": "US average diesel price passes $6 a gallon for the first time, GasBuddy says",
-      "title_en": "US average diesel price passes $6 a gallon for the first time, GasBuddy says",
-      "title_zh": null,
-      "title_bilingual": "US average diesel price passes $6 a gallon for the first time, GasBuddy says"
-    },
-    {
-      "id": "53cfa66a366a600b862aca6fd1bfea10cc80f843",
-      "site_id": "finance_reuters",
-      "site_name": "Reuters Business",
-      "source": "Reuters Business",
-      "title": "Oracle tops estimates as AI demand tempers cash-burn fears",
-      "url": "https://www.reuters.com/technology/oracles-quarterly-revenue-beats-estimates-ai-boom-drives-cloud-demand-2026-09-10",
-      "published_at": null,
-      "first_seen_at": "2026-09-10T23:16:38.684002Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
-      "finance_is_related": true,
-      "finance_score": 1.0,
-      "finance_label": "公司事件",
-      "finance_relevance_reason": "trusted_finance_source_default_keep",
-      "finance_signals": [
-        "revenue"
-      ],
-      "finance_noise": [],
-      "title_original": "Oracle tops estimates as AI demand tempers cash-burn fears",
-      "title_en": "Oracle tops estimates as AI demand tempers cash-burn fears",
-      "title_zh": null,
-      "title_bilingual": "Oracle tops estimates as AI demand tempers cash-burn fears"
+      "title_zh": "据彭博社报道，Barington Capital 收购 Bath & Body Works 股份并推动出售",
+      "title_bilingual": "据彭博社报道，Barington Capital 收购 Bath & Body Works 股份并推动出售 / Barington Capital takes Bath & Body Works stake, pushes for sale, Bloomberg reports"
     },
     {
       "id": "4b748d76ff76234f9e3629db874dc2105af8f178",
@@ -5196,6 +6541,98 @@
       "title_en": null,
       "title_zh": "美国内政部长伯格姆谈及柴油出口管制：所有方案均在考量范围内。",
       "title_bilingual": "美国内政部长伯格姆谈及柴油出口管制：所有方案均在考量范围内。"
+    },
+    {
+      "id": "91d519963d4c345dd05a5fda6272a2c35123906f",
+      "site_id": "finance_reuters",
+      "site_name": "Reuters Business",
+      "source": "Reuters Business",
+      "title": "Adobe beats third-quarter revenue estimates on AI product demand",
+      "url": "https://www.reuters.com/business/adobe-beats-third-quarter-revenue-estimates-2026-09-10",
+      "published_at": null,
+      "first_seen_at": "2026-09-10T21:18:03.571861Z",
+      "last_seen_at": "2026-09-11T06:13:55.132582Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "公司事件",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "revenue"
+      ],
+      "finance_noise": [],
+      "title_original": "Adobe beats third-quarter revenue estimates on AI product demand",
+      "title_en": "Adobe beats third-quarter revenue estimates on AI product demand",
+      "title_zh": "Adobe 对人工智能产品需求的第三季度收入超出预期",
+      "title_bilingual": "Adobe 对人工智能产品需求的第三季度收入超出预期 / Adobe beats third-quarter revenue estimates on AI product demand"
+    },
+    {
+      "id": "466b0084f2b1aedb9dea3d460f53c987e43550e4",
+      "site_id": "finance_reuters",
+      "site_name": "Reuters Business",
+      "source": "Reuters Business",
+      "title": "Silver Lake, Intel-backed Altera prepares IPO that could raise over $2 billion as early as 2026, sources say",
+      "url": "https://www.reuters.com/world/silver-lake-intel-backed-altera-prepares-ipo-that-could-raise-over-2-billion-2026-09-10",
+      "published_at": null,
+      "first_seen_at": "2026-09-10T21:18:03.571861Z",
+      "last_seen_at": "2026-09-11T06:13:55.132582Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "股市",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "ipo"
+      ],
+      "finance_noise": [],
+      "title_original": "Silver Lake, Intel-backed Altera prepares IPO that could raise over $2 billion as early as 2026, sources say",
+      "title_en": "Silver Lake, Intel-backed Altera prepares IPO that could raise over $2 billion as early as 2026, sources say",
+      "title_zh": "消息人士称，英特尔支持的 Silver Lake 正在准备 IPO，最早可能在 2026 年筹集超过 20 亿美元资金",
+      "title_bilingual": "消息人士称，英特尔支持的 Silver Lake 正在准备 IPO，最早可能在 2026 年筹集超过 20 亿美元资金 / Silver Lake, Intel-backed Altera prepares IPO that could raise over $2 billion as early as 2026, sources say"
+    },
+    {
+      "id": "348b152fdb62615db1f3621e549005f5d48f8891",
+      "site_id": "finance_reuters",
+      "site_name": "Reuters Business",
+      "source": "Reuters Business",
+      "title": "US producer prices increase as expected in August; but key details firmer",
+      "url": "https://www.reuters.com/business/us-producer-prices-increase-expected-august-2026-09-10",
+      "published_at": null,
+      "first_seen_at": "2026-09-10T21:18:03.571861Z",
+      "last_seen_at": "2026-09-11T06:13:55.132582Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经相关",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_reuters"
+      ],
+      "finance_noise": [],
+      "title_original": "US producer prices increase as expected in August; but key details firmer",
+      "title_en": "US producer prices increase as expected in August; but key details firmer",
+      "title_zh": "美国8月生产者价格上涨符合预期；但关键细节更加坚定",
+      "title_bilingual": "美国8月生产者价格上涨符合预期；但关键细节更加坚定 / US producer prices increase as expected in August; but key details firmer"
+    },
+    {
+      "id": "a440e86b3cb52bc1e938bafdc6e61b3e91c52153",
+      "site_id": "finance_reuters",
+      "site_name": "Reuters Business",
+      "source": "Reuters Business",
+      "title": "Trump administration proposes axing grace period for H-1B visa holders after job loss",
+      "url": "https://www.reuters.com/legal/government/trump-administration-proposes-waiving-grace-period-h-1b-holders-after-job-loss-2026-09-10",
+      "published_at": null,
+      "first_seen_at": "2026-09-10T21:18:03.571861Z",
+      "last_seen_at": "2026-09-11T06:13:55.132582Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经相关",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_reuters"
+      ],
+      "finance_noise": [],
+      "title_original": "Trump administration proposes axing grace period for H-1B visa holders after job loss",
+      "title_en": "Trump administration proposes axing grace period for H-1B visa holders after job loss",
+      "title_zh": "特朗普政府提议取消H-1B签证持有者失业后的宽限期",
+      "title_bilingual": "特朗普政府提议取消H-1B签证持有者失业后的宽限期 / Trump administration proposes axing grace period for H-1B visa holders after job loss"
     },
     {
       "id": "0cd95671f9b116e45ba4ca43e5cadc8f8963d29d",
@@ -5314,54 +6751,8 @@
       "finance_noise": [],
       "title_original": "Trading Day: Inflation palpitations",
       "title_en": "Trading Day: Inflation palpitations",
-      "title_zh": null,
-      "title_bilingual": "Trading Day: Inflation palpitations"
-    },
-    {
-      "id": "91d519963d4c345dd05a5fda6272a2c35123906f",
-      "site_id": "finance_reuters",
-      "site_name": "Reuters Business",
-      "source": "Reuters Business",
-      "title": "Adobe beats third-quarter revenue estimates on AI product demand",
-      "url": "https://www.reuters.com/business/adobe-beats-third-quarter-revenue-estimates-2026-09-10",
-      "published_at": null,
-      "first_seen_at": "2026-09-10T21:18:03.571861Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
-      "finance_is_related": true,
-      "finance_score": 1.0,
-      "finance_label": "公司事件",
-      "finance_relevance_reason": "trusted_finance_source_default_keep",
-      "finance_signals": [
-        "revenue"
-      ],
-      "finance_noise": [],
-      "title_original": "Adobe beats third-quarter revenue estimates on AI product demand",
-      "title_en": "Adobe beats third-quarter revenue estimates on AI product demand",
-      "title_zh": null,
-      "title_bilingual": "Adobe beats third-quarter revenue estimates on AI product demand"
-    },
-    {
-      "id": "466b0084f2b1aedb9dea3d460f53c987e43550e4",
-      "site_id": "finance_reuters",
-      "site_name": "Reuters Business",
-      "source": "Reuters Business",
-      "title": "Silver Lake, Intel-backed Altera prepares IPO that could raise over $2 billion as early as 2026, sources say",
-      "url": "https://www.reuters.com/world/silver-lake-intel-backed-altera-prepares-ipo-that-could-raise-over-2-billion-2026-09-10",
-      "published_at": null,
-      "first_seen_at": "2026-09-10T21:18:03.571861Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
-      "finance_is_related": true,
-      "finance_score": 1.0,
-      "finance_label": "股市",
-      "finance_relevance_reason": "trusted_finance_source_default_keep",
-      "finance_signals": [
-        "ipo"
-      ],
-      "finance_noise": [],
-      "title_original": "Silver Lake, Intel-backed Altera prepares IPO that could raise over $2 billion as early as 2026, sources say",
-      "title_en": "Silver Lake, Intel-backed Altera prepares IPO that could raise over $2 billion as early as 2026, sources say",
-      "title_zh": null,
-      "title_bilingual": "Silver Lake, Intel-backed Altera prepares IPO that could raise over $2 billion as early as 2026, sources say"
+      "title_zh": "交易日：通胀心悸",
+      "title_bilingual": "交易日：通胀心悸 / Trading Day: Inflation palpitations"
     },
     {
       "id": "39a39f70e0d85207654f9e27728f63b19dd75c43",
@@ -5383,31 +6774,8 @@
       "finance_noise": [],
       "title_original": "OpenAI launches ChatGPT for financial services industry",
       "title_en": "OpenAI launches ChatGPT for financial services industry",
-      "title_zh": null,
-      "title_bilingual": "OpenAI launches ChatGPT for financial services industry"
-    },
-    {
-      "id": "348b152fdb62615db1f3621e549005f5d48f8891",
-      "site_id": "finance_reuters",
-      "site_name": "Reuters Business",
-      "source": "Reuters Business",
-      "title": "US producer prices increase as expected in August; but key details firmer",
-      "url": "https://www.reuters.com/business/us-producer-prices-increase-expected-august-2026-09-10",
-      "published_at": null,
-      "first_seen_at": "2026-09-10T21:18:03.571861Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
-      "finance_is_related": true,
-      "finance_score": 1.0,
-      "finance_label": "财经相关",
-      "finance_relevance_reason": "trusted_finance_source_default_keep",
-      "finance_signals": [
-        "finance_reuters"
-      ],
-      "finance_noise": [],
-      "title_original": "US producer prices increase as expected in August; but key details firmer",
-      "title_en": "US producer prices increase as expected in August; but key details firmer",
-      "title_zh": null,
-      "title_bilingual": "US producer prices increase as expected in August; but key details firmer"
+      "title_zh": "OpenAI 推出针对金融服务行业的 ChatGPT",
+      "title_bilingual": "OpenAI 推出针对金融服务行业的 ChatGPT / OpenAI launches ChatGPT for financial services industry"
     },
     {
       "id": "fc9022ff8dfc2d880c71e5ecc44a400c6700f118",
@@ -5429,8 +6797,8 @@
       "finance_noise": [],
       "title_original": "UK deepens reliance on Musk's SpaceX, spending nearly $40 million on satellite services",
       "title_en": "UK deepens reliance on Musk's SpaceX, spending nearly $40 million on satellite services",
-      "title_zh": null,
-      "title_bilingual": "UK deepens reliance on Musk's SpaceX, spending nearly $40 million on satellite services"
+      "title_zh": "英国加深对马斯克旗下SpaceX的依赖，在卫星服务上花费近4000万美元",
+      "title_bilingual": "英国加深对马斯克旗下SpaceX的依赖，在卫星服务上花费近4000万美元 / UK deepens reliance on Musk's SpaceX, spending nearly $40 million on satellite services"
     },
     {
       "id": "b542ecaa71b03bef0bfba4ac9e19a36186e0bc5d",
@@ -5452,8 +6820,8 @@
       "finance_noise": [],
       "title_original": "Capital One and JPMorgan bet that fighting Trump may be safer than settling",
       "title_en": "Capital One and JPMorgan bet that fighting Trump may be safer than settling",
-      "title_zh": null,
-      "title_bilingual": "Capital One and JPMorgan bet that fighting Trump may be safer than settling"
+      "title_zh": "第一资本和摩根大通打赌，对抗特朗普可能比和解更安全",
+      "title_bilingual": "第一资本和摩根大通打赌，对抗特朗普可能比和解更安全 / Capital One and JPMorgan bet that fighting Trump may be safer than settling"
     },
     {
       "id": "c906c670654f3c86de256f002e5d0b7df879d60f",
@@ -5476,8 +6844,8 @@
       "finance_noise": [],
       "title_original": "Edgy bond investors unconsoled by Bessent's big buyback",
       "title_en": "Edgy bond investors unconsoled by Bessent's big buyback",
-      "title_zh": null,
-      "title_bilingual": "Edgy bond investors unconsoled by Bessent's big buyback"
+      "title_zh": "急躁的债券投资者对 Bessent 的大规模回购感到不安",
+      "title_bilingual": "急躁的债券投资者对 Bessent 的大规模回购感到不安 / Edgy bond investors unconsoled by Bessent's big buyback"
     },
     {
       "id": "57023bec81be1a3e2bd3cc7194118e30c4d80db5",
@@ -5499,8 +6867,8 @@
       "finance_noise": [],
       "title_original": "S&P 500 ends down as Treasury yields rise and traders fret about inflation",
       "title_en": "S&P 500 ends down as Treasury yields rise and traders fret about inflation",
-      "title_zh": null,
-      "title_bilingual": "S&P 500 ends down as Treasury yields rise and traders fret about inflation"
+      "title_zh": "由于美国国债收益率上升且交易员担心通胀，标普 500 指数最终下跌",
+      "title_bilingual": "由于美国国债收益率上升且交易员担心通胀，标普 500 指数最终下跌 / S&P 500 ends down as Treasury yields rise and traders fret about inflation"
     },
     {
       "id": "0b8f0177d88085071f3157c54476d03ac21b57c5",
@@ -5522,8 +6890,8 @@
       "finance_noise": [],
       "title_original": "US lawmakers call for new AI rules after Anthropic researchers' safety warnings",
       "title_en": "US lawmakers call for new AI rules after Anthropic researchers' safety warnings",
-      "title_zh": null,
-      "title_bilingual": "US lawmakers call for new AI rules after Anthropic researchers' safety warnings"
+      "title_zh": "在人类研究人员发出安全警告后，美国立法者呼吁制定新的人工智能规则",
+      "title_bilingual": "在人类研究人员发出安全警告后，美国立法者呼吁制定新的人工智能规则 / US lawmakers call for new AI rules after Anthropic researchers' safety warnings"
     },
     {
       "id": "065769604bc23e41941a3b969f269af4365e1c58",
@@ -5545,8 +6913,8 @@
       "finance_noise": [],
       "title_original": "ECB raises interest rates, bolstering bets for further moves",
       "title_en": "ECB raises interest rates, bolstering bets for further moves",
-      "title_zh": null,
-      "title_bilingual": "ECB raises interest rates, bolstering bets for further moves"
+      "title_zh": "欧洲央行加息，增强了进一步行动的押注",
+      "title_bilingual": "欧洲央行加息，增强了进一步行动的押注 / ECB raises interest rates, bolstering bets for further moves"
     },
     {
       "id": "200edf01ded1126176a9f3e63ae3064a50e67dd9",
@@ -5592,8 +6960,8 @@
       "finance_noise": [],
       "title_original": "US average diesel price crosses $6 a gallon for the first time, GasBuddy says",
       "title_en": "US average diesel price crosses $6 a gallon for the first time, GasBuddy says",
-      "title_zh": null,
-      "title_bilingual": "US average diesel price crosses $6 a gallon for the first time, GasBuddy says"
+      "title_zh": "GasBuddy 表示，美国平均柴油价格首次突破每加仑 6 美元",
+      "title_bilingual": "GasBuddy 表示，美国平均柴油价格首次突破每加仑 6 美元 / US average diesel price crosses $6 a gallon for the first time, GasBuddy says"
     },
     {
       "id": "c82abc84e814c8490fbd07a5cfb6784780b18de8",
@@ -5615,8 +6983,8 @@
       "finance_noise": [],
       "title_original": "Oracle's quarterly revenue beats estimates as AI boom drives cloud demand",
       "title_en": "Oracle's quarterly revenue beats estimates as AI boom drives cloud demand",
-      "title_zh": null,
-      "title_bilingual": "Oracle's quarterly revenue beats estimates as AI boom drives cloud demand"
+      "title_zh": "人工智能繁荣推动云需求，甲骨文季度收入超出预期",
+      "title_bilingual": "人工智能繁荣推动云需求，甲骨文季度收入超出预期 / Oracle's quarterly revenue beats estimates as AI boom drives cloud demand"
     },
     {
       "id": "93b75875b9128239f438a0764a125f84759ad31b",
@@ -5638,8 +7006,8 @@
       "finance_noise": [],
       "title_original": "Stellantis CEO highlights diverging US and global strategies",
       "title_en": "Stellantis CEO highlights diverging US and global strategies",
-      "title_zh": null,
-      "title_bilingual": "Stellantis CEO highlights diverging US and global strategies"
+      "title_zh": "Stellantis 首席执行官强调美国和全球战略的不同",
+      "title_bilingual": "Stellantis 首席执行官强调美国和全球战略的不同 / Stellantis CEO highlights diverging US and global strategies"
     },
     {
       "id": "3b5c870a8b8947f7bd2a83bdec10e95fe59839e9",
@@ -5661,8 +7029,8 @@
       "finance_noise": [],
       "title_original": "Trump's $5,000 dividend plan draws some Republican skepticism",
       "title_en": "Trump's $5,000 dividend plan draws some Republican skepticism",
-      "title_zh": null,
-      "title_bilingual": "Trump's $5,000 dividend plan draws some Republican skepticism"
+      "title_zh": "特朗普的 5,000 美元股息计划引起了一些共和党人的怀疑",
+      "title_bilingual": "特朗普的 5,000 美元股息计划引起了一些共和党人的怀疑 / Trump's $5,000 dividend plan draws some Republican skepticism"
     },
     {
       "id": "7dbb43a0f36c3f246a0f08ddd59394d76585b080",
@@ -5684,8 +7052,8 @@
       "finance_noise": [],
       "title_original": "US FAA head meets with airline CEOS on plan to cut flight delays",
       "title_en": "US FAA head meets with airline CEOS on plan to cut flight delays",
-      "title_zh": null,
-      "title_bilingual": "US FAA head meets with airline CEOS on plan to cut flight delays"
+      "title_zh": "美国联邦航空管理局局长会见航空公司首席执行官，讨论减少航班延误的计划",
+      "title_bilingual": "美国联邦航空管理局局长会见航空公司首席执行官，讨论减少航班延误的计划 / US FAA head meets with airline CEOS on plan to cut flight delays"
     },
     {
       "id": "e95dc042a173497d7b6f3fbac8780e2d11e2280b",
@@ -5707,31 +7075,8 @@
       "finance_noise": [],
       "title_original": "Explainer: Is Trump's $5,000 'dividend' legal and how would it work?",
       "title_en": "Explainer: Is Trump's $5,000 'dividend' legal and how would it work?",
-      "title_zh": null,
-      "title_bilingual": "Explainer: Is Trump's $5,000 'dividend' legal and how would it work?"
-    },
-    {
-      "id": "a440e86b3cb52bc1e938bafdc6e61b3e91c52153",
-      "site_id": "finance_reuters",
-      "site_name": "Reuters Business",
-      "source": "Reuters Business",
-      "title": "Trump administration proposes axing grace period for H-1B visa holders after job loss",
-      "url": "https://www.reuters.com/legal/government/trump-administration-proposes-waiving-grace-period-h-1b-holders-after-job-loss-2026-09-10",
-      "published_at": null,
-      "first_seen_at": "2026-09-10T21:18:03.571861Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
-      "finance_is_related": true,
-      "finance_score": 1.0,
-      "finance_label": "财经相关",
-      "finance_relevance_reason": "trusted_finance_source_default_keep",
-      "finance_signals": [
-        "finance_reuters"
-      ],
-      "finance_noise": [],
-      "title_original": "Trump administration proposes axing grace period for H-1B visa holders after job loss",
-      "title_en": "Trump administration proposes axing grace period for H-1B visa holders after job loss",
-      "title_zh": null,
-      "title_bilingual": "Trump administration proposes axing grace period for H-1B visa holders after job loss"
+      "title_zh": "解释者：特朗普的 5,000 美元“股息”合法吗？它会如何运作？",
+      "title_bilingual": "解释者：特朗普的 5,000 美元“股息”合法吗？它会如何运作？ / Explainer: Is Trump's $5,000 'dividend' legal and how would it work?"
     },
     {
       "id": "07960fdffcf87a4b4965bb438c7fce60ad7ab333",
@@ -5753,8 +7098,8 @@
       "finance_noise": [],
       "title_original": "White House copper tariff plan stalls amid affordability concerns, sources say",
       "title_en": "White House copper tariff plan stalls amid affordability concerns, sources say",
-      "title_zh": null,
-      "title_bilingual": "White House copper tariff plan stalls amid affordability concerns, sources say"
+      "title_zh": "消息人士称，由于负担能力担忧，白宫铜关税计划陷入停滞",
+      "title_bilingual": "消息人士称，由于负担能力担忧，白宫铜关税计划陷入停滞 / White House copper tariff plan stalls amid affordability concerns, sources say"
     },
     {
       "id": "096c09cfa0e16bb6b90c842baeae276380957d07",
@@ -5876,6 +7221,152 @@
       "title_en": null,
       "title_zh": "SpaceX：本月早些时候签署了新的数据中心托管协议。",
       "title_bilingual": "SpaceX：本月早些时候签署了新的数据中心托管协议。"
+    },
+    {
+      "id": "74db7068a3589f3cf50d70511f6fdeaef3a55f69",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "36氪 · 24小时热榜",
+      "title": "海底捞减持背后，“离岸富豪”排队补税",
+      "url": "https://www.36kr.com/p/3977186183655680",
+      "published_at": null,
+      "first_seen_at": "2026-09-10T18:37:07.200153Z",
+      "last_seen_at": "2026-09-11T06:13:55.132582Z",
+      "finance_is_related": true,
+      "finance_score": 0.6,
+      "finance_label": "公司事件",
+      "finance_relevance_reason": "matched_finance_signal",
+      "finance_signals": [
+        "减持",
+        "离岸"
+      ],
+      "finance_noise": [],
+      "title_original": "海底捞减持背后，“离岸富豪”排队补税",
+      "title_en": null,
+      "title_zh": "海底捞减持背后，“离岸富豪”排队补税",
+      "title_bilingual": "海底捞减持背后，“离岸富豪”排队补税"
+    },
+    {
+      "id": "4e62bf18a3eca3e5dfaa2f02233068f35416e368",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "雪球 · 今日话题",
+      "title": "中金黄金2026年中报分析：拐点时刻到来",
+      "url": "http://xueqiu.com/2828641690/408796148",
+      "published_at": null,
+      "first_seen_at": "2026-09-10T18:37:07.200153Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 0.56,
+      "finance_label": "大宗商品",
+      "finance_relevance_reason": "matched_finance_signal",
+      "finance_signals": [
+        "黄金"
+      ],
+      "finance_noise": [],
+      "title_original": "中金黄金2026年中报分析：拐点时刻到来",
+      "title_en": null,
+      "title_zh": "中金黄金2026年中报分析：拐点时刻到来",
+      "title_bilingual": "中金黄金2026年中报分析：拐点时刻到来"
+    },
+    {
+      "id": "288f1df935f1a2eb018d023817cdc05f41730028",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "雪球 · 今日话题",
+      "title": "A股价值指数怎么选？300价值、国证价值100、国信价值有何不同？（09.10）",
+      "url": "http://xueqiu.com/9391624441/408726466",
+      "published_at": null,
+      "first_seen_at": "2026-09-10T18:37:07.200153Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 0.56,
+      "finance_label": "股市",
+      "finance_relevance_reason": "matched_finance_signal",
+      "finance_signals": [
+        "a股"
+      ],
+      "finance_noise": [],
+      "title_original": "A股价值指数怎么选？300价值、国证价值100、国信价值有何不同？（09.10）",
+      "title_en": null,
+      "title_zh": "A股价值指数怎么选？300价值、国证价值100、国信价值有何不同？（09.10）",
+      "title_bilingual": "A股价值指数怎么选？300价值、国证价值100、国信价值有何不同？（09.10）"
+    },
+    {
+      "id": "0c3306044e37f3ddc03895fbd45a35a85c1835d7",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "第一财经 · 新闻排行周榜",
+      "title": "观察｜“染色莴笋”再次暴露农产品违法添加乱象，不应让消费者寒心农户赔本",
+      "url": "https://www.yicai.com/news/103353167.html",
+      "published_at": null,
+      "first_seen_at": "2026-09-10T18:37:07.200153Z",
+      "last_seen_at": "2026-09-11T15:30:59.030201Z",
+      "finance_is_related": true,
+      "finance_score": 0.59,
+      "finance_label": "产业经济",
+      "finance_relevance_reason": "matched_finance_signal",
+      "finance_signals": [
+        "消费",
+        "财经"
+      ],
+      "finance_noise": [],
+      "title_original": "观察｜“染色莴笋”再次暴露农产品违法添加乱象，不应让消费者寒心农户赔本",
+      "title_en": null,
+      "title_zh": "观察｜“染色莴笋”再次暴露农产品违法添加乱象，不应让消费者寒心农户赔本",
+      "title_bilingual": "观察｜“染色莴笋”再次暴露农产品违法添加乱象，不应让消费者寒心农户赔本"
+    },
+    {
+      "id": "f5d8dda6104609f556384fde3bb466074bd5eb7a",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "华尔街见闻 · 日排行",
+      "title": "美国8月PPI同比加速至5.4%超预期，核心PPI同比4.6%，美联储加息预期骤升",
+      "url": "https://wallstreetcn.com/articles/3781506",
+      "published_at": null,
+      "first_seen_at": "2026-09-10T18:37:07.200153Z",
+      "last_seen_at": "2026-09-11T06:13:55.132582Z",
+      "finance_is_related": true,
+      "finance_score": 0.64,
+      "finance_label": "宏观政策",
+      "finance_relevance_reason": "matched_finance_signal",
+      "finance_signals": [
+        "ppi",
+        "加息",
+        "美联储"
+      ],
+      "finance_noise": [],
+      "title_original": "美国8月PPI同比加速至5.4%超预期，核心PPI同比4.6%，美联储加息预期骤升",
+      "title_en": null,
+      "title_zh": "美国8月PPI同比加速至5.4%超预期，核心PPI同比4.6%，美联储加息预期骤升",
+      "title_bilingual": "美国8月PPI同比加速至5.4%超预期，核心PPI同比4.6%，美联储加息预期骤升"
+    },
+    {
+      "id": "3348cd5a57a1c838e642022c89c4108a0ce03809",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "华尔街见闻 · 日排行",
+      "title": "重磅金融发布会！证监会、央行、金融监管总局、外汇局齐发声",
+      "url": "https://wallstreetcn.com/articles/3781482",
+      "published_at": null,
+      "first_seen_at": "2026-09-10T18:37:07.200153Z",
+      "last_seen_at": "2026-09-11T06:13:55.132582Z",
+      "finance_is_related": true,
+      "finance_score": 0.71,
+      "finance_label": "宏观政策",
+      "finance_relevance_reason": "matched_finance_signal",
+      "finance_signals": [
+        "外汇",
+        "央行",
+        "监管",
+        "证监会",
+        "金融"
+      ],
+      "finance_noise": [],
+      "title_original": "重磅金融发布会！证监会、央行、金融监管总局、外汇局齐发声",
+      "title_en": null,
+      "title_zh": "重磅金融发布会！证监会、央行、金融监管总局、外汇局齐发声",
+      "title_bilingual": "重磅金融发布会！证监会、央行、金融监管总局、外汇局齐发声"
     },
     {
       "id": "687ccb2481dfbfcc16d1b9b07d72a41c69c94785",
@@ -6107,152 +7598,6 @@
       "title_en": null,
       "title_zh": "东南亚扩大中国清洁能源产品采购 年内贸易额同比增五成",
       "title_bilingual": "东南亚扩大中国清洁能源产品采购 年内贸易额同比增五成"
-    },
-    {
-      "id": "74db7068a3589f3cf50d70511f6fdeaef3a55f69",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "36氪 · 24小时热榜",
-      "title": "海底捞减持背后，“离岸富豪”排队补税",
-      "url": "https://www.36kr.com/p/3977186183655680",
-      "published_at": null,
-      "first_seen_at": "2026-09-10T18:37:07.200153Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
-      "finance_is_related": true,
-      "finance_score": 0.6,
-      "finance_label": "公司事件",
-      "finance_relevance_reason": "matched_finance_signal",
-      "finance_signals": [
-        "减持",
-        "离岸"
-      ],
-      "finance_noise": [],
-      "title_original": "海底捞减持背后，“离岸富豪”排队补税",
-      "title_en": null,
-      "title_zh": "海底捞减持背后，“离岸富豪”排队补税",
-      "title_bilingual": "海底捞减持背后，“离岸富豪”排队补税"
-    },
-    {
-      "id": "4e62bf18a3eca3e5dfaa2f02233068f35416e368",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "雪球 · 今日话题",
-      "title": "中金黄金2026年中报分析：拐点时刻到来",
-      "url": "http://xueqiu.com/2828641690/408796148",
-      "published_at": null,
-      "first_seen_at": "2026-09-10T18:37:07.200153Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
-      "finance_is_related": true,
-      "finance_score": 0.56,
-      "finance_label": "大宗商品",
-      "finance_relevance_reason": "matched_finance_signal",
-      "finance_signals": [
-        "黄金"
-      ],
-      "finance_noise": [],
-      "title_original": "中金黄金2026年中报分析：拐点时刻到来",
-      "title_en": null,
-      "title_zh": "中金黄金2026年中报分析：拐点时刻到来",
-      "title_bilingual": "中金黄金2026年中报分析：拐点时刻到来"
-    },
-    {
-      "id": "288f1df935f1a2eb018d023817cdc05f41730028",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "雪球 · 今日话题",
-      "title": "A股价值指数怎么选？300价值、国证价值100、国信价值有何不同？（09.10）",
-      "url": "http://xueqiu.com/9391624441/408726466",
-      "published_at": null,
-      "first_seen_at": "2026-09-10T18:37:07.200153Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
-      "finance_is_related": true,
-      "finance_score": 0.56,
-      "finance_label": "股市",
-      "finance_relevance_reason": "matched_finance_signal",
-      "finance_signals": [
-        "a股"
-      ],
-      "finance_noise": [],
-      "title_original": "A股价值指数怎么选？300价值、国证价值100、国信价值有何不同？（09.10）",
-      "title_en": null,
-      "title_zh": "A股价值指数怎么选？300价值、国证价值100、国信价值有何不同？（09.10）",
-      "title_bilingual": "A股价值指数怎么选？300价值、国证价值100、国信价值有何不同？（09.10）"
-    },
-    {
-      "id": "0c3306044e37f3ddc03895fbd45a35a85c1835d7",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "第一财经 · 新闻排行周榜",
-      "title": "观察｜“染色莴笋”再次暴露农产品违法添加乱象，不应让消费者寒心农户赔本",
-      "url": "https://www.yicai.com/news/103353167.html",
-      "published_at": null,
-      "first_seen_at": "2026-09-10T18:37:07.200153Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
-      "finance_is_related": true,
-      "finance_score": 0.59,
-      "finance_label": "产业经济",
-      "finance_relevance_reason": "matched_finance_signal",
-      "finance_signals": [
-        "消费",
-        "财经"
-      ],
-      "finance_noise": [],
-      "title_original": "观察｜“染色莴笋”再次暴露农产品违法添加乱象，不应让消费者寒心农户赔本",
-      "title_en": null,
-      "title_zh": "观察｜“染色莴笋”再次暴露农产品违法添加乱象，不应让消费者寒心农户赔本",
-      "title_bilingual": "观察｜“染色莴笋”再次暴露农产品违法添加乱象，不应让消费者寒心农户赔本"
-    },
-    {
-      "id": "f5d8dda6104609f556384fde3bb466074bd5eb7a",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "华尔街见闻 · 日排行",
-      "title": "美国8月PPI同比加速至5.4%超预期，核心PPI同比4.6%，美联储加息预期骤升",
-      "url": "https://wallstreetcn.com/articles/3781506",
-      "published_at": null,
-      "first_seen_at": "2026-09-10T18:37:07.200153Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
-      "finance_is_related": true,
-      "finance_score": 0.64,
-      "finance_label": "宏观政策",
-      "finance_relevance_reason": "matched_finance_signal",
-      "finance_signals": [
-        "ppi",
-        "加息",
-        "美联储"
-      ],
-      "finance_noise": [],
-      "title_original": "美国8月PPI同比加速至5.4%超预期，核心PPI同比4.6%，美联储加息预期骤升",
-      "title_en": null,
-      "title_zh": "美国8月PPI同比加速至5.4%超预期，核心PPI同比4.6%，美联储加息预期骤升",
-      "title_bilingual": "美国8月PPI同比加速至5.4%超预期，核心PPI同比4.6%，美联储加息预期骤升"
-    },
-    {
-      "id": "3348cd5a57a1c838e642022c89c4108a0ce03809",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "华尔街见闻 · 日排行",
-      "title": "重磅金融发布会！证监会、央行、金融监管总局、外汇局齐发声",
-      "url": "https://wallstreetcn.com/articles/3781482",
-      "published_at": null,
-      "first_seen_at": "2026-09-10T18:37:07.200153Z",
-      "last_seen_at": "2026-09-11T06:13:55.132582Z",
-      "finance_is_related": true,
-      "finance_score": 0.71,
-      "finance_label": "宏观政策",
-      "finance_relevance_reason": "matched_finance_signal",
-      "finance_signals": [
-        "外汇",
-        "央行",
-        "监管",
-        "证监会",
-        "金融"
-      ],
-      "finance_noise": [],
-      "title_original": "重磅金融发布会！证监会、央行、金融监管总局、外汇局齐发声",
-      "title_en": null,
-      "title_zh": "重磅金融发布会！证监会、央行、金融监管总局、外汇局齐发声",
-      "title_bilingual": "重磅金融发布会！证监会、央行、金融监管总局、外汇局齐发声"
     },
     {
       "id": "66d9b32c25e8be1410005e4c7b870392a0c851e9",
@@ -6757,29 +8102,6 @@
       "title_en": null,
       "title_zh": "硬蹭《狂飙》卖酒，赔偿500万元",
       "title_bilingual": "硬蹭《狂飙》卖酒，赔偿500万元"
-    },
-    {
-      "id": "5cc0fd87effb728617d22f276aa0d79a97d2f493",
-      "site_id": "opmlrss",
-      "site_name": "OPML RSS",
-      "source": "财新网",
-      "title": "东南亚扩大中国清洁能源产品采购 年内贸易额同比增5成",
-      "url": "https://www.caixin.com/2026-09-10/102483667.html",
-      "published_at": "2026-09-10T11:53:12Z",
-      "first_seen_at": "2026-09-11T01:15:17.425580Z",
-      "last_seen_at": "2026-09-11T01:15:17.425580Z",
-      "finance_is_related": true,
-      "finance_score": 0.66,
-      "finance_label": "国际贸易",
-      "finance_relevance_reason": "matched_finance_signal",
-      "finance_signals": [
-        "贸易"
-      ],
-      "finance_noise": [],
-      "title_original": "东南亚扩大中国清洁能源产品采购 年内贸易额同比增5成",
-      "title_en": null,
-      "title_zh": "东南亚扩大中国清洁能源产品采购 年内贸易额同比增5成",
-      "title_bilingual": "东南亚扩大中国清洁能源产品采购 年内贸易额同比增5成"
     }
   ],
   "all_mode_data_url": "data/latest-24h-all.json"
