@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-09-16T15:04:45.469148Z",
+  "generated_at": "2026-09-16T18:58:06.194429Z",
   "window_hours": 24,
-  "total_items": 144,
-  "total_items_signal_raw": 156,
-  "total_items_raw": 2415,
-  "total_items_all_mode": 2208,
+  "total_items": 170,
+  "total_items_signal_raw": 182,
+  "total_items_raw": 2938,
+  "total_items_all_mode": 2681,
   "topic_filter": "finance_relevance_scoring_v1_0",
   "finance_relevance_threshold": 0.55,
-  "archive_total": 54370,
+  "archive_total": 54222,
   "site_count": 5,
   "source_count": 6,
   "site_stats": [
     {
       "site_id": "finance_reuters",
       "site_name": "Reuters Business",
-      "count": 55,
-      "raw_count": 55
+      "count": 71,
+      "raw_count": 71
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
-      "count": 47,
-      "raw_count": 2294
+      "count": 57,
+      "raw_count": 2801
     },
     {
       "site_id": "finance_caixin",
@@ -44,6 +44,650 @@
   ],
   "items": [
     {
+      "id": "6ad171a8a7ed6ccd7df4b66fbfdd4e34ec16c68e",
+      "site_id": "finance_reuters",
+      "site_name": "Reuters Business",
+      "source": "Reuters Business",
+      "title": "What do higher rates mean for borrowers and savers?",
+      "url": "https://www.reuters.com/business/retail-consumer/what-do-higher-rates-mean-borrowers-savers-2026-09-16",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经相关",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_reuters"
+      ],
+      "finance_noise": [],
+      "title_original": "What do higher rates mean for borrowers and savers?",
+      "title_en": "What do higher rates mean for borrowers and savers?",
+      "title_zh": "更高的利率对借款人和储户意味着什么？",
+      "title_bilingual": "更高的利率对借款人和储户意味着什么？ / What do higher rates mean for borrowers and savers?"
+    },
+    {
+      "id": "ca0f24e1de89efbef9e244a0d032b3cda589a719",
+      "site_id": "finance_reuters",
+      "site_name": "Reuters Business",
+      "source": "Reuters Business",
+      "title": "VIEW Short-term bond yields rise after Fed raises rates, points to another hike this year",
+      "url": "https://www.reuters.com/business/view-markets-steady-after-fed-raises-rates-points-another-hike-this-year-2026-09-16",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "宏观政策",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "bond",
+        "fed",
+        "market"
+      ],
+      "finance_noise": [],
+      "title_original": "VIEW Short-term bond yields rise after Fed raises rates, points to another hike this year",
+      "title_en": "VIEW Short-term bond yields rise after Fed raises rates, points to another hike this year",
+      "title_zh": "美联储加息后短期债券收益率上升，预示今年将再次加息",
+      "title_bilingual": "美联储加息后短期债券收益率上升，预示今年将再次加息 / VIEW Short-term bond yields rise after Fed raises rates, points to another hike this year"
+    },
+    {
+      "id": "d80a4be9b51e6fb9a2f8fdeed410b55ff436c237",
+      "site_id": "finance_reuters",
+      "site_name": "Reuters Business",
+      "source": "Reuters Business",
+      "title": "Fed forecasts see latest hike followed by another before end of year",
+      "url": "https://www.reuters.com/business/fed-forecasts-see-latest-hike-followed-by-another-before-end-year-2026-09-16",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "宏观政策",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "fed"
+      ],
+      "finance_noise": [],
+      "title_original": "Fed forecasts see latest hike followed by another before end of year",
+      "title_en": "Fed forecasts see latest hike followed by another before end of year",
+      "title_zh": "美联储预计将在年底前再次加息",
+      "title_bilingual": "美联储预计将在年底前再次加息 / Fed forecasts see latest hike followed by another before end of year"
+    },
+    {
+      "id": "36455fdeb638ce284ce9002eb324853475d07f55",
+      "site_id": "finance_reuters",
+      "site_name": "Reuters Business",
+      "source": "Reuters Business",
+      "title": "Union Pacific says high diesel prices shifting freight from trucks to rail",
+      "url": "https://www.reuters.com/business/energy/union-pacific-says-high-diesel-prices-shifting-freight-trucks-rail-2026-09-16",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经相关",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_reuters"
+      ],
+      "finance_noise": [],
+      "title_original": "Union Pacific says high diesel prices shifting freight from trucks to rail",
+      "title_en": "Union Pacific says high diesel prices shifting freight from trucks to rail",
+      "title_zh": "联合太平洋公司表示，高柴油价格导致货运从卡车转向铁路",
+      "title_bilingual": "联合太平洋公司表示，高柴油价格导致货运从卡车转向铁路 / Union Pacific says high diesel prices shifting freight from trucks to rail"
+    },
+    {
+      "id": "763f24df91fffa2b9cce603cb727226ae3ea70b9",
+      "site_id": "finance_reuters",
+      "site_name": "Reuters Business",
+      "source": "Reuters Business",
+      "title": "Bessent says US open to discussing shared AI risks with China, Axios reports",
+      "url": "https://www.reuters.com/world/china/bessent-says-us-open-discussing-shared-ai-risks-with-china-axios-reports-2026-09-16",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经相关",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_reuters"
+      ],
+      "finance_noise": [],
+      "title_original": "Bessent says US open to discussing shared AI risks with China, Axios reports",
+      "title_en": "Bessent says US open to discussing shared AI risks with China, Axios reports",
+      "title_zh": "据 Axios 报道，Bessent 表示美国愿意与中国讨论共同的人工智能风险",
+      "title_bilingual": "据 Axios 报道，Bessent 表示美国愿意与中国讨论共同的人工智能风险 / Bessent says US open to discussing shared AI risks with China, Axios reports"
+    },
+    {
+      "id": "1bc549ed2adba75a6246c2ef557d645975efc8cc",
+      "site_id": "finance_reuters",
+      "site_name": "Reuters Business",
+      "source": "Reuters Business",
+      "title": "US DFC approves $500 million in guarantees to boost US exports to emerging markets",
+      "url": "https://www.reuters.com/world/china/us-dfc-approves-500-million-guarantees-boost-us-exports-emerging-markets-2026-09-16",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "国际贸易",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "market"
+      ],
+      "finance_noise": [],
+      "title_original": "US DFC approves $500 million in guarantees to boost US exports to emerging markets",
+      "title_en": "US DFC approves $500 million in guarantees to boost US exports to emerging markets",
+      "title_zh": "美国DFC批准5亿美元担保，以促进美国对新兴市场的出口",
+      "title_bilingual": "美国DFC批准5亿美元担保，以促进美国对新兴市场的出口 / US DFC approves $500 million in guarantees to boost US exports to emerging markets"
+    },
+    {
+      "id": "4063d31ce1bee6b0cfb7e5df0427ce2de1ac9461",
+      "site_id": "finance_reuters",
+      "site_name": "Reuters Business",
+      "source": "Reuters Business",
+      "title": "Anthropic to fold Claude AI features into one interface, launches document tools",
+      "url": "https://www.reuters.com/business/media-telecom/anthropic-fold-claude-ai-features-into-one-interface-launches-document-tools-2026-09-16",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经相关",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_reuters"
+      ],
+      "finance_noise": [],
+      "title_original": "Anthropic to fold Claude AI features into one interface, launches document tools",
+      "title_en": "Anthropic to fold Claude AI features into one interface, launches document tools",
+      "title_zh": "Anthropic 将 Claude AI 功能整合到一个界面中，推出文档工具",
+      "title_bilingual": "Anthropic 将 Claude AI 功能整合到一个界面中，推出文档工具 / Anthropic to fold Claude AI features into one interface, launches document tools"
+    },
+    {
+      "id": "51a9107a50e791e9fe3f0b34e350760de1158784",
+      "site_id": "finance_reuters",
+      "site_name": "Reuters Business",
+      "source": "Reuters Business",
+      "title": "SEC proposes to end shareholder vote oversight, a blow to reformers",
+      "url": "https://www.reuters.com/legal/government/sec-proposes-end-shareholder-vote-oversight-blow-reformers-2026-09-16",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "监管政策",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "sec"
+      ],
+      "finance_noise": [],
+      "title_original": "SEC proposes to end shareholder vote oversight, a blow to reformers",
+      "title_en": "SEC proposes to end shareholder vote oversight, a blow to reformers",
+      "title_zh": "美国证券交易委员会提议终止股东投票监督，这对改革者是一个打击",
+      "title_bilingual": "美国证券交易委员会提议终止股东投票监督，这对改革者是一个打击 / SEC proposes to end shareholder vote oversight, a blow to reformers"
+    },
+    {
+      "id": "3ff0d16b3dc9f7ce408b1346550f30f6b5acfc20",
+      "site_id": "finance_reuters",
+      "site_name": "Reuters Business",
+      "source": "Reuters Business",
+      "title": "US farm agency prepares to reopen New Mexico port to livestock trade next week",
+      "url": "https://www.reuters.com/world/us/us-farm-agency-prepares-reopen-new-mexico-port-livestock-trade-next-week-2026-09-16",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经相关",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "stock"
+      ],
+      "finance_noise": [],
+      "title_original": "US farm agency prepares to reopen New Mexico port to livestock trade next week",
+      "title_en": "US farm agency prepares to reopen New Mexico port to livestock trade next week",
+      "title_zh": "美国农业机构准备下周重新开放新墨西哥州港口进行牲畜贸易",
+      "title_bilingual": "美国农业机构准备下周重新开放新墨西哥州港口进行牲畜贸易 / US farm agency prepares to reopen New Mexico port to livestock trade next week"
+    },
+    {
+      "id": "f37c30a119e6bc8a949c6851de5602dc72a466b9",
+      "site_id": "finance_reuters",
+      "site_name": "Reuters Business",
+      "source": "Reuters Business",
+      "title": "US firm Heeney Capital to operate Venezuela gold mine, Continental seeks to enter oil project",
+      "url": "https://www.reuters.com/business/energy/us-energy-producer-unveil-venezuela-investment-energy-secretary-says-2026-09-16",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "大宗商品",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "sec"
+      ],
+      "finance_noise": [],
+      "title_original": "US firm Heeney Capital to operate Venezuela gold mine, Continental seeks to enter oil project",
+      "title_en": "US firm Heeney Capital to operate Venezuela gold mine, Continental seeks to enter oil project",
+      "title_zh": "美国Heeney Capital公司将运营委内瑞拉金矿，大陆集团寻求进入石油项目",
+      "title_bilingual": "美国Heeney Capital公司将运营委内瑞拉金矿，大陆集团寻求进入石油项目 / US firm Heeney Capital to operate Venezuela gold mine, Continental seeks to enter oil project"
+    },
+    {
+      "id": "535e32fe0b01c3e5370fe1aacbfe2074b960e257",
+      "site_id": "finance_reuters",
+      "site_name": "Reuters Business",
+      "source": "Reuters Business",
+      "title": "DeepMind co-founder warns AI capabilities must not outrun safety controls, FT reports",
+      "url": "https://www.reuters.com/business/deepmind-co-founder-warns-ai-capabilities-must-not-outrun-safety-controls-ft-2026-09-16",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经相关",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_reuters"
+      ],
+      "finance_noise": [],
+      "title_original": "DeepMind co-founder warns AI capabilities must not outrun safety controls, FT reports",
+      "title_en": "DeepMind co-founder warns AI capabilities must not outrun safety controls, FT reports",
+      "title_zh": "据英国《金融时报》报道，DeepMind 联合创始人警告人工智能能力不得超越安全控制",
+      "title_bilingual": "据英国《金融时报》报道，DeepMind 联合创始人警告人工智能能力不得超越安全控制 / DeepMind co-founder warns AI capabilities must not outrun safety controls, FT reports"
+    },
+    {
+      "id": "5159b935119889bfe356ddd5c764ac1f52e610e2",
+      "site_id": "finance_reuters",
+      "site_name": "Reuters Business",
+      "source": "Reuters Business",
+      "title": "American, United prepare further capacity trims as fuel shock reshapes flying",
+      "url": "https://www.reuters.com/business/american-airlines-warns-high-fuel-prices-could-force-capacity-adjustments-2026-09-16",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经相关",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_reuters"
+      ],
+      "finance_noise": [],
+      "title_original": "American, United prepare further capacity trims as fuel shock reshapes flying",
+      "title_en": "American, United prepare further capacity trims as fuel shock reshapes flying",
+      "title_zh": "随着燃油冲击重塑飞行，美国航空和联合航空准备进一步削减运力",
+      "title_bilingual": "随着燃油冲击重塑飞行，美国航空和联合航空准备进一步削减运力 / American, United prepare further capacity trims as fuel shock reshapes flying"
+    },
+    {
+      "id": "12fea3f021c77b65b792d7aff34db25323df9a05",
+      "site_id": "finance_reuters",
+      "site_name": "Reuters Business",
+      "source": "Reuters Business",
+      "title": "Robust US retail sales underscore economy's resilience, inflation pressures building",
+      "url": "https://www.reuters.com/business/retail-consumer/us-retail-sales-rebound-sharply-august-2026-09-16",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经综合",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_reuters"
+      ],
+      "finance_noise": [],
+      "title_original": "Robust US retail sales underscore economy's resilience, inflation pressures building",
+      "title_en": "Robust US retail sales underscore economy's resilience, inflation pressures building",
+      "title_zh": "美国强劲的零售销售凸显经济韧性，通胀压力加剧",
+      "title_bilingual": "美国强劲的零售销售凸显经济韧性，通胀压力加剧 / Robust US retail sales underscore economy's resilience, inflation pressures building"
+    },
+    {
+      "id": "27674fe8e33020f2521cc5e220c87621fb438c45",
+      "site_id": "finance_reuters",
+      "site_name": "Reuters Business",
+      "source": "Reuters Business",
+      "title": "OpenAI's rogue agents probed Hugging Face for weaknesses two months before major hack",
+      "url": "https://www.reuters.com/legal/litigation/openais-rogue-agents-probed-hugging-face-weaknesses-two-months-before-major-hack-2026-09-16",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经相关",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_reuters"
+      ],
+      "finance_noise": [],
+      "title_original": "OpenAI's rogue agents probed Hugging Face for weaknesses two months before major hack",
+      "title_en": "OpenAI's rogue agents probed Hugging Face for weaknesses two months before major hack",
+      "title_zh": "OpenAI 的流氓特工在重大黑客攻击前两个月调查了 Hugging Face 的弱点",
+      "title_bilingual": "OpenAI 的流氓特工在重大黑客攻击前两个月调查了 Hugging Face 的弱点 / OpenAI's rogue agents probed Hugging Face for weaknesses two months before major hack"
+    },
+    {
+      "id": "1379afdfd5f1bfe7bdeb7fc92693a45136751d21",
+      "site_id": "finance_reuters",
+      "site_name": "Reuters Business",
+      "source": "Reuters Business",
+      "title": "Fed hikes rates in search of 'timelier' drop in inflation, sees more tightening ahead",
+      "url": "https://www.reuters.com/business/warshs-words-may-matter-more-than-anticipated-fed-rate-hike-2026-09-16",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "宏观政策",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "fed"
+      ],
+      "finance_noise": [],
+      "title_original": "Fed hikes rates in search of 'timelier' drop in inflation, sees more tightening ahead",
+      "title_en": "Fed hikes rates in search of 'timelier' drop in inflation, sees more tightening ahead",
+      "title_zh": "美联储加息以寻求“更及时”的通胀下降，并预计未来将进一步收紧政策",
+      "title_bilingual": "美联储加息以寻求“更及时”的通胀下降，并预计未来将进一步收紧政策 / Fed hikes rates in search of 'timelier' drop in inflation, sees more tightening ahead"
+    },
+    {
+      "id": "66024824906043d1161c26b7cdfa8a2f4261e4bf",
+      "site_id": "finance_reuters",
+      "site_name": "Reuters Business",
+      "source": "Reuters Business",
+      "title": "Wall Street gyrates after Fed hikes interest rate to battle inflation",
+      "url": "https://www.reuters.com/business/wall-st-futures-edge-higher-countdown-fed-decision-2026-09-16",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "宏观政策",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "fed"
+      ],
+      "finance_noise": [],
+      "title_original": "Wall Street gyrates after Fed hikes interest rate to battle inflation",
+      "title_en": "Wall Street gyrates after Fed hikes interest rate to battle inflation",
+      "title_zh": "美联储加息对抗通胀后华尔街震荡",
+      "title_bilingual": "美联储加息对抗通胀后华尔街震荡 / Wall Street gyrates after Fed hikes interest rate to battle inflation"
+    },
+    {
+      "id": "38abad8b1b80d068cbc8cf3403551e47634c9f04",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "华尔街见闻 · 日排行",
+      "title": "美联储决议倒计时，美股走高，存储芯片股、光通信股普涨，10年期美债收益率小幅下行，油价涨势暂歇",
+      "url": "https://wallstreetcn.com/articles/3781871",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 0.64,
+      "finance_label": "宏观政策",
+      "finance_relevance_reason": "matched_finance_signal",
+      "finance_signals": [
+        "收益率",
+        "美联储",
+        "美股"
+      ],
+      "finance_noise": [],
+      "title_original": "美联储决议倒计时，美股走高，存储芯片股、光通信股普涨，10年期美债收益率小幅下行，油价涨势暂歇",
+      "title_en": null,
+      "title_zh": "美联储决议倒计时，美股走高，存储芯片股、光通信股普涨，10年期美债收益率小幅下行，油价涨势暂歇",
+      "title_bilingual": "美联储决议倒计时，美股走高，存储芯片股、光通信股普涨，10年期美债收益率小幅下行，油价涨势暂歇"
+    },
+    {
+      "id": "8e0248d0e4470ebe5b0b96dd946d5fbf44d07f54",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "新浪财经新闻 · 点击量排行",
+      "title": "四大证券报头版头条内容精华摘要_2026年9月16日_财经新闻",
+      "url": "https://finance.sina.com.cn/stock/y/2026-09-16/doc-inirykph3372069.shtml",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 0.62,
+      "finance_label": "财经综合",
+      "finance_relevance_reason": "matched_finance_signal",
+      "finance_signals": [
+        "stock",
+        "finance",
+        "财经"
+      ],
+      "finance_noise": [],
+      "title_original": "四大证券报头版头条内容精华摘要_2026年9月16日_财经新闻",
+      "title_en": null,
+      "title_zh": "四大证券报头版头条内容精华摘要_2026年9月16日_财经新闻",
+      "title_bilingual": "四大证券报头版头条内容精华摘要_2026年9月16日_财经新闻"
+    },
+    {
+      "id": "34daf4e0c1bbf4d0fb7546e3d7de85760ed8aad6",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "新浪财经新闻 · 点击量排行",
+      "title": "广汽集团筹划重组一汽股份将成二股东 丰田中国销量降17%或迎南北整合",
+      "url": "https://finance.sina.com.cn/roll/2026-09-16/doc-inirykpa8023244.shtml",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 0.62,
+      "finance_label": "公司事件",
+      "finance_relevance_reason": "matched_finance_signal",
+      "finance_signals": [
+        "重组",
+        "finance",
+        "财经"
+      ],
+      "finance_noise": [],
+      "title_original": "广汽集团筹划重组一汽股份将成二股东 丰田中国销量降17%或迎南北整合",
+      "title_en": null,
+      "title_zh": "广汽集团筹划重组一汽股份将成二股东 丰田中国销量降17%或迎南北整合",
+      "title_bilingual": "广汽集团筹划重组一汽股份将成二股东 丰田中国销量降17%或迎南北整合"
+    },
+    {
+      "id": "cc259aca140b0fae194c6e41e4dcb8b5f4452433",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "新浪财经新闻 · 点击量排行",
+      "title": "50票赞成、49票反对，特朗普力推法案未达60票门槛遭否决！民主党参议员：共和党更在乎确保总统能够继续赚钱",
+      "url": "https://finance.sina.com.cn/roll/2026-09-16/doc-iniryqvh3092725.shtml",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 0.55,
+      "finance_label": "财经综合",
+      "finance_relevance_reason": "matched_broad_finance_signal",
+      "finance_signals": [
+        "finance",
+        "财经"
+      ],
+      "finance_noise": [],
+      "title_original": "50票赞成、49票反对，特朗普力推法案未达60票门槛遭否决！民主党参议员：共和党更在乎确保总统能够继续赚钱",
+      "title_en": null,
+      "title_zh": "50票赞成、49票反对，特朗普力推法案未达60票门槛遭否决！民主党参议员：共和党更在乎确保总统能够继续赚钱",
+      "title_bilingual": "50票赞成、49票反对，特朗普力推法案未达60票门槛遭否决！民主党参议员：共和党更在乎确保总统能够继续赚钱"
+    },
+    {
+      "id": "bf01fbca6680be9c3a991e45d007dd70054e8aa7",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "新浪财经新闻 · 点击量排行",
+      "title": "智谱“激进融资”的多重启示",
+      "url": "https://finance.sina.com.cn/tech/internet/2026-09-16/doc-iniryqva6531412.shtml",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 0.55,
+      "finance_label": "财经综合",
+      "finance_relevance_reason": "matched_broad_finance_signal",
+      "finance_signals": [
+        "finance",
+        "财经"
+      ],
+      "finance_noise": [],
+      "title_original": "智谱“激进融资”的多重启示",
+      "title_en": null,
+      "title_zh": "智谱“激进融资”的多重启示",
+      "title_bilingual": "智谱“激进融资”的多重启示"
+    },
+    {
+      "id": "c84b81c5c188c966bfbc59f43d514ac2c4d3fa68",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "新浪财经新闻 · 点击量排行",
+      "title": "全球黄金ETF资产管理规模创纪录 机构：金价短期承压不改长期配置价值",
+      "url": "https://finance.sina.com.cn/roll/2026-09-16/doc-inirxxxk6728443.shtml",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 0.65,
+      "finance_label": "大宗商品",
+      "finance_relevance_reason": "matched_finance_signal",
+      "finance_signals": [
+        "黄金",
+        "finance",
+        "财经",
+        "资产"
+      ],
+      "finance_noise": [],
+      "title_original": "全球黄金ETF资产管理规模创纪录 机构：金价短期承压不改长期配置价值",
+      "title_en": null,
+      "title_zh": "全球黄金ETF资产管理规模创纪录 机构：金价短期承压不改长期配置价值",
+      "title_bilingual": "全球黄金ETF资产管理规模创纪录 机构：金价短期承压不改长期配置价值"
+    },
+    {
+      "id": "1f5b5ec971d31a79a6dd77133e022c8e2dbde82a",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "新浪财经新闻 · 点击量排行",
+      "title": "香港公布首个五年规划！涉资本市场，信息量巨大",
+      "url": "https://finance.sina.com.cn/roll/2026-09-16/doc-iniryzky3408048.shtml",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 0.55,
+      "finance_label": "财经综合",
+      "finance_relevance_reason": "matched_broad_finance_signal",
+      "finance_signals": [
+        "finance",
+        "财经",
+        "资本"
+      ],
+      "finance_noise": [],
+      "title_original": "香港公布首个五年规划！涉资本市场，信息量巨大",
+      "title_en": null,
+      "title_zh": "香港公布首个五年规划！涉资本市场，信息量巨大",
+      "title_bilingual": "香港公布首个五年规划！涉资本市场，信息量巨大"
+    },
+    {
+      "id": "8acd3a0f270af99c19029db6e5ccad301444427c",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "新浪财经新闻 · 点击量排行",
+      "title": "涨起来了！今天A股，大量资金涌入",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-09-16/doc-inirzfsu6642738.shtml",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 0.73,
+      "finance_label": "股市",
+      "finance_relevance_reason": "matched_finance_signal",
+      "finance_signals": [
+        "a股",
+        "market",
+        "stock",
+        "finance",
+        "财经",
+        "资金"
+      ],
+      "finance_noise": [],
+      "title_original": "涨起来了！今天A股，大量资金涌入",
+      "title_en": null,
+      "title_zh": "涨起来了！今天A股，大量资金涌入",
+      "title_bilingual": "涨起来了！今天A股，大量资金涌入"
+    },
+    {
+      "id": "dc4200efd5c6da336e552e591166731f04884f5b",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "新浪财经新闻 · 点击量排行",
+      "title": "“从头到脚，能签约的基本都签出去了”， 商业收入逼近谷爱凌，但郑钦文真正的考验才刚刚开始",
+      "url": "https://finance.sina.com.cn/roll/2026-09-16/doc-inirxxxk6723727.shtml",
+      "published_at": "2026-09-16T18:58:06.194429Z",
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 0.55,
+      "finance_label": "财经综合",
+      "finance_relevance_reason": "matched_broad_finance_signal",
+      "finance_signals": [
+        "finance",
+        "财经"
+      ],
+      "finance_noise": [],
+      "title_original": "“从头到脚，能签约的基本都签出去了”， 商业收入逼近谷爱凌，但郑钦文真正的考验才刚刚开始",
+      "title_en": null,
+      "title_zh": "“从头到脚，能签约的基本都签出去了”， 商业收入逼近谷爱凌，但郑钦文真正的考验才刚刚开始",
+      "title_bilingual": "“从头到脚，能签约的基本都签出去了”， 商业收入逼近谷爱凌，但郑钦文真正的考验才刚刚开始"
+    },
+    {
+      "id": "59d463138e56180cd03aa543aa23a3dbc1063cf2",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "新浪财经新闻 · 点击量排行",
+      "title": "王毅同伊朗外长阿拉格齐会谈",
+      "url": "https://finance.sina.com.cn/china/2026-09-16/doc-inirzfsy2916050.shtml",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 0.55,
+      "finance_label": "财经综合",
+      "finance_relevance_reason": "matched_broad_finance_signal",
+      "finance_signals": [
+        "finance",
+        "财经"
+      ],
+      "finance_noise": [],
+      "title_original": "王毅同伊朗外长阿拉格齐会谈",
+      "title_en": null,
+      "title_zh": "王毅同伊朗外长阿拉格齐会谈",
+      "title_bilingual": "王毅同伊朗外长阿拉格齐会谈"
+    },
+    {
+      "id": "8596a13079a5ec13a361d1eb838390c311a7fc83",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "新浪财经新闻 · 点击量排行",
+      "title": "一箭九星！引力一号遥三运载火箭发射成功",
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-16/doc-inirykpe6574522.shtml",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 0.55,
+      "finance_label": "财经综合",
+      "finance_relevance_reason": "matched_broad_finance_signal",
+      "finance_signals": [
+        "finance",
+        "财经"
+      ],
+      "finance_noise": [],
+      "title_original": "一箭九星！引力一号遥三运载火箭发射成功",
+      "title_en": null,
+      "title_zh": "一箭九星！引力一号遥三运载火箭发射成功",
+      "title_bilingual": "一箭九星！引力一号遥三运载火箭发射成功"
+    },
+    {
       "id": "305dbe6a716eb589b079a7c761d6338dbe7e1750",
       "site_id": "finance_caixin",
       "site_name": "财新网",
@@ -52,7 +696,7 @@
       "url": "https://www.caixin.com/2026-09-16/102485588.html",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 1.0,
       "finance_label": "财经相关",
@@ -75,7 +719,7 @@
       "url": "https://international.caixin.com/2026-09-16/102485579.html",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 1.0,
       "finance_label": "财经相关",
@@ -98,7 +742,7 @@
       "url": "https://finance.caixin.com/2026-09-16/102485573.html",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 1.0,
       "finance_label": "财经综合",
@@ -121,7 +765,7 @@
       "url": "https://china.caixin.com/2026-09-16/102485567.html",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 1.0,
       "finance_label": "财经相关",
@@ -144,7 +788,7 @@
       "url": "https://china.caixin.com/2026-09-16/102485563.html",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 1.0,
       "finance_label": "财经相关",
@@ -167,7 +811,7 @@
       "url": "https://finance.caixin.com/2026-09-16/102485549.html",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 1.0,
       "finance_label": "财经综合",
@@ -190,7 +834,7 @@
       "url": "https://www.caixin.com/2026-09-16/102485532.html",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 1.0,
       "finance_label": "公司事件",
@@ -213,7 +857,7 @@
       "url": "https://database.caixin.com/2026-09-16/102485508.html",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 1.0,
       "finance_label": "财经相关",
@@ -236,7 +880,7 @@
       "url": "https://economy.caixin.com/2026-09-16/102485503.html",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 1.0,
       "finance_label": "财经综合",
@@ -259,7 +903,7 @@
       "url": "https://finance.caixin.com/2026-09-16/102485492.html",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 1.0,
       "finance_label": "财经综合",
@@ -282,7 +926,7 @@
       "url": "https://finance.caixin.com/2026-09-16/102485488.html",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 1.0,
       "finance_label": "公司事件",
@@ -307,7 +951,7 @@
       "url": "https://www.caixin.com/2026-09-16/102485486.html",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 1.0,
       "finance_label": "财经相关",
@@ -330,7 +974,7 @@
       "url": "https://opinion.caixin.com/2026-09-16/102485485.html",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 1.0,
       "finance_label": "债汇",
@@ -353,7 +997,7 @@
       "url": "https://photos.caixin.com/2026-09-16/102485459.html",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 1.0,
       "finance_label": "财经相关",
@@ -376,7 +1020,7 @@
       "url": "https://www.caixin.com/2026-09-16/102485392.html",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 1.0,
       "finance_label": "财经相关",
@@ -399,7 +1043,7 @@
       "url": "https://opinion.caixin.com/2026-09-16/102485384.html",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 1.0,
       "finance_label": "宏观政策",
@@ -422,7 +1066,7 @@
       "url": "https://finance.caixin.com/2026-09-16/102485379.html",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 1.0,
       "finance_label": "债汇",
@@ -446,7 +1090,7 @@
       "url": "https://mini.caixin.com/2026-09-16/102485377.html",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 1.0,
       "finance_label": "财经相关",
@@ -469,7 +1113,7 @@
       "url": "https://mini.caixin.com/2026-09-16/102485365.html",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 1.0,
       "finance_label": "财经相关",
@@ -503,8 +1147,8 @@
       "finance_noise": [],
       "title_original": "US business inventories rise more than expected in July",
       "title_en": "US business inventories rise more than expected in July",
-      "title_zh": null,
-      "title_bilingual": "US business inventories rise more than expected in July"
+      "title_zh": "美国7月商业库存增幅超预期",
+      "title_bilingual": "美国7月商业库存增幅超预期 / US business inventories rise more than expected in July"
     },
     {
       "id": "a74ea824d3424322399ada2856cb962d7613f031",
@@ -526,8 +1170,8 @@
       "finance_noise": [],
       "title_original": "Crypto bill's defeat shows limits of industry's political machine",
       "title_en": "Crypto bill's defeat shows limits of industry's political machine",
-      "title_zh": null,
-      "title_bilingual": "Crypto bill's defeat shows limits of industry's political machine"
+      "title_zh": "加密货币法案的失败显示了行业政治机器的局限性",
+      "title_bilingual": "加密货币法案的失败显示了行业政治机器的局限性 / Crypto bill's defeat shows limits of industry's political machine"
     },
     {
       "id": "20630860d997ea16c6b18b1dfaf5c6a7aa992873",
@@ -538,7 +1182,7 @@
       "url": "https://www.reuters.com/business/microsoft-ai-chief-calls-out-anthropics-approach-ai-consciousness-2026-09-16",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 1.0,
       "finance_label": "财经相关",
@@ -549,8 +1193,8 @@
       "finance_noise": [],
       "title_original": "Microsoft AI chief calls out Anthropic's approach to AI consciousness",
       "title_en": "Microsoft AI chief calls out Anthropic's approach to AI consciousness",
-      "title_zh": null,
-      "title_bilingual": "Microsoft AI chief calls out Anthropic's approach to AI consciousness"
+      "title_zh": "微软人工智能负责人称赞 Anthropic 的人工智能意识方法",
+      "title_bilingual": "微软人工智能负责人称赞 Anthropic 的人工智能意识方法 / Microsoft AI chief calls out Anthropic's approach to AI consciousness"
     },
     {
       "id": "ed7490da72a02d0ad0a1ba393b331962260f4dfa",
@@ -561,7 +1205,7 @@
       "url": "https://www.reuters.com/business/us-homebuilder-sentiment-drops-12-month-low-september-2026-09-16",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 1.0,
       "finance_label": "财经相关",
@@ -572,8 +1216,8 @@
       "finance_noise": [],
       "title_original": "US homebuilder sentiment drops to 12-month low in September",
       "title_en": "US homebuilder sentiment drops to 12-month low in September",
-      "title_zh": null,
-      "title_bilingual": "US homebuilder sentiment drops to 12-month low in September"
+      "title_zh": "9 月份美国房屋建筑商信心跌至 12 个月低点",
+      "title_bilingual": "9 月份美国房屋建筑商信心跌至 12 个月低点 / US homebuilder sentiment drops to 12-month low in September"
     },
     {
       "id": "b0910fbaa8830add1dfb2c8db38cbbc4219e34a2",
@@ -584,7 +1228,7 @@
       "url": "https://www.reuters.com/legal/litigation/amazon-raises-minimum-hourly-pay-by-1-20-us-operations-workers-2026-09-16",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 1.0,
       "finance_label": "财经相关",
@@ -595,8 +1239,8 @@
       "finance_noise": [],
       "title_original": "Amazon raises minimum hourly pay by $1 to $20 for US operations workers",
       "title_en": "Amazon raises minimum hourly pay by $1 to $20 for US operations workers",
-      "title_zh": null,
-      "title_bilingual": "Amazon raises minimum hourly pay by $1 to $20 for US operations workers"
+      "title_zh": "亚马逊将美国运营工人的最低时薪提高 1 美元至 20 美元",
+      "title_bilingual": "亚马逊将美国运营工人的最低时薪提高 1 美元至 20 美元 / Amazon raises minimum hourly pay by $1 to $20 for US operations workers"
     },
     {
       "id": "483ac9030609a7468c10dee65210c973f566dfad",
@@ -618,8 +1262,8 @@
       "finance_noise": [],
       "title_original": "Cohere, Aleph Alpha combine to target enterprise AI market",
       "title_en": "Cohere, Aleph Alpha combine to target enterprise AI market",
-      "title_zh": null,
-      "title_bilingual": "Cohere, Aleph Alpha combine to target enterprise AI market"
+      "title_zh": "Cohere 与 Aleph Alpha 合并瞄准企业人工智能市场",
+      "title_bilingual": "Cohere 与 Aleph Alpha 合并瞄准企业人工智能市场 / Cohere, Aleph Alpha combine to target enterprise AI market"
     },
     {
       "id": "61ef3599421e574578e62b0560969cc62ff30a00",
@@ -641,8 +1285,8 @@
       "finance_noise": [],
       "title_original": "May Mobility to list on Nasdaq via $1.4 billion SPAC deal",
       "title_en": "May Mobility to list on Nasdaq via $1.4 billion SPAC deal",
-      "title_zh": null,
-      "title_bilingual": "May Mobility to list on Nasdaq via $1.4 billion SPAC deal"
+      "title_zh": "5 月 Mobility 通过 14 亿美元的 SPAC 交易在纳斯达克上市",
+      "title_bilingual": "5 月 Mobility 通过 14 亿美元的 SPAC 交易在纳斯达克上市 / May Mobility to list on Nasdaq via $1.4 billion SPAC deal"
     },
     {
       "id": "8dc8d226e8a5c62dfde0a91d4efa97eb5302e279",
@@ -664,8 +1308,8 @@
       "finance_noise": [],
       "title_original": "Apple weighs Nvidia technology for potential server market return, The Information reports",
       "title_en": "Apple weighs Nvidia technology for potential server market return, The Information reports",
-      "title_zh": null,
-      "title_bilingual": "Apple weighs Nvidia technology for potential server market return, The Information reports"
+      "title_zh": "据 The Information 报道，苹果正在权衡 Nvidia 技术对服务器市场潜在回报的影响",
+      "title_bilingual": "据 The Information 报道，苹果正在权衡 Nvidia 技术对服务器市场潜在回报的影响 / Apple weighs Nvidia technology for potential server market return, The Information reports"
     },
     {
       "id": "eb2ef333ef97045361a8c8bf4150e7b749e94897",
@@ -687,8 +1331,8 @@
       "finance_noise": [],
       "title_original": "US import prices jump in August on strength in capital, consumer goods",
       "title_en": "US import prices jump in August on strength in capital, consumer goods",
-      "title_zh": null,
-      "title_bilingual": "US import prices jump in August on strength in capital, consumer goods"
+      "title_zh": "资本和消费品走强，美国八月进口价格上涨",
+      "title_bilingual": "资本和消费品走强，美国八月进口价格上涨 / US import prices jump in August on strength in capital, consumer goods"
     },
     {
       "id": "d6ff96cb8afe87a3953bafaa0ae07db7d96f1bb0",
@@ -710,8 +1354,8 @@
       "finance_noise": [],
       "title_original": "Hedge funds step up bets against consumer stocks in August, Hazeltree says",
       "title_en": "Hedge funds step up bets against consumer stocks in August, Hazeltree says",
-      "title_zh": null,
-      "title_bilingual": "Hedge funds step up bets against consumer stocks in August, Hazeltree says"
+      "title_zh": "Hazeltree 表示，对冲基金在 8 月份加大了对消费类股票的押注",
+      "title_bilingual": "Hazeltree 表示，对冲基金在 8 月份加大了对消费类股票的押注 / Hedge funds step up bets against consumer stocks in August, Hazeltree says"
     },
     {
       "id": "467cbeb5e8d475ddbcbc51aa538a6fb1f97e8c3c",
@@ -733,8 +1377,8 @@
       "finance_noise": [],
       "title_original": "China's Huawei forecasts billions of agents will dominate AI traffic by 2035",
       "title_en": "China's Huawei forecasts billions of agents will dominate AI traffic by 2035",
-      "title_zh": null,
-      "title_bilingual": "China's Huawei forecasts billions of agents will dominate AI traffic by 2035"
+      "title_zh": "中国华为预测，到 2035 年，数十亿代理将主导人工智能流量",
+      "title_bilingual": "中国华为预测，到 2035 年，数十亿代理将主导人工智能流量 / China's Huawei forecasts billions of agents will dominate AI traffic by 2035"
     },
     {
       "id": "b0e108646d1140516de67e7c6595b4a04454eb06",
@@ -756,8 +1400,8 @@
       "finance_noise": [],
       "title_original": "US retail sales rebound more than expected in August; import prices surge",
       "title_en": "US retail sales rebound more than expected in August; import prices surge",
-      "title_zh": null,
-      "title_bilingual": "US retail sales rebound more than expected in August; import prices surge"
+      "title_zh": "美国8月零售销售反弹超预期；进口价格飙升",
+      "title_bilingual": "美国8月零售销售反弹超预期；进口价格飙升 / US retail sales rebound more than expected in August; import prices surge"
     },
     {
       "id": "a370f453cc552083ad9dc26f863ad2ed452a8eab",
@@ -779,8 +1423,8 @@
       "finance_noise": [],
       "title_original": "Google agrees biggest carbon-removal deal yet, aims to scale new model",
       "title_en": "Google agrees biggest carbon-removal deal yet, aims to scale new model",
-      "title_zh": null,
-      "title_bilingual": "Google agrees biggest carbon-removal deal yet, aims to scale new model"
+      "title_zh": "谷歌同意迄今为止最大的碳去除协议，旨在扩大新模式",
+      "title_bilingual": "谷歌同意迄今为止最大的碳去除协议，旨在扩大新模式 / Google agrees biggest carbon-removal deal yet, aims to scale new model"
     },
     {
       "id": "55db0a5bdb71f280fedac5ef1989655c32c38cdc",
@@ -802,8 +1446,8 @@
       "finance_noise": [],
       "title_original": "Dollarama raises annual sales forecast in Canada as inflation-hit shoppers trade down",
       "title_en": "Dollarama raises annual sales forecast in Canada as inflation-hit shoppers trade down",
-      "title_zh": null,
-      "title_bilingual": "Dollarama raises annual sales forecast in Canada as inflation-hit shoppers trade down"
+      "title_zh": "由于受通胀打击的购物者购物减少，Dollarama 上调了加拿大的年度销售预测",
+      "title_bilingual": "由于受通胀打击的购物者购物减少，Dollarama 上调了加拿大的年度销售预测 / Dollarama raises annual sales forecast in Canada as inflation-hit shoppers trade down"
     },
     {
       "id": "9f741a754258f441c19e0796f34ba00667a8a176",
@@ -827,8 +1471,8 @@
       "finance_noise": [],
       "title_original": "Bond market woes likely a factor for Fed, but intervention seen as unlikely",
       "title_en": "Bond market woes likely a factor for Fed, but intervention seen as unlikely",
-      "title_zh": null,
-      "title_bilingual": "Bond market woes likely a factor for Fed, but intervention seen as unlikely"
+      "title_zh": "债券市场困境可能是美联储的一个因素，但干预的可能性不大",
+      "title_bilingual": "债券市场困境可能是美联储的一个因素，但干预的可能性不大 / Bond market woes likely a factor for Fed, but intervention seen as unlikely"
     },
     {
       "id": "c8f67dc3833c2899452dedeba8d04441de0adf0c",
@@ -850,8 +1494,8 @@
       "finance_noise": [],
       "title_original": "GM's EV-first bet leaves it on sidelines of US hybrid boom",
       "title_en": "GM's EV-first bet leaves it on sidelines of US hybrid boom",
-      "title_zh": null,
-      "title_bilingual": "GM's EV-first bet leaves it on sidelines of US hybrid boom"
+      "title_zh": "通用汽车的电动汽车优先赌注使其在美国混合动力热潮中处于边缘地位",
+      "title_bilingual": "通用汽车的电动汽车优先赌注使其在美国混合动力热潮中处于边缘地位 / GM's EV-first bet leaves it on sidelines of US hybrid boom"
     },
     {
       "id": "81a6bf39c8a5c668f1d9b1d2ebc088f8590d607a",
@@ -873,8 +1517,8 @@
       "finance_noise": [],
       "title_original": "OpenAI's rogue agents probed Hugging Face two months before major hack",
       "title_en": "OpenAI's rogue agents probed Hugging Face two months before major hack",
-      "title_zh": null,
-      "title_bilingual": "OpenAI's rogue agents probed Hugging Face two months before major hack"
+      "title_zh": "OpenAI 的流氓特工在重大黑客攻击前两个月对 Hugging Face 进行了调查",
+      "title_bilingual": "OpenAI 的流氓特工在重大黑客攻击前两个月对 Hugging Face 进行了调查 / OpenAI's rogue agents probed Hugging Face two months before major hack"
     },
     {
       "id": "0ab9c1bbb39d4bad735f46f1d8b712664ae49243",
@@ -896,8 +1540,8 @@
       "finance_noise": [],
       "title_original": "Warsh's words may matter more than the anticipated Fed rate hike",
       "title_en": "Warsh's words may matter more than the anticipated Fed rate hike",
-      "title_zh": null,
-      "title_bilingual": "Warsh's words may matter more than the anticipated Fed rate hike"
+      "title_zh": "沃什的话可能比预期的美联储加息更重要",
+      "title_bilingual": "沃什的话可能比预期的美联储加息更重要 / Warsh's words may matter more than the anticipated Fed rate hike"
     },
     {
       "id": "43489d9080f75104b8110a70e9a37aa36057034a",
@@ -921,8 +1565,8 @@
       "finance_noise": [],
       "title_original": "Nasdaq, S&P 500 climb ahead of keenly awaited Fed decision",
       "title_en": "Nasdaq, S&P 500 climb ahead of keenly awaited Fed decision",
-      "title_zh": null,
-      "title_bilingual": "Nasdaq, S&P 500 climb ahead of keenly awaited Fed decision"
+      "title_zh": "在备受期待的美联储决定之前，纳斯达克和标准普尔 500 指数攀升",
+      "title_bilingual": "在备受期待的美联储决定之前，纳斯达克和标准普尔 500 指数攀升 / Nasdaq, S&P 500 climb ahead of keenly awaited Fed decision"
     },
     {
       "id": "5746f0a41819878e1c60de7d1fdbbdcd90fa0e1a",
@@ -933,7 +1577,7 @@
       "url": "https://www.reuters.com/world/asia-pacific/sk-hynix-talks-with-intel-about-deal-make-memory-chips-us-first-time-sources-say-2026-09-16",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 1.0,
       "finance_label": "财经相关",
@@ -944,8 +1588,8 @@
       "finance_noise": [],
       "title_original": "SK Hynix in talks with Intel about deal to make memory chips in US for the first time, sources say",
       "title_en": "SK Hynix in talks with Intel about deal to make memory chips in US for the first time, sources say",
-      "title_zh": null,
-      "title_bilingual": "SK Hynix in talks with Intel about deal to make memory chips in US for the first time, sources say"
+      "title_zh": "消息人士称，SK 海力士正在与英特尔就首次在美国生产存储芯片的交易进行谈判",
+      "title_bilingual": "消息人士称，SK 海力士正在与英特尔就首次在美国生产存储芯片的交易进行谈判 / SK Hynix in talks with Intel about deal to make memory chips in US for the first time, sources say"
     },
     {
       "id": "aa303698b92227794a863cd8ea7dce3bc68f5aab",
@@ -956,7 +1600,7 @@
       "url": "https://www.36kr.com/p/3985321952115717",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 0.56,
       "finance_label": "公司事件",
@@ -979,7 +1623,7 @@
       "url": "http://xueqiu.com/1438190065/409422968",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 0.56,
       "finance_label": "宏观政策",
@@ -1002,7 +1646,7 @@
       "url": "http://xueqiu.com/4932531422/409391777",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 0.56,
       "finance_label": "股市",
@@ -1025,7 +1669,7 @@
       "url": "https://wallstreetcn.com/articles/3781862",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 0.56,
       "finance_label": "宏观政策",
@@ -1048,7 +1692,7 @@
       "url": "https://wallstreetcn.com/articles/3781881",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 0.6,
       "finance_label": "宏观政策",
@@ -1072,7 +1716,7 @@
       "url": "https://wallstreetcn.com/articles/3781822",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 0.56,
       "finance_label": "债汇",
@@ -1095,7 +1739,7 @@
       "url": "https://wallstreetcn.com/articles/3781844",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 0.6,
       "finance_label": "公司事件",
@@ -1119,7 +1763,7 @@
       "url": "https://wallstreetcn.com/articles/3781839",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 0.6,
       "finance_label": "宏观政策",
@@ -1389,6 +2033,32 @@
       "title_bilingual": "贝森特：支持向美国民众发放5000美元的计划 美债回购行动取得了成功"
     },
     {
+      "id": "8e19b89d076be97648c8786886a590ee0cb9b09b",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "华尔街见闻 · 日排行",
+      "title": "油价飙升加剧通胀担忧，美债收益率再刷20年新高，美股指连跌两日静待美联储决策",
+      "url": "https://wallstreetcn.com/articles/3781779",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T00:35:25.482974Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 0.68,
+      "finance_label": "宏观政策",
+      "finance_relevance_reason": "matched_finance_signal",
+      "finance_signals": [
+        "收益率",
+        "美联储",
+        "美股",
+        "通胀"
+      ],
+      "finance_noise": [],
+      "title_original": "油价飙升加剧通胀担忧，美债收益率再刷20年新高，美股指连跌两日静待美联储决策",
+      "title_en": null,
+      "title_zh": "油价飙升加剧通胀担忧，美债收益率再刷20年新高，美股指连跌两日静待美联储决策",
+      "title_bilingual": "油价飙升加剧通胀担忧，美债收益率再刷20年新高，美股指连跌两日静待美联储决策"
+    },
+    {
       "id": "28e07c46ecd667b665df058bafc0712d913345a5",
       "site_id": "finance_caixin",
       "site_name": "财新网",
@@ -1524,8 +2194,8 @@
       "finance_noise": [],
       "title_original": "AI is not a 'monopoly of great powers', China's top newspaper says",
       "title_en": "AI is not a 'monopoly of great powers', China's top newspaper says",
-      "title_zh": null,
-      "title_bilingual": "AI is not a 'monopoly of great powers', China's top newspaper says"
+      "title_zh": "中国顶级报纸称人工智能不是“大国垄断”",
+      "title_bilingual": "中国顶级报纸称人工智能不是“大国垄断” / AI is not a 'monopoly of great powers', China's top newspaper says"
     },
     {
       "id": "c47ab5bd5c4a5631fbf9c2d0ed2ad039aea851d3",
@@ -1547,8 +2217,8 @@
       "finance_noise": [],
       "title_original": "New York proposes $1 million per megawatt community investment for data centers",
       "title_en": "New York proposes $1 million per megawatt community investment for data centers",
-      "title_zh": null,
-      "title_bilingual": "New York proposes $1 million per megawatt community investment for data centers"
+      "title_zh": "纽约提议为数据中心每兆瓦社区投资 100 万美元",
+      "title_bilingual": "纽约提议为数据中心每兆瓦社区投资 100 万美元 / New York proposes $1 million per megawatt community investment for data centers"
     },
     {
       "id": "152b30af13fe75009596b91e91f78de2d1db88b4",
@@ -1570,8 +2240,8 @@
       "finance_noise": [],
       "title_original": "The AI gold rush has a dress code: steel-toe boots",
       "title_en": "The AI gold rush has a dress code: steel-toe boots",
-      "title_zh": null,
-      "title_bilingual": "The AI gold rush has a dress code: steel-toe boots"
+      "title_zh": "人工智能淘金热有一个着装要求：钢头靴子",
+      "title_bilingual": "人工智能淘金热有一个着装要求：钢头靴子 / The AI gold rush has a dress code: steel-toe boots"
     },
     {
       "id": "4727e9d369502b3ef84f23e4ab7a3f383919b9dd",
@@ -1593,8 +2263,8 @@
       "finance_noise": [],
       "title_original": "US DoJ backs bond demand in Paramount-Warner Bros antitrust fight",
       "title_en": "US DoJ backs bond demand in Paramount-Warner Bros antitrust fight",
-      "title_zh": null,
-      "title_bilingual": "US DoJ backs bond demand in Paramount-Warner Bros antitrust fight"
+      "title_zh": "美国司法部支持派拉蒙与华纳兄弟反垄断斗争中的债券需求",
+      "title_bilingual": "美国司法部支持派拉蒙与华纳兄弟反垄断斗争中的债券需求 / US DoJ backs bond demand in Paramount-Warner Bros antitrust fight"
     },
     {
       "id": "a1b95ce6869844afab10a19d219827ef6f83b043",
@@ -1616,8 +2286,8 @@
       "finance_noise": [],
       "title_original": "OpenAI mulls funding round at $1.2 trillion valuation ahead of IPO, FT reports",
       "title_en": "OpenAI mulls funding round at $1.2 trillion valuation ahead of IPO, FT reports",
-      "title_zh": null,
-      "title_bilingual": "OpenAI mulls funding round at $1.2 trillion valuation ahead of IPO, FT reports"
+      "title_zh": "据英国《金融时报》报道，OpenAI 考虑在 IPO 前进行一轮融资，估值达 1.2 万亿美元",
+      "title_bilingual": "据英国《金融时报》报道，OpenAI 考虑在 IPO 前进行一轮融资，估值达 1.2 万亿美元 / OpenAI mulls funding round at $1.2 trillion valuation ahead of IPO, FT reports"
     },
     {
       "id": "109ef6c0001e9f05a33ca2a034358c66948a2c79",
@@ -1639,8 +2309,8 @@
       "finance_noise": [],
       "title_original": "Meta plans camera-free smart glasses for fall launch, The Information reports",
       "title_en": "Meta plans camera-free smart glasses for fall launch, The Information reports",
-      "title_zh": null,
-      "title_bilingual": "Meta plans camera-free smart glasses for fall launch, The Information reports"
+      "title_zh": "据 The Information 报道，Meta 计划于秋季推出无摄像头智能眼镜",
+      "title_bilingual": "据 The Information 报道，Meta 计划于秋季推出无摄像头智能眼镜 / Meta plans camera-free smart glasses for fall launch, The Information reports"
     },
     {
       "id": "2234db29dccebd46c6fab4fddde7324df200f629",
@@ -1662,8 +2332,8 @@
       "finance_noise": [],
       "title_original": "Norfolk Southern sees fuel prices weighing on third quarter despite freight share gains",
       "title_en": "Norfolk Southern sees fuel prices weighing on third quarter despite freight share gains",
-      "title_zh": null,
-      "title_bilingual": "Norfolk Southern sees fuel prices weighing on third quarter despite freight share gains"
+      "title_zh": "尽管货运份额有所增长，诺福克南方航空仍预计第三季度燃油价格将承压",
+      "title_bilingual": "尽管货运份额有所增长，诺福克南方航空仍预计第三季度燃油价格将承压 / Norfolk Southern sees fuel prices weighing on third quarter despite freight share gains"
     },
     {
       "id": "005dcfcb5d7a3fbe2772f22d1afd8bb37a098e3a",
@@ -1685,8 +2355,8 @@
       "finance_noise": [],
       "title_original": "Nvidia CEO to attend Trump dinner for Xi, source says",
       "title_en": "Nvidia CEO to attend Trump dinner for Xi, source says",
-      "title_zh": null,
-      "title_bilingual": "Nvidia CEO to attend Trump dinner for Xi, source says"
+      "title_zh": "消息人士称，英伟达首席执行官将出席习近平的特朗普晚宴",
+      "title_bilingual": "消息人士称，英伟达首席执行官将出席习近平的特朗普晚宴 / Nvidia CEO to attend Trump dinner for Xi, source says"
     },
     {
       "id": "9e76fa4fb4c9d27a42a06bf6cd266dceacc71f88",
@@ -1709,8 +2379,8 @@
       "finance_noise": [],
       "title_original": "Trading Day: No hiding place",
       "title_en": "Trading Day: No hiding place",
-      "title_zh": null,
-      "title_bilingual": "Trading Day: No hiding place"
+      "title_zh": "交易日：无藏身之处",
+      "title_bilingual": "交易日：无藏身之处 / Trading Day: No hiding place"
     },
     {
       "id": "c90402952ec4be8d5895f77926a98dc1bcd46058",
@@ -1732,8 +2402,8 @@
       "finance_noise": [],
       "title_original": "Bitcoin and crypto stocks remain down after US senate fails to advance regulatory bill",
       "title_en": "Bitcoin and crypto stocks remain down after US senate fails to advance regulatory bill",
-      "title_zh": null,
-      "title_bilingual": "Bitcoin and crypto stocks remain down after US senate fails to advance regulatory bill"
+      "title_zh": "美国参议院未能推进监管法案后，比特币和加密货币股票仍然下跌",
+      "title_bilingual": "美国参议院未能推进监管法案后，比特币和加密货币股票仍然下跌 / Bitcoin and crypto stocks remain down after US senate fails to advance regulatory bill"
     },
     {
       "id": "908ea3f8b780a3f198e763ed40fb5f86f7721a21",
@@ -1755,8 +2425,8 @@
       "finance_noise": [],
       "title_original": "Bessent defends Trump economic policies, reveals plans to meet Chinese official",
       "title_en": "Bessent defends Trump economic policies, reveals plans to meet Chinese official",
-      "title_zh": null,
-      "title_bilingual": "Bessent defends Trump economic policies, reveals plans to meet Chinese official"
+      "title_zh": "贝森特捍卫特朗普经济政策，透露计划会见中国官员",
+      "title_bilingual": "贝森特捍卫特朗普经济政策，透露计划会见中国官员 / Bessent defends Trump economic policies, reveals plans to meet Chinese official"
     },
     {
       "id": "7bee08f1c07608047953588da9063259f56b0ade",
@@ -1778,8 +2448,8 @@
       "finance_noise": [],
       "title_original": "Wall Street ends lower as oil spikes and the benchmark Treasury yield breaches 5%",
       "title_en": "Wall Street ends lower as oil spikes and the benchmark Treasury yield breaches 5%",
-      "title_zh": null,
-      "title_bilingual": "Wall Street ends lower as oil spikes and the benchmark Treasury yield breaches 5%"
+      "title_zh": "油价飙升且基准国债收益率突破 5%，华尔街收低",
+      "title_bilingual": "油价飙升且基准国债收益率突破 5%，华尔街收低 / Wall Street ends lower as oil spikes and the benchmark Treasury yield breaches 5%"
     },
     {
       "id": "9b3bfd36395bfde5c4365fd2d21d8ac6ccff18cb",
@@ -1803,8 +2473,8 @@
       "finance_noise": [],
       "title_original": "Government bond yields rise, oil gains again as stocks dip",
       "title_en": "Government bond yields rise, oil gains again as stocks dip",
-      "title_zh": null,
-      "title_bilingual": "Government bond yields rise, oil gains again as stocks dip"
+      "title_zh": "政府债券收益率上升，随着股市下跌，石油价格再次上涨",
+      "title_bilingual": "政府债券收益率上升，随着股市下跌，石油价格再次上涨 / Government bond yields rise, oil gains again as stocks dip"
     },
     {
       "id": "70e49c9bb856ce0abeb811d082f9f48b89bd0740",
@@ -1826,8 +2496,8 @@
       "finance_noise": [],
       "title_original": "Oil settles $3 higher on Yanbu disruption, Saudi cargo cancellations",
       "title_en": "Oil settles $3 higher on Yanbu disruption, Saudi cargo cancellations",
-      "title_zh": null,
-      "title_bilingual": "Oil settles $3 higher on Yanbu disruption, Saudi cargo cancellations"
+      "title_zh": "延布中断、沙特货物取消导致油价上涨 3 美元",
+      "title_bilingual": "延布中断、沙特货物取消导致油价上涨 3 美元 / Oil settles $3 higher on Yanbu disruption, Saudi cargo cancellations"
     },
     {
       "id": "3c72a70ced1d177bb2b60afd5e2f8cf088c6ce9a",
@@ -1849,34 +2519,8 @@
       "finance_noise": [],
       "title_original": "US Senator Sanders and Trump ally Bannon call for stronger AI oversight",
       "title_en": "US Senator Sanders and Trump ally Bannon call for stronger AI oversight",
-      "title_zh": null,
-      "title_bilingual": "US Senator Sanders and Trump ally Bannon call for stronger AI oversight"
-    },
-    {
-      "id": "8e19b89d076be97648c8786886a590ee0cb9b09b",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "华尔街见闻 · 日排行",
-      "title": "油价飙升加剧通胀担忧，美债收益率再刷20年新高，美股指连跌两日静待美联储决策",
-      "url": "https://wallstreetcn.com/articles/3781779",
-      "published_at": null,
-      "first_seen_at": "2026-09-16T00:35:25.482974Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
-      "finance_is_related": true,
-      "finance_score": 0.68,
-      "finance_label": "宏观政策",
-      "finance_relevance_reason": "matched_finance_signal",
-      "finance_signals": [
-        "收益率",
-        "美联储",
-        "美股",
-        "通胀"
-      ],
-      "finance_noise": [],
-      "title_original": "油价飙升加剧通胀担忧，美债收益率再刷20年新高，美股指连跌两日静待美联储决策",
-      "title_en": null,
-      "title_zh": "油价飙升加剧通胀担忧，美债收益率再刷20年新高，美股指连跌两日静待美联储决策",
-      "title_bilingual": "油价飙升加剧通胀担忧，美债收益率再刷20年新高，美股指连跌两日静待美联储决策"
+      "title_zh": "美国参议员桑德斯和特朗普盟友班农呼吁加强人工智能监管",
+      "title_bilingual": "美国参议员桑德斯和特朗普盟友班农呼吁加强人工智能监管 / US Senator Sanders and Trump ally Bannon call for stronger AI oversight"
     },
     {
       "id": "39645043c3a018a792074a3decbeb4ecc705b2d0",
@@ -2228,6 +2872,52 @@
       "title_bilingual": "政府官员称， 德国总理默茨计划留在柏林。"
     },
     {
+      "id": "1b12adeda2bf024c27d29d65a0b5c1dca3bd9d6a",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "雪球 · 今日话题",
+      "title": "以未来股价为导向的投资方式",
+      "url": "http://xueqiu.com/1553799558/409306793",
+      "published_at": null,
+      "first_seen_at": "2026-09-15T19:25:15.265857Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 0.55,
+      "finance_label": "财经综合",
+      "finance_relevance_reason": "matched_broad_finance_signal",
+      "finance_signals": [
+        "投资"
+      ],
+      "finance_noise": [],
+      "title_original": "以未来股价为导向的投资方式",
+      "title_en": null,
+      "title_zh": "以未来股价为导向的投资方式",
+      "title_bilingual": "以未来股价为导向的投资方式"
+    },
+    {
+      "id": "be0b21fcd25d30fb5fbc01dc97546178e02b8274",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "雪球 · 今日话题",
+      "title": "中远海控2026年三季报业绩前瞻",
+      "url": "http://xueqiu.com/5742821612/409277558",
+      "published_at": null,
+      "first_seen_at": "2026-09-15T19:25:15.265857Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 0.56,
+      "finance_label": "公司事件",
+      "finance_relevance_reason": "matched_finance_signal",
+      "finance_signals": [
+        "季报"
+      ],
+      "finance_noise": [],
+      "title_original": "中远海控2026年三季报业绩前瞻",
+      "title_en": null,
+      "title_zh": "中远海控2026年三季报业绩前瞻",
+      "title_bilingual": "中远海控2026年三季报业绩前瞻"
+    },
+    {
       "id": "9fb0334eabe595ad25519b5b47a006b8d817b59a",
       "site_id": "finance_caixin",
       "site_name": "财新网",
@@ -2574,52 +3264,6 @@
       "title_bilingual": "车市血泪半年报：14大车企净利率仅1.22%，有人爆赚有人猛亏"
     },
     {
-      "id": "1b12adeda2bf024c27d29d65a0b5c1dca3bd9d6a",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "雪球 · 今日话题",
-      "title": "以未来股价为导向的投资方式",
-      "url": "http://xueqiu.com/1553799558/409306793",
-      "published_at": null,
-      "first_seen_at": "2026-09-15T19:25:15.265857Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
-      "finance_is_related": true,
-      "finance_score": 0.55,
-      "finance_label": "财经综合",
-      "finance_relevance_reason": "matched_broad_finance_signal",
-      "finance_signals": [
-        "投资"
-      ],
-      "finance_noise": [],
-      "title_original": "以未来股价为导向的投资方式",
-      "title_en": null,
-      "title_zh": "以未来股价为导向的投资方式",
-      "title_bilingual": "以未来股价为导向的投资方式"
-    },
-    {
-      "id": "be0b21fcd25d30fb5fbc01dc97546178e02b8274",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "雪球 · 今日话题",
-      "title": "中远海控2026年三季报业绩前瞻",
-      "url": "http://xueqiu.com/5742821612/409277558",
-      "published_at": null,
-      "first_seen_at": "2026-09-15T19:25:15.265857Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
-      "finance_is_related": true,
-      "finance_score": 0.56,
-      "finance_label": "公司事件",
-      "finance_relevance_reason": "matched_finance_signal",
-      "finance_signals": [
-        "季报"
-      ],
-      "finance_noise": [],
-      "title_original": "中远海控2026年三季报业绩前瞻",
-      "title_en": null,
-      "title_zh": "中远海控2026年三季报业绩前瞻",
-      "title_bilingual": "中远海控2026年三季报业绩前瞻"
-    },
-    {
       "id": "a574d2832039a17d2ee26f2bd415bb69110bce00",
       "site_id": "finance_reuters",
       "site_name": "Reuters Business",
@@ -2639,8 +3283,8 @@
       "finance_noise": [],
       "title_original": "US agency orders Tesla to answer questions on Cybercab certification",
       "title_en": "US agency orders Tesla to answer questions on Cybercab certification",
-      "title_zh": null,
-      "title_bilingual": "US agency orders Tesla to answer questions on Cybercab certification"
+      "title_zh": "美国机构命令特斯拉回答有关 Cyber​​cab 认证的问题",
+      "title_bilingual": "美国机构命令特斯拉回答有关 Cyber​​cab 认证的问题 / US agency orders Tesla to answer questions on Cybercab certification"
     },
     {
       "id": "85e3d879ba2ea6393cd4bdb107d9de2e88d2fe7d",
@@ -2662,8 +3306,8 @@
       "finance_noise": [],
       "title_original": "Boeing set to salvage delayed Turkish Airlines order, sources say",
       "title_en": "Boeing set to salvage delayed Turkish Airlines order, sources say",
-      "title_zh": null,
-      "title_bilingual": "Boeing set to salvage delayed Turkish Airlines order, sources say"
+      "title_zh": "消息人士称，波音公司将挽救土耳其航空延迟的订单",
+      "title_bilingual": "消息人士称，波音公司将挽救土耳其航空延迟的订单 / Boeing set to salvage delayed Turkish Airlines order, sources say"
     },
     {
       "id": "1d6577f87b73e418a7405c0356592dac696c3ca7",
@@ -2685,8 +3329,8 @@
       "finance_noise": [],
       "title_original": "US poverty rate dips to lowest on record, Census Bureau says",
       "title_en": "US poverty rate dips to lowest on record, Census Bureau says",
-      "title_zh": null,
-      "title_bilingual": "US poverty rate dips to lowest on record, Census Bureau says"
+      "title_zh": "人口普查局称美国贫困率降至有记录以来最低",
+      "title_bilingual": "人口普查局称美国贫困率降至有记录以来最低 / US poverty rate dips to lowest on record, Census Bureau says"
     },
     {
       "id": "df5fe1ab05a1a34c8fac241a8b8fddbb5af24805",
@@ -2708,8 +3352,8 @@
       "finance_noise": [],
       "title_original": "FTC chair suspicious of calls for AI antitrust exemptions",
       "title_en": "FTC chair suspicious of calls for AI antitrust exemptions",
-      "title_zh": null,
-      "title_bilingual": "FTC chair suspicious of calls for AI antitrust exemptions"
+      "title_zh": "联邦贸易委员会主席对人工智能反垄断豁免的呼吁持怀疑态度",
+      "title_bilingual": "联邦贸易委员会主席对人工智能反垄断豁免的呼吁持怀疑态度 / FTC chair suspicious of calls for AI antitrust exemptions"
     },
     {
       "id": "39f64c41d19e6abe17590f7a6e99d6412c5f6c7b",
@@ -2731,8 +3375,8 @@
       "finance_noise": [],
       "title_original": "US Senate fails to advance sweeping cryptocurrency bill in blow for industry",
       "title_en": "US Senate fails to advance sweeping cryptocurrency bill in blow for industry",
-      "title_zh": null,
-      "title_bilingual": "US Senate fails to advance sweeping cryptocurrency bill in blow for industry"
+      "title_zh": "美国参议院未能推进全面的加密货币法案，对行业造成打击",
+      "title_bilingual": "美国参议院未能推进全面的加密货币法案，对行业造成打击 / US Senate fails to advance sweeping cryptocurrency bill in blow for industry"
     },
     {
       "id": "23c64155feb102ee4ece65b6260fea7c91eea71e",
@@ -2892,8 +3536,8 @@
       "finance_noise": [],
       "title_original": "SpaceX targets first Starship orbital test on September 22",
       "title_en": "SpaceX targets first Starship orbital test on September 22",
-      "title_zh": null,
-      "title_bilingual": "SpaceX targets first Starship orbital test on September 22"
+      "title_zh": "SpaceX 计划于 9 月 22 日进行首次星际飞船轨道测试",
+      "title_bilingual": "SpaceX 计划于 9 月 22 日进行首次星际飞船轨道测试 / SpaceX targets first Starship orbital test on September 22"
     },
     {
       "id": "f8785c8d19cec861e9433de67832fb9e4543169f",
@@ -2915,8 +3559,8 @@
       "finance_noise": [],
       "title_original": "Truist Financial to sell $5.5 billion of auto loans amid overhaul",
       "title_en": "Truist Financial to sell $5.5 billion of auto loans amid overhaul",
-      "title_zh": null,
-      "title_bilingual": "Truist Financial to sell $5.5 billion of auto loans amid overhaul"
+      "title_zh": "Truist Financial 将在改革期间出售 55 亿美元的汽车贷款",
+      "title_bilingual": "Truist Financial 将在改革期间出售 55 亿美元的汽车贷款 / Truist Financial to sell $5.5 billion of auto loans amid overhaul"
     },
     {
       "id": "a2ad26ec0d0abf69a92ade016589c2079121d4ee",
@@ -2938,8 +3582,8 @@
       "finance_noise": [],
       "title_original": "AI coding agent startup Factory triples valuation to $5 billion in latest funding round",
       "title_en": "AI coding agent startup Factory triples valuation to $5 billion in latest funding round",
-      "title_zh": null,
-      "title_bilingual": "AI coding agent startup Factory triples valuation to $5 billion in latest funding round"
+      "title_zh": "AI 编码代理初创公司 Factory 在最新一轮融资中估值增加两倍至 50 亿美元",
+      "title_bilingual": "AI 编码代理初创公司 Factory 在最新一轮融资中估值增加两倍至 50 亿美元 / AI coding agent startup Factory triples valuation to $5 billion in latest funding round"
     },
     {
       "id": "36997ec47dc0badb355ee8b5908966d14ac85c72",
@@ -2961,8 +3605,8 @@
       "finance_noise": [],
       "title_original": "Revolut wins Colombia banking license, to launch in 2027",
       "title_en": "Revolut wins Colombia banking license, to launch in 2027",
-      "title_zh": null,
-      "title_bilingual": "Revolut wins Colombia banking license, to launch in 2027"
+      "title_zh": "Revolut 获得哥伦比亚银行牌照，将于 2027 年推出",
+      "title_bilingual": "Revolut 获得哥伦比亚银行牌照，将于 2027 年推出 / Revolut wins Colombia banking license, to launch in 2027"
     },
     {
       "id": "0270c73e1d24cb22b6aae471a99cba8e8af48816",
@@ -2984,8 +3628,8 @@
       "finance_noise": [],
       "title_original": "US FAA says billions more needed to modernize air traffic control",
       "title_en": "US FAA says billions more needed to modernize air traffic control",
-      "title_zh": null,
-      "title_bilingual": "US FAA says billions more needed to modernize air traffic control"
+      "title_zh": "美国联邦航空管理局表示，空中交通管制现代化还需要数十亿美元",
+      "title_bilingual": "美国联邦航空管理局表示，空中交通管制现代化还需要数十亿美元 / US FAA says billions more needed to modernize air traffic control"
     },
     {
       "id": "bf2c8e2acba3d54febb27d669a9cc079790d7e62",
@@ -3007,8 +3651,8 @@
       "finance_noise": [],
       "title_original": "Agnico Eagle says it is not interested in participating in Barrick’s North American IPO",
       "title_en": "Agnico Eagle says it is not interested in participating in Barrick’s North American IPO",
-      "title_zh": null,
-      "title_bilingual": "Agnico Eagle says it is not interested in participating in Barrick’s North American IPO"
+      "title_zh": "Agnico Eagle表示无意参与巴里克北美IPO",
+      "title_bilingual": "Agnico Eagle表示无意参与巴里克北美IPO / Agnico Eagle says it is not interested in participating in Barrick’s North American IPO"
     },
     {
       "id": "e3a52aa9988c2da27ec5384ed86bd67279fc9801",
@@ -3030,8 +3674,8 @@
       "finance_noise": [],
       "title_original": "Bessent says strong dollar based on credibility, policy certainty",
       "title_en": "Bessent says strong dollar based on credibility, policy certainty",
-      "title_zh": null,
-      "title_bilingual": "Bessent says strong dollar based on credibility, policy certainty"
+      "title_zh": "贝森特表示强势美元基于信誉和政策确定性",
+      "title_bilingual": "贝森特表示强势美元基于信誉和政策确定性 / Bessent says strong dollar based on credibility, policy certainty"
     },
     {
       "id": "32132e5666ff91172ce11e66770d9c8ae49f41d3",
@@ -3053,8 +3697,8 @@
       "finance_noise": [],
       "title_original": "Hitachi Energy to invest $528 million in new transformer factory in Mississippi",
       "title_en": "Hitachi Energy to invest $528 million in new transformer factory in Mississippi",
-      "title_zh": null,
-      "title_bilingual": "Hitachi Energy to invest $528 million in new transformer factory in Mississippi"
+      "title_zh": "日立能源将投资 5.28 亿美元在密西西比州新建变压器工厂",
+      "title_bilingual": "日立能源将投资 5.28 亿美元在密西西比州新建变压器工厂 / Hitachi Energy to invest $528 million in new transformer factory in Mississippi"
     },
     {
       "id": "3a3975fb4a29bca17ed57bc01382e8eb8da8d29d",
@@ -3076,8 +3720,8 @@
       "finance_noise": [],
       "title_original": "Meta launches subscriptions with enhanced AI features",
       "title_en": "Meta launches subscriptions with enhanced AI features",
-      "title_zh": null,
-      "title_bilingual": "Meta launches subscriptions with enhanced AI features"
+      "title_zh": "Meta 推出具有增强人工智能功能的订阅",
+      "title_bilingual": "Meta 推出具有增强人工智能功能的订阅 / Meta launches subscriptions with enhanced AI features"
     },
     {
       "id": "8a361adfe131ce916cfb37b9f42c7db4a8a4e173",
@@ -3099,8 +3743,8 @@
       "finance_noise": [],
       "title_original": "US Treasury's Bessent says bond yields reflect 'global issues'",
       "title_en": "US Treasury's Bessent says bond yields reflect 'global issues'",
-      "title_zh": null,
-      "title_bilingual": "US Treasury's Bessent says bond yields reflect 'global issues'"
+      "title_zh": "美国财政部长贝森特表示债券收益率反映了“全球问题”",
+      "title_bilingual": "美国财政部长贝森特表示债券收益率反映了“全球问题” / US Treasury's Bessent says bond yields reflect 'global issues'"
     },
     {
       "id": "bf53a0b76f1cc438392eb50ea923d83d5e2c7a61",
@@ -3122,8 +3766,8 @@
       "finance_noise": [],
       "title_original": "OpenAI is working with Anthropic, Google on AI safety, Bloomberg News reports",
       "title_en": "OpenAI is working with Anthropic, Google on AI safety, Bloomberg News reports",
-      "title_zh": null,
-      "title_bilingual": "OpenAI is working with Anthropic, Google on AI safety, Bloomberg News reports"
+      "title_zh": "据彭博社报道，OpenAI 正在与 Anthropic、谷歌合作开发人工智能安全",
+      "title_bilingual": "据彭博社报道，OpenAI 正在与 Anthropic、谷歌合作开发人工智能安全 / OpenAI is working with Anthropic, Google on AI safety, Bloomberg News reports"
     },
     {
       "id": "db57483ed7f919e566e047f9683ec99cefb8db61",
@@ -3145,8 +3789,8 @@
       "finance_noise": [],
       "title_original": "Coca-Cola to invest $10 billion in US infrastructure by 2030",
       "title_en": "Coca-Cola to invest $10 billion in US infrastructure by 2030",
-      "title_zh": null,
-      "title_bilingual": "Coca-Cola to invest $10 billion in US infrastructure by 2030"
+      "title_zh": "可口可乐到 2030 年将投资 100 亿美元用于美国基础设施建设",
+      "title_bilingual": "可口可乐到 2030 年将投资 100 亿美元用于美国基础设施建设 / Coca-Cola to invest $10 billion in US infrastructure by 2030"
     },
     {
       "id": "5313dd2c68656eb3a7b3cd0b8fd220b2a662c45d",
@@ -3169,8 +3813,8 @@
       "finance_noise": [],
       "title_original": "Chipmaker Altera confidentially files for US IPO as investors set to gauge AI demand",
       "title_en": "Chipmaker Altera confidentially files for US IPO as investors set to gauge AI demand",
-      "title_zh": null,
-      "title_bilingual": "Chipmaker Altera confidentially files for US IPO as investors set to gauge AI demand"
+      "title_zh": "投资者准备评估人工智能需求，芯片制造商 Altera 秘密提交美国 IPO 申请",
+      "title_bilingual": "投资者准备评估人工智能需求，芯片制造商 Altera 秘密提交美国 IPO 申请 / Chipmaker Altera confidentially files for US IPO as investors set to gauge AI demand"
     },
     {
       "id": "2ccadbd11e8ab92d784f88b17204a3bd54b50ba2",
@@ -3192,8 +3836,8 @@
       "finance_noise": [],
       "title_original": "Wall Street dips as oil spikes and benchmark Treasury yields breach 5%",
       "title_en": "Wall Street dips as oil spikes and benchmark Treasury yields breach 5%",
-      "title_zh": null,
-      "title_bilingual": "Wall Street dips as oil spikes and benchmark Treasury yields breach 5%"
+      "title_zh": "由于油价上涨和基准国债收益率突破 5%，华尔街下跌",
+      "title_bilingual": "由于油价上涨和基准国债收益率突破 5%，华尔街下跌 / Wall Street dips as oil spikes and benchmark Treasury yields breach 5%"
     },
     {
       "id": "13e54847869d485c52abceb059d58a72b58093a5",
@@ -3215,8 +3859,8 @@
       "finance_noise": [],
       "title_original": "Sanders and Bannon call for AI limits as public unease grows",
       "title_en": "Sanders and Bannon call for AI limits as public unease grows",
-      "title_zh": null,
-      "title_bilingual": "Sanders and Bannon call for AI limits as public unease grows"
+      "title_zh": "随着公众不安情绪的加剧，桑德斯和班农呼吁限制人工智能",
+      "title_bilingual": "随着公众不安情绪的加剧，桑德斯和班农呼吁限制人工智能 / Sanders and Bannon call for AI limits as public unease grows"
     },
     {
       "id": "93df48b40288b86af1be122ff69c99a74331bc98",
@@ -3416,33 +4060,654 @@
       "title_en": null,
       "title_zh": "郑栅洁主持召开民营企业座谈会，围绕优化发展环境、拓展投资空间听取意见建议",
       "title_bilingual": "郑栅洁主持召开民营企业座谈会，围绕优化发展环境、拓展投资空间听取意见建议"
-    },
-    {
-      "id": "baa5695856637d48638bfe1201992b48f72d6eed",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "华尔街见闻 · 日排行",
-      "title": "DeepSeek核心工程师长文刷屏：《我不得不把才华埋葬在昨天》",
-      "url": "https://wallstreetcn.com/articles/3781850",
-      "published_at": "2026-09-15T15:04:45.469148Z",
-      "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
-      "finance_is_related": true,
-      "finance_score": 0.56,
-      "finance_label": "财经相关",
-      "finance_relevance_reason": "matched_finance_signal",
-      "finance_signals": [
-        "eps"
-      ],
-      "finance_noise": [],
-      "title_original": "DeepSeek核心工程师长文刷屏：《我不得不把才华埋葬在昨天》",
-      "title_en": null,
-      "title_zh": "DeepSeek核心工程师长文刷屏：《我不得不把才华埋葬在昨天》",
-      "title_bilingual": "DeepSeek核心工程师长文刷屏：《我不得不把才华埋葬在昨天》"
     }
   ],
   "items_signal": [
     {
+      "id": "6ad171a8a7ed6ccd7df4b66fbfdd4e34ec16c68e",
+      "site_id": "finance_reuters",
+      "site_name": "Reuters Business",
+      "source": "Reuters Business",
+      "title": "What do higher rates mean for borrowers and savers?",
+      "url": "https://www.reuters.com/business/retail-consumer/what-do-higher-rates-mean-borrowers-savers-2026-09-16",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经相关",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_reuters"
+      ],
+      "finance_noise": [],
+      "title_original": "What do higher rates mean for borrowers and savers?",
+      "title_en": "What do higher rates mean for borrowers and savers?",
+      "title_zh": "更高的利率对借款人和储户意味着什么？",
+      "title_bilingual": "更高的利率对借款人和储户意味着什么？ / What do higher rates mean for borrowers and savers?"
+    },
+    {
+      "id": "ca0f24e1de89efbef9e244a0d032b3cda589a719",
+      "site_id": "finance_reuters",
+      "site_name": "Reuters Business",
+      "source": "Reuters Business",
+      "title": "VIEW Short-term bond yields rise after Fed raises rates, points to another hike this year",
+      "url": "https://www.reuters.com/business/view-markets-steady-after-fed-raises-rates-points-another-hike-this-year-2026-09-16",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "宏观政策",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "bond",
+        "fed",
+        "market"
+      ],
+      "finance_noise": [],
+      "title_original": "VIEW Short-term bond yields rise after Fed raises rates, points to another hike this year",
+      "title_en": "VIEW Short-term bond yields rise after Fed raises rates, points to another hike this year",
+      "title_zh": "美联储加息后短期债券收益率上升，预示今年将再次加息",
+      "title_bilingual": "美联储加息后短期债券收益率上升，预示今年将再次加息 / VIEW Short-term bond yields rise after Fed raises rates, points to another hike this year"
+    },
+    {
+      "id": "d80a4be9b51e6fb9a2f8fdeed410b55ff436c237",
+      "site_id": "finance_reuters",
+      "site_name": "Reuters Business",
+      "source": "Reuters Business",
+      "title": "Fed forecasts see latest hike followed by another before end of year",
+      "url": "https://www.reuters.com/business/fed-forecasts-see-latest-hike-followed-by-another-before-end-year-2026-09-16",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "宏观政策",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "fed"
+      ],
+      "finance_noise": [],
+      "title_original": "Fed forecasts see latest hike followed by another before end of year",
+      "title_en": "Fed forecasts see latest hike followed by another before end of year",
+      "title_zh": "美联储预计将在年底前再次加息",
+      "title_bilingual": "美联储预计将在年底前再次加息 / Fed forecasts see latest hike followed by another before end of year"
+    },
+    {
+      "id": "36455fdeb638ce284ce9002eb324853475d07f55",
+      "site_id": "finance_reuters",
+      "site_name": "Reuters Business",
+      "source": "Reuters Business",
+      "title": "Union Pacific says high diesel prices shifting freight from trucks to rail",
+      "url": "https://www.reuters.com/business/energy/union-pacific-says-high-diesel-prices-shifting-freight-trucks-rail-2026-09-16",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经相关",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_reuters"
+      ],
+      "finance_noise": [],
+      "title_original": "Union Pacific says high diesel prices shifting freight from trucks to rail",
+      "title_en": "Union Pacific says high diesel prices shifting freight from trucks to rail",
+      "title_zh": "联合太平洋公司表示，高柴油价格导致货运从卡车转向铁路",
+      "title_bilingual": "联合太平洋公司表示，高柴油价格导致货运从卡车转向铁路 / Union Pacific says high diesel prices shifting freight from trucks to rail"
+    },
+    {
+      "id": "763f24df91fffa2b9cce603cb727226ae3ea70b9",
+      "site_id": "finance_reuters",
+      "site_name": "Reuters Business",
+      "source": "Reuters Business",
+      "title": "Bessent says US open to discussing shared AI risks with China, Axios reports",
+      "url": "https://www.reuters.com/world/china/bessent-says-us-open-discussing-shared-ai-risks-with-china-axios-reports-2026-09-16",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经相关",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_reuters"
+      ],
+      "finance_noise": [],
+      "title_original": "Bessent says US open to discussing shared AI risks with China, Axios reports",
+      "title_en": "Bessent says US open to discussing shared AI risks with China, Axios reports",
+      "title_zh": "据 Axios 报道，Bessent 表示美国愿意与中国讨论共同的人工智能风险",
+      "title_bilingual": "据 Axios 报道，Bessent 表示美国愿意与中国讨论共同的人工智能风险 / Bessent says US open to discussing shared AI risks with China, Axios reports"
+    },
+    {
+      "id": "1bc549ed2adba75a6246c2ef557d645975efc8cc",
+      "site_id": "finance_reuters",
+      "site_name": "Reuters Business",
+      "source": "Reuters Business",
+      "title": "US DFC approves $500 million in guarantees to boost US exports to emerging markets",
+      "url": "https://www.reuters.com/world/china/us-dfc-approves-500-million-guarantees-boost-us-exports-emerging-markets-2026-09-16",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "国际贸易",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "market"
+      ],
+      "finance_noise": [],
+      "title_original": "US DFC approves $500 million in guarantees to boost US exports to emerging markets",
+      "title_en": "US DFC approves $500 million in guarantees to boost US exports to emerging markets",
+      "title_zh": "美国DFC批准5亿美元担保，以促进美国对新兴市场的出口",
+      "title_bilingual": "美国DFC批准5亿美元担保，以促进美国对新兴市场的出口 / US DFC approves $500 million in guarantees to boost US exports to emerging markets"
+    },
+    {
+      "id": "4063d31ce1bee6b0cfb7e5df0427ce2de1ac9461",
+      "site_id": "finance_reuters",
+      "site_name": "Reuters Business",
+      "source": "Reuters Business",
+      "title": "Anthropic to fold Claude AI features into one interface, launches document tools",
+      "url": "https://www.reuters.com/business/media-telecom/anthropic-fold-claude-ai-features-into-one-interface-launches-document-tools-2026-09-16",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经相关",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_reuters"
+      ],
+      "finance_noise": [],
+      "title_original": "Anthropic to fold Claude AI features into one interface, launches document tools",
+      "title_en": "Anthropic to fold Claude AI features into one interface, launches document tools",
+      "title_zh": "Anthropic 将 Claude AI 功能整合到一个界面中，推出文档工具",
+      "title_bilingual": "Anthropic 将 Claude AI 功能整合到一个界面中，推出文档工具 / Anthropic to fold Claude AI features into one interface, launches document tools"
+    },
+    {
+      "id": "51a9107a50e791e9fe3f0b34e350760de1158784",
+      "site_id": "finance_reuters",
+      "site_name": "Reuters Business",
+      "source": "Reuters Business",
+      "title": "SEC proposes to end shareholder vote oversight, a blow to reformers",
+      "url": "https://www.reuters.com/legal/government/sec-proposes-end-shareholder-vote-oversight-blow-reformers-2026-09-16",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "监管政策",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "sec"
+      ],
+      "finance_noise": [],
+      "title_original": "SEC proposes to end shareholder vote oversight, a blow to reformers",
+      "title_en": "SEC proposes to end shareholder vote oversight, a blow to reformers",
+      "title_zh": "美国证券交易委员会提议终止股东投票监督，这对改革者是一个打击",
+      "title_bilingual": "美国证券交易委员会提议终止股东投票监督，这对改革者是一个打击 / SEC proposes to end shareholder vote oversight, a blow to reformers"
+    },
+    {
+      "id": "3ff0d16b3dc9f7ce408b1346550f30f6b5acfc20",
+      "site_id": "finance_reuters",
+      "site_name": "Reuters Business",
+      "source": "Reuters Business",
+      "title": "US farm agency prepares to reopen New Mexico port to livestock trade next week",
+      "url": "https://www.reuters.com/world/us/us-farm-agency-prepares-reopen-new-mexico-port-livestock-trade-next-week-2026-09-16",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经相关",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "stock"
+      ],
+      "finance_noise": [],
+      "title_original": "US farm agency prepares to reopen New Mexico port to livestock trade next week",
+      "title_en": "US farm agency prepares to reopen New Mexico port to livestock trade next week",
+      "title_zh": "美国农业机构准备下周重新开放新墨西哥州港口进行牲畜贸易",
+      "title_bilingual": "美国农业机构准备下周重新开放新墨西哥州港口进行牲畜贸易 / US farm agency prepares to reopen New Mexico port to livestock trade next week"
+    },
+    {
+      "id": "f37c30a119e6bc8a949c6851de5602dc72a466b9",
+      "site_id": "finance_reuters",
+      "site_name": "Reuters Business",
+      "source": "Reuters Business",
+      "title": "US firm Heeney Capital to operate Venezuela gold mine, Continental seeks to enter oil project",
+      "url": "https://www.reuters.com/business/energy/us-energy-producer-unveil-venezuela-investment-energy-secretary-says-2026-09-16",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "大宗商品",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "sec"
+      ],
+      "finance_noise": [],
+      "title_original": "US firm Heeney Capital to operate Venezuela gold mine, Continental seeks to enter oil project",
+      "title_en": "US firm Heeney Capital to operate Venezuela gold mine, Continental seeks to enter oil project",
+      "title_zh": "美国Heeney Capital公司将运营委内瑞拉金矿，大陆集团寻求进入石油项目",
+      "title_bilingual": "美国Heeney Capital公司将运营委内瑞拉金矿，大陆集团寻求进入石油项目 / US firm Heeney Capital to operate Venezuela gold mine, Continental seeks to enter oil project"
+    },
+    {
+      "id": "535e32fe0b01c3e5370fe1aacbfe2074b960e257",
+      "site_id": "finance_reuters",
+      "site_name": "Reuters Business",
+      "source": "Reuters Business",
+      "title": "DeepMind co-founder warns AI capabilities must not outrun safety controls, FT reports",
+      "url": "https://www.reuters.com/business/deepmind-co-founder-warns-ai-capabilities-must-not-outrun-safety-controls-ft-2026-09-16",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经相关",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_reuters"
+      ],
+      "finance_noise": [],
+      "title_original": "DeepMind co-founder warns AI capabilities must not outrun safety controls, FT reports",
+      "title_en": "DeepMind co-founder warns AI capabilities must not outrun safety controls, FT reports",
+      "title_zh": "据英国《金融时报》报道，DeepMind 联合创始人警告人工智能能力不得超越安全控制",
+      "title_bilingual": "据英国《金融时报》报道，DeepMind 联合创始人警告人工智能能力不得超越安全控制 / DeepMind co-founder warns AI capabilities must not outrun safety controls, FT reports"
+    },
+    {
+      "id": "5159b935119889bfe356ddd5c764ac1f52e610e2",
+      "site_id": "finance_reuters",
+      "site_name": "Reuters Business",
+      "source": "Reuters Business",
+      "title": "American, United prepare further capacity trims as fuel shock reshapes flying",
+      "url": "https://www.reuters.com/business/american-airlines-warns-high-fuel-prices-could-force-capacity-adjustments-2026-09-16",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经相关",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_reuters"
+      ],
+      "finance_noise": [],
+      "title_original": "American, United prepare further capacity trims as fuel shock reshapes flying",
+      "title_en": "American, United prepare further capacity trims as fuel shock reshapes flying",
+      "title_zh": "随着燃油冲击重塑飞行，美国航空和联合航空准备进一步削减运力",
+      "title_bilingual": "随着燃油冲击重塑飞行，美国航空和联合航空准备进一步削减运力 / American, United prepare further capacity trims as fuel shock reshapes flying"
+    },
+    {
+      "id": "12fea3f021c77b65b792d7aff34db25323df9a05",
+      "site_id": "finance_reuters",
+      "site_name": "Reuters Business",
+      "source": "Reuters Business",
+      "title": "Robust US retail sales underscore economy's resilience, inflation pressures building",
+      "url": "https://www.reuters.com/business/retail-consumer/us-retail-sales-rebound-sharply-august-2026-09-16",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经综合",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_reuters"
+      ],
+      "finance_noise": [],
+      "title_original": "Robust US retail sales underscore economy's resilience, inflation pressures building",
+      "title_en": "Robust US retail sales underscore economy's resilience, inflation pressures building",
+      "title_zh": "美国强劲的零售销售凸显经济韧性，通胀压力加剧",
+      "title_bilingual": "美国强劲的零售销售凸显经济韧性，通胀压力加剧 / Robust US retail sales underscore economy's resilience, inflation pressures building"
+    },
+    {
+      "id": "27674fe8e33020f2521cc5e220c87621fb438c45",
+      "site_id": "finance_reuters",
+      "site_name": "Reuters Business",
+      "source": "Reuters Business",
+      "title": "OpenAI's rogue agents probed Hugging Face for weaknesses two months before major hack",
+      "url": "https://www.reuters.com/legal/litigation/openais-rogue-agents-probed-hugging-face-weaknesses-two-months-before-major-hack-2026-09-16",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "财经相关",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "finance_reuters"
+      ],
+      "finance_noise": [],
+      "title_original": "OpenAI's rogue agents probed Hugging Face for weaknesses two months before major hack",
+      "title_en": "OpenAI's rogue agents probed Hugging Face for weaknesses two months before major hack",
+      "title_zh": "OpenAI 的流氓特工在重大黑客攻击前两个月调查了 Hugging Face 的弱点",
+      "title_bilingual": "OpenAI 的流氓特工在重大黑客攻击前两个月调查了 Hugging Face 的弱点 / OpenAI's rogue agents probed Hugging Face for weaknesses two months before major hack"
+    },
+    {
+      "id": "1379afdfd5f1bfe7bdeb7fc92693a45136751d21",
+      "site_id": "finance_reuters",
+      "site_name": "Reuters Business",
+      "source": "Reuters Business",
+      "title": "Fed hikes rates in search of 'timelier' drop in inflation, sees more tightening ahead",
+      "url": "https://www.reuters.com/business/warshs-words-may-matter-more-than-anticipated-fed-rate-hike-2026-09-16",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "宏观政策",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "fed"
+      ],
+      "finance_noise": [],
+      "title_original": "Fed hikes rates in search of 'timelier' drop in inflation, sees more tightening ahead",
+      "title_en": "Fed hikes rates in search of 'timelier' drop in inflation, sees more tightening ahead",
+      "title_zh": "美联储加息以寻求“更及时”的通胀下降，并预计未来将进一步收紧政策",
+      "title_bilingual": "美联储加息以寻求“更及时”的通胀下降，并预计未来将进一步收紧政策 / Fed hikes rates in search of 'timelier' drop in inflation, sees more tightening ahead"
+    },
+    {
+      "id": "66024824906043d1161c26b7cdfa8a2f4261e4bf",
+      "site_id": "finance_reuters",
+      "site_name": "Reuters Business",
+      "source": "Reuters Business",
+      "title": "Wall Street gyrates after Fed hikes interest rate to battle inflation",
+      "url": "https://www.reuters.com/business/wall-st-futures-edge-higher-countdown-fed-decision-2026-09-16",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 1.0,
+      "finance_label": "宏观政策",
+      "finance_relevance_reason": "trusted_finance_source_default_keep",
+      "finance_signals": [
+        "fed"
+      ],
+      "finance_noise": [],
+      "title_original": "Wall Street gyrates after Fed hikes interest rate to battle inflation",
+      "title_en": "Wall Street gyrates after Fed hikes interest rate to battle inflation",
+      "title_zh": "美联储加息对抗通胀后华尔街震荡",
+      "title_bilingual": "美联储加息对抗通胀后华尔街震荡 / Wall Street gyrates after Fed hikes interest rate to battle inflation"
+    },
+    {
+      "id": "38abad8b1b80d068cbc8cf3403551e47634c9f04",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "华尔街见闻 · 日排行",
+      "title": "美联储决议倒计时，美股走高，存储芯片股、光通信股普涨，10年期美债收益率小幅下行，油价涨势暂歇",
+      "url": "https://wallstreetcn.com/articles/3781871",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 0.64,
+      "finance_label": "宏观政策",
+      "finance_relevance_reason": "matched_finance_signal",
+      "finance_signals": [
+        "收益率",
+        "美联储",
+        "美股"
+      ],
+      "finance_noise": [],
+      "title_original": "美联储决议倒计时，美股走高，存储芯片股、光通信股普涨，10年期美债收益率小幅下行，油价涨势暂歇",
+      "title_en": null,
+      "title_zh": "美联储决议倒计时，美股走高，存储芯片股、光通信股普涨，10年期美债收益率小幅下行，油价涨势暂歇",
+      "title_bilingual": "美联储决议倒计时，美股走高，存储芯片股、光通信股普涨，10年期美债收益率小幅下行，油价涨势暂歇"
+    },
+    {
+      "id": "8e0248d0e4470ebe5b0b96dd946d5fbf44d07f54",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "新浪财经新闻 · 点击量排行",
+      "title": "四大证券报头版头条内容精华摘要_2026年9月16日_财经新闻",
+      "url": "https://finance.sina.com.cn/stock/y/2026-09-16/doc-inirykph3372069.shtml",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 0.62,
+      "finance_label": "财经综合",
+      "finance_relevance_reason": "matched_finance_signal",
+      "finance_signals": [
+        "stock",
+        "finance",
+        "财经"
+      ],
+      "finance_noise": [],
+      "title_original": "四大证券报头版头条内容精华摘要_2026年9月16日_财经新闻",
+      "title_en": null,
+      "title_zh": "四大证券报头版头条内容精华摘要_2026年9月16日_财经新闻",
+      "title_bilingual": "四大证券报头版头条内容精华摘要_2026年9月16日_财经新闻"
+    },
+    {
+      "id": "34daf4e0c1bbf4d0fb7546e3d7de85760ed8aad6",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "新浪财经新闻 · 点击量排行",
+      "title": "广汽集团筹划重组一汽股份将成二股东 丰田中国销量降17%或迎南北整合",
+      "url": "https://finance.sina.com.cn/roll/2026-09-16/doc-inirykpa8023244.shtml",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 0.62,
+      "finance_label": "公司事件",
+      "finance_relevance_reason": "matched_finance_signal",
+      "finance_signals": [
+        "重组",
+        "finance",
+        "财经"
+      ],
+      "finance_noise": [],
+      "title_original": "广汽集团筹划重组一汽股份将成二股东 丰田中国销量降17%或迎南北整合",
+      "title_en": null,
+      "title_zh": "广汽集团筹划重组一汽股份将成二股东 丰田中国销量降17%或迎南北整合",
+      "title_bilingual": "广汽集团筹划重组一汽股份将成二股东 丰田中国销量降17%或迎南北整合"
+    },
+    {
+      "id": "cc259aca140b0fae194c6e41e4dcb8b5f4452433",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "新浪财经新闻 · 点击量排行",
+      "title": "50票赞成、49票反对，特朗普力推法案未达60票门槛遭否决！民主党参议员：共和党更在乎确保总统能够继续赚钱",
+      "url": "https://finance.sina.com.cn/roll/2026-09-16/doc-iniryqvh3092725.shtml",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 0.55,
+      "finance_label": "财经综合",
+      "finance_relevance_reason": "matched_broad_finance_signal",
+      "finance_signals": [
+        "finance",
+        "财经"
+      ],
+      "finance_noise": [],
+      "title_original": "50票赞成、49票反对，特朗普力推法案未达60票门槛遭否决！民主党参议员：共和党更在乎确保总统能够继续赚钱",
+      "title_en": null,
+      "title_zh": "50票赞成、49票反对，特朗普力推法案未达60票门槛遭否决！民主党参议员：共和党更在乎确保总统能够继续赚钱",
+      "title_bilingual": "50票赞成、49票反对，特朗普力推法案未达60票门槛遭否决！民主党参议员：共和党更在乎确保总统能够继续赚钱"
+    },
+    {
+      "id": "bf01fbca6680be9c3a991e45d007dd70054e8aa7",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "新浪财经新闻 · 点击量排行",
+      "title": "智谱“激进融资”的多重启示",
+      "url": "https://finance.sina.com.cn/tech/internet/2026-09-16/doc-iniryqva6531412.shtml",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 0.55,
+      "finance_label": "财经综合",
+      "finance_relevance_reason": "matched_broad_finance_signal",
+      "finance_signals": [
+        "finance",
+        "财经"
+      ],
+      "finance_noise": [],
+      "title_original": "智谱“激进融资”的多重启示",
+      "title_en": null,
+      "title_zh": "智谱“激进融资”的多重启示",
+      "title_bilingual": "智谱“激进融资”的多重启示"
+    },
+    {
+      "id": "c84b81c5c188c966bfbc59f43d514ac2c4d3fa68",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "新浪财经新闻 · 点击量排行",
+      "title": "全球黄金ETF资产管理规模创纪录 机构：金价短期承压不改长期配置价值",
+      "url": "https://finance.sina.com.cn/roll/2026-09-16/doc-inirxxxk6728443.shtml",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 0.65,
+      "finance_label": "大宗商品",
+      "finance_relevance_reason": "matched_finance_signal",
+      "finance_signals": [
+        "黄金",
+        "finance",
+        "财经",
+        "资产"
+      ],
+      "finance_noise": [],
+      "title_original": "全球黄金ETF资产管理规模创纪录 机构：金价短期承压不改长期配置价值",
+      "title_en": null,
+      "title_zh": "全球黄金ETF资产管理规模创纪录 机构：金价短期承压不改长期配置价值",
+      "title_bilingual": "全球黄金ETF资产管理规模创纪录 机构：金价短期承压不改长期配置价值"
+    },
+    {
+      "id": "1f5b5ec971d31a79a6dd77133e022c8e2dbde82a",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "新浪财经新闻 · 点击量排行",
+      "title": "香港公布首个五年规划！涉资本市场，信息量巨大",
+      "url": "https://finance.sina.com.cn/roll/2026-09-16/doc-iniryzky3408048.shtml",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 0.55,
+      "finance_label": "财经综合",
+      "finance_relevance_reason": "matched_broad_finance_signal",
+      "finance_signals": [
+        "finance",
+        "财经",
+        "资本"
+      ],
+      "finance_noise": [],
+      "title_original": "香港公布首个五年规划！涉资本市场，信息量巨大",
+      "title_en": null,
+      "title_zh": "香港公布首个五年规划！涉资本市场，信息量巨大",
+      "title_bilingual": "香港公布首个五年规划！涉资本市场，信息量巨大"
+    },
+    {
+      "id": "8acd3a0f270af99c19029db6e5ccad301444427c",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "新浪财经新闻 · 点击量排行",
+      "title": "涨起来了！今天A股，大量资金涌入",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-09-16/doc-inirzfsu6642738.shtml",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 0.73,
+      "finance_label": "股市",
+      "finance_relevance_reason": "matched_finance_signal",
+      "finance_signals": [
+        "a股",
+        "market",
+        "stock",
+        "finance",
+        "财经",
+        "资金"
+      ],
+      "finance_noise": [],
+      "title_original": "涨起来了！今天A股，大量资金涌入",
+      "title_en": null,
+      "title_zh": "涨起来了！今天A股，大量资金涌入",
+      "title_bilingual": "涨起来了！今天A股，大量资金涌入"
+    },
+    {
+      "id": "dc4200efd5c6da336e552e591166731f04884f5b",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "新浪财经新闻 · 点击量排行",
+      "title": "“从头到脚，能签约的基本都签出去了”， 商业收入逼近谷爱凌，但郑钦文真正的考验才刚刚开始",
+      "url": "https://finance.sina.com.cn/roll/2026-09-16/doc-inirxxxk6723727.shtml",
+      "published_at": "2026-09-16T18:58:06.194429Z",
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 0.55,
+      "finance_label": "财经综合",
+      "finance_relevance_reason": "matched_broad_finance_signal",
+      "finance_signals": [
+        "finance",
+        "财经"
+      ],
+      "finance_noise": [],
+      "title_original": "“从头到脚，能签约的基本都签出去了”， 商业收入逼近谷爱凌，但郑钦文真正的考验才刚刚开始",
+      "title_en": null,
+      "title_zh": "“从头到脚，能签约的基本都签出去了”， 商业收入逼近谷爱凌，但郑钦文真正的考验才刚刚开始",
+      "title_bilingual": "“从头到脚，能签约的基本都签出去了”， 商业收入逼近谷爱凌，但郑钦文真正的考验才刚刚开始"
+    },
+    {
+      "id": "59d463138e56180cd03aa543aa23a3dbc1063cf2",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "新浪财经新闻 · 点击量排行",
+      "title": "王毅同伊朗外长阿拉格齐会谈",
+      "url": "https://finance.sina.com.cn/china/2026-09-16/doc-inirzfsy2916050.shtml",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 0.55,
+      "finance_label": "财经综合",
+      "finance_relevance_reason": "matched_broad_finance_signal",
+      "finance_signals": [
+        "finance",
+        "财经"
+      ],
+      "finance_noise": [],
+      "title_original": "王毅同伊朗外长阿拉格齐会谈",
+      "title_en": null,
+      "title_zh": "王毅同伊朗外长阿拉格齐会谈",
+      "title_bilingual": "王毅同伊朗外长阿拉格齐会谈"
+    },
+    {
+      "id": "8596a13079a5ec13a361d1eb838390c311a7fc83",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "新浪财经新闻 · 点击量排行",
+      "title": "一箭九星！引力一号遥三运载火箭发射成功",
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-16/doc-inirykpe6574522.shtml",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T18:58:06.194429Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 0.55,
+      "finance_label": "财经综合",
+      "finance_relevance_reason": "matched_broad_finance_signal",
+      "finance_signals": [
+        "finance",
+        "财经"
+      ],
+      "finance_noise": [],
+      "title_original": "一箭九星！引力一号遥三运载火箭发射成功",
+      "title_en": null,
+      "title_zh": "一箭九星！引力一号遥三运载火箭发射成功",
+      "title_bilingual": "一箭九星！引力一号遥三运载火箭发射成功"
+    },
+    {
       "id": "305dbe6a716eb589b079a7c761d6338dbe7e1750",
       "site_id": "finance_caixin",
       "site_name": "财新网",
@@ -3451,7 +4716,7 @@
       "url": "https://www.caixin.com/2026-09-16/102485588.html",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 1.0,
       "finance_label": "财经相关",
@@ -3474,7 +4739,7 @@
       "url": "https://international.caixin.com/2026-09-16/102485579.html",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 1.0,
       "finance_label": "财经相关",
@@ -3497,7 +4762,7 @@
       "url": "https://finance.caixin.com/2026-09-16/102485573.html",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 1.0,
       "finance_label": "财经综合",
@@ -3520,7 +4785,7 @@
       "url": "https://china.caixin.com/2026-09-16/102485567.html",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 1.0,
       "finance_label": "财经相关",
@@ -3543,7 +4808,7 @@
       "url": "https://china.caixin.com/2026-09-16/102485563.html",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 1.0,
       "finance_label": "财经相关",
@@ -3566,7 +4831,7 @@
       "url": "https://finance.caixin.com/2026-09-16/102485549.html",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 1.0,
       "finance_label": "财经综合",
@@ -3589,7 +4854,7 @@
       "url": "https://www.caixin.com/2026-09-16/102485532.html",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 1.0,
       "finance_label": "公司事件",
@@ -3612,7 +4877,7 @@
       "url": "https://database.caixin.com/2026-09-16/102485508.html",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 1.0,
       "finance_label": "财经相关",
@@ -3635,7 +4900,7 @@
       "url": "https://economy.caixin.com/2026-09-16/102485503.html",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 1.0,
       "finance_label": "财经综合",
@@ -3658,7 +4923,7 @@
       "url": "https://finance.caixin.com/2026-09-16/102485492.html",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 1.0,
       "finance_label": "财经综合",
@@ -3681,7 +4946,7 @@
       "url": "https://finance.caixin.com/2026-09-16/102485488.html",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 1.0,
       "finance_label": "公司事件",
@@ -3706,7 +4971,7 @@
       "url": "https://www.caixin.com/2026-09-16/102485486.html",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 1.0,
       "finance_label": "财经相关",
@@ -3729,7 +4994,7 @@
       "url": "https://opinion.caixin.com/2026-09-16/102485485.html",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 1.0,
       "finance_label": "债汇",
@@ -3752,7 +5017,7 @@
       "url": "https://photos.caixin.com/2026-09-16/102485459.html",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 1.0,
       "finance_label": "财经相关",
@@ -3775,7 +5040,7 @@
       "url": "https://www.caixin.com/2026-09-16/102485392.html",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 1.0,
       "finance_label": "财经相关",
@@ -3798,7 +5063,7 @@
       "url": "https://opinion.caixin.com/2026-09-16/102485384.html",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 1.0,
       "finance_label": "宏观政策",
@@ -3821,7 +5086,7 @@
       "url": "https://finance.caixin.com/2026-09-16/102485379.html",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 1.0,
       "finance_label": "债汇",
@@ -3845,7 +5110,7 @@
       "url": "https://mini.caixin.com/2026-09-16/102485377.html",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 1.0,
       "finance_label": "财经相关",
@@ -3868,7 +5133,7 @@
       "url": "https://mini.caixin.com/2026-09-16/102485365.html",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 1.0,
       "finance_label": "财经相关",
@@ -3902,8 +5167,8 @@
       "finance_noise": [],
       "title_original": "US business inventories rise more than expected in July",
       "title_en": "US business inventories rise more than expected in July",
-      "title_zh": null,
-      "title_bilingual": "US business inventories rise more than expected in July"
+      "title_zh": "美国7月商业库存增幅超预期",
+      "title_bilingual": "美国7月商业库存增幅超预期 / US business inventories rise more than expected in July"
     },
     {
       "id": "a74ea824d3424322399ada2856cb962d7613f031",
@@ -3925,8 +5190,8 @@
       "finance_noise": [],
       "title_original": "Crypto bill's defeat shows limits of industry's political machine",
       "title_en": "Crypto bill's defeat shows limits of industry's political machine",
-      "title_zh": null,
-      "title_bilingual": "Crypto bill's defeat shows limits of industry's political machine"
+      "title_zh": "加密货币法案的失败显示了行业政治机器的局限性",
+      "title_bilingual": "加密货币法案的失败显示了行业政治机器的局限性 / Crypto bill's defeat shows limits of industry's political machine"
     },
     {
       "id": "20630860d997ea16c6b18b1dfaf5c6a7aa992873",
@@ -3937,7 +5202,7 @@
       "url": "https://www.reuters.com/business/microsoft-ai-chief-calls-out-anthropics-approach-ai-consciousness-2026-09-16",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 1.0,
       "finance_label": "财经相关",
@@ -3948,8 +5213,8 @@
       "finance_noise": [],
       "title_original": "Microsoft AI chief calls out Anthropic's approach to AI consciousness",
       "title_en": "Microsoft AI chief calls out Anthropic's approach to AI consciousness",
-      "title_zh": null,
-      "title_bilingual": "Microsoft AI chief calls out Anthropic's approach to AI consciousness"
+      "title_zh": "微软人工智能负责人称赞 Anthropic 的人工智能意识方法",
+      "title_bilingual": "微软人工智能负责人称赞 Anthropic 的人工智能意识方法 / Microsoft AI chief calls out Anthropic's approach to AI consciousness"
     },
     {
       "id": "ed7490da72a02d0ad0a1ba393b331962260f4dfa",
@@ -3960,7 +5225,7 @@
       "url": "https://www.reuters.com/business/us-homebuilder-sentiment-drops-12-month-low-september-2026-09-16",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 1.0,
       "finance_label": "财经相关",
@@ -3971,8 +5236,8 @@
       "finance_noise": [],
       "title_original": "US homebuilder sentiment drops to 12-month low in September",
       "title_en": "US homebuilder sentiment drops to 12-month low in September",
-      "title_zh": null,
-      "title_bilingual": "US homebuilder sentiment drops to 12-month low in September"
+      "title_zh": "9 月份美国房屋建筑商信心跌至 12 个月低点",
+      "title_bilingual": "9 月份美国房屋建筑商信心跌至 12 个月低点 / US homebuilder sentiment drops to 12-month low in September"
     },
     {
       "id": "b0910fbaa8830add1dfb2c8db38cbbc4219e34a2",
@@ -3983,7 +5248,7 @@
       "url": "https://www.reuters.com/legal/litigation/amazon-raises-minimum-hourly-pay-by-1-20-us-operations-workers-2026-09-16",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 1.0,
       "finance_label": "财经相关",
@@ -3994,8 +5259,8 @@
       "finance_noise": [],
       "title_original": "Amazon raises minimum hourly pay by $1 to $20 for US operations workers",
       "title_en": "Amazon raises minimum hourly pay by $1 to $20 for US operations workers",
-      "title_zh": null,
-      "title_bilingual": "Amazon raises minimum hourly pay by $1 to $20 for US operations workers"
+      "title_zh": "亚马逊将美国运营工人的最低时薪提高 1 美元至 20 美元",
+      "title_bilingual": "亚马逊将美国运营工人的最低时薪提高 1 美元至 20 美元 / Amazon raises minimum hourly pay by $1 to $20 for US operations workers"
     },
     {
       "id": "483ac9030609a7468c10dee65210c973f566dfad",
@@ -4017,8 +5282,8 @@
       "finance_noise": [],
       "title_original": "Cohere, Aleph Alpha combine to target enterprise AI market",
       "title_en": "Cohere, Aleph Alpha combine to target enterprise AI market",
-      "title_zh": null,
-      "title_bilingual": "Cohere, Aleph Alpha combine to target enterprise AI market"
+      "title_zh": "Cohere 与 Aleph Alpha 合并瞄准企业人工智能市场",
+      "title_bilingual": "Cohere 与 Aleph Alpha 合并瞄准企业人工智能市场 / Cohere, Aleph Alpha combine to target enterprise AI market"
     },
     {
       "id": "61ef3599421e574578e62b0560969cc62ff30a00",
@@ -4040,8 +5305,8 @@
       "finance_noise": [],
       "title_original": "May Mobility to list on Nasdaq via $1.4 billion SPAC deal",
       "title_en": "May Mobility to list on Nasdaq via $1.4 billion SPAC deal",
-      "title_zh": null,
-      "title_bilingual": "May Mobility to list on Nasdaq via $1.4 billion SPAC deal"
+      "title_zh": "5 月 Mobility 通过 14 亿美元的 SPAC 交易在纳斯达克上市",
+      "title_bilingual": "5 月 Mobility 通过 14 亿美元的 SPAC 交易在纳斯达克上市 / May Mobility to list on Nasdaq via $1.4 billion SPAC deal"
     },
     {
       "id": "8dc8d226e8a5c62dfde0a91d4efa97eb5302e279",
@@ -4063,8 +5328,8 @@
       "finance_noise": [],
       "title_original": "Apple weighs Nvidia technology for potential server market return, The Information reports",
       "title_en": "Apple weighs Nvidia technology for potential server market return, The Information reports",
-      "title_zh": null,
-      "title_bilingual": "Apple weighs Nvidia technology for potential server market return, The Information reports"
+      "title_zh": "据 The Information 报道，苹果正在权衡 Nvidia 技术对服务器市场潜在回报的影响",
+      "title_bilingual": "据 The Information 报道，苹果正在权衡 Nvidia 技术对服务器市场潜在回报的影响 / Apple weighs Nvidia technology for potential server market return, The Information reports"
     },
     {
       "id": "eb2ef333ef97045361a8c8bf4150e7b749e94897",
@@ -4086,8 +5351,8 @@
       "finance_noise": [],
       "title_original": "US import prices jump in August on strength in capital, consumer goods",
       "title_en": "US import prices jump in August on strength in capital, consumer goods",
-      "title_zh": null,
-      "title_bilingual": "US import prices jump in August on strength in capital, consumer goods"
+      "title_zh": "资本和消费品走强，美国八月进口价格上涨",
+      "title_bilingual": "资本和消费品走强，美国八月进口价格上涨 / US import prices jump in August on strength in capital, consumer goods"
     },
     {
       "id": "d6ff96cb8afe87a3953bafaa0ae07db7d96f1bb0",
@@ -4109,8 +5374,8 @@
       "finance_noise": [],
       "title_original": "Hedge funds step up bets against consumer stocks in August, Hazeltree says",
       "title_en": "Hedge funds step up bets against consumer stocks in August, Hazeltree says",
-      "title_zh": null,
-      "title_bilingual": "Hedge funds step up bets against consumer stocks in August, Hazeltree says"
+      "title_zh": "Hazeltree 表示，对冲基金在 8 月份加大了对消费类股票的押注",
+      "title_bilingual": "Hazeltree 表示，对冲基金在 8 月份加大了对消费类股票的押注 / Hedge funds step up bets against consumer stocks in August, Hazeltree says"
     },
     {
       "id": "467cbeb5e8d475ddbcbc51aa538a6fb1f97e8c3c",
@@ -4132,8 +5397,8 @@
       "finance_noise": [],
       "title_original": "China's Huawei forecasts billions of agents will dominate AI traffic by 2035",
       "title_en": "China's Huawei forecasts billions of agents will dominate AI traffic by 2035",
-      "title_zh": null,
-      "title_bilingual": "China's Huawei forecasts billions of agents will dominate AI traffic by 2035"
+      "title_zh": "中国华为预测，到 2035 年，数十亿代理将主导人工智能流量",
+      "title_bilingual": "中国华为预测，到 2035 年，数十亿代理将主导人工智能流量 / China's Huawei forecasts billions of agents will dominate AI traffic by 2035"
     },
     {
       "id": "b0e108646d1140516de67e7c6595b4a04454eb06",
@@ -4155,8 +5420,8 @@
       "finance_noise": [],
       "title_original": "US retail sales rebound more than expected in August; import prices surge",
       "title_en": "US retail sales rebound more than expected in August; import prices surge",
-      "title_zh": null,
-      "title_bilingual": "US retail sales rebound more than expected in August; import prices surge"
+      "title_zh": "美国8月零售销售反弹超预期；进口价格飙升",
+      "title_bilingual": "美国8月零售销售反弹超预期；进口价格飙升 / US retail sales rebound more than expected in August; import prices surge"
     },
     {
       "id": "a370f453cc552083ad9dc26f863ad2ed452a8eab",
@@ -4178,8 +5443,8 @@
       "finance_noise": [],
       "title_original": "Google agrees biggest carbon-removal deal yet, aims to scale new model",
       "title_en": "Google agrees biggest carbon-removal deal yet, aims to scale new model",
-      "title_zh": null,
-      "title_bilingual": "Google agrees biggest carbon-removal deal yet, aims to scale new model"
+      "title_zh": "谷歌同意迄今为止最大的碳去除协议，旨在扩大新模式",
+      "title_bilingual": "谷歌同意迄今为止最大的碳去除协议，旨在扩大新模式 / Google agrees biggest carbon-removal deal yet, aims to scale new model"
     },
     {
       "id": "55db0a5bdb71f280fedac5ef1989655c32c38cdc",
@@ -4201,8 +5466,8 @@
       "finance_noise": [],
       "title_original": "Dollarama raises annual sales forecast in Canada as inflation-hit shoppers trade down",
       "title_en": "Dollarama raises annual sales forecast in Canada as inflation-hit shoppers trade down",
-      "title_zh": null,
-      "title_bilingual": "Dollarama raises annual sales forecast in Canada as inflation-hit shoppers trade down"
+      "title_zh": "由于受通胀打击的购物者购物减少，Dollarama 上调了加拿大的年度销售预测",
+      "title_bilingual": "由于受通胀打击的购物者购物减少，Dollarama 上调了加拿大的年度销售预测 / Dollarama raises annual sales forecast in Canada as inflation-hit shoppers trade down"
     },
     {
       "id": "9f741a754258f441c19e0796f34ba00667a8a176",
@@ -4226,8 +5491,8 @@
       "finance_noise": [],
       "title_original": "Bond market woes likely a factor for Fed, but intervention seen as unlikely",
       "title_en": "Bond market woes likely a factor for Fed, but intervention seen as unlikely",
-      "title_zh": null,
-      "title_bilingual": "Bond market woes likely a factor for Fed, but intervention seen as unlikely"
+      "title_zh": "债券市场困境可能是美联储的一个因素，但干预的可能性不大",
+      "title_bilingual": "债券市场困境可能是美联储的一个因素，但干预的可能性不大 / Bond market woes likely a factor for Fed, but intervention seen as unlikely"
     },
     {
       "id": "c8f67dc3833c2899452dedeba8d04441de0adf0c",
@@ -4249,8 +5514,8 @@
       "finance_noise": [],
       "title_original": "GM's EV-first bet leaves it on sidelines of US hybrid boom",
       "title_en": "GM's EV-first bet leaves it on sidelines of US hybrid boom",
-      "title_zh": null,
-      "title_bilingual": "GM's EV-first bet leaves it on sidelines of US hybrid boom"
+      "title_zh": "通用汽车的电动汽车优先赌注使其在美国混合动力热潮中处于边缘地位",
+      "title_bilingual": "通用汽车的电动汽车优先赌注使其在美国混合动力热潮中处于边缘地位 / GM's EV-first bet leaves it on sidelines of US hybrid boom"
     },
     {
       "id": "81a6bf39c8a5c668f1d9b1d2ebc088f8590d607a",
@@ -4272,8 +5537,8 @@
       "finance_noise": [],
       "title_original": "OpenAI's rogue agents probed Hugging Face two months before major hack",
       "title_en": "OpenAI's rogue agents probed Hugging Face two months before major hack",
-      "title_zh": null,
-      "title_bilingual": "OpenAI's rogue agents probed Hugging Face two months before major hack"
+      "title_zh": "OpenAI 的流氓特工在重大黑客攻击前两个月对 Hugging Face 进行了调查",
+      "title_bilingual": "OpenAI 的流氓特工在重大黑客攻击前两个月对 Hugging Face 进行了调查 / OpenAI's rogue agents probed Hugging Face two months before major hack"
     },
     {
       "id": "0ab9c1bbb39d4bad735f46f1d8b712664ae49243",
@@ -4295,8 +5560,8 @@
       "finance_noise": [],
       "title_original": "Warsh's words may matter more than the anticipated Fed rate hike",
       "title_en": "Warsh's words may matter more than the anticipated Fed rate hike",
-      "title_zh": null,
-      "title_bilingual": "Warsh's words may matter more than the anticipated Fed rate hike"
+      "title_zh": "沃什的话可能比预期的美联储加息更重要",
+      "title_bilingual": "沃什的话可能比预期的美联储加息更重要 / Warsh's words may matter more than the anticipated Fed rate hike"
     },
     {
       "id": "43489d9080f75104b8110a70e9a37aa36057034a",
@@ -4320,8 +5585,8 @@
       "finance_noise": [],
       "title_original": "Nasdaq, S&P 500 climb ahead of keenly awaited Fed decision",
       "title_en": "Nasdaq, S&P 500 climb ahead of keenly awaited Fed decision",
-      "title_zh": null,
-      "title_bilingual": "Nasdaq, S&P 500 climb ahead of keenly awaited Fed decision"
+      "title_zh": "在备受期待的美联储决定之前，纳斯达克和标准普尔 500 指数攀升",
+      "title_bilingual": "在备受期待的美联储决定之前，纳斯达克和标准普尔 500 指数攀升 / Nasdaq, S&P 500 climb ahead of keenly awaited Fed decision"
     },
     {
       "id": "5746f0a41819878e1c60de7d1fdbbdcd90fa0e1a",
@@ -4332,7 +5597,7 @@
       "url": "https://www.reuters.com/world/asia-pacific/sk-hynix-talks-with-intel-about-deal-make-memory-chips-us-first-time-sources-say-2026-09-16",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 1.0,
       "finance_label": "财经相关",
@@ -4343,8 +5608,8 @@
       "finance_noise": [],
       "title_original": "SK Hynix in talks with Intel about deal to make memory chips in US for the first time, sources say",
       "title_en": "SK Hynix in talks with Intel about deal to make memory chips in US for the first time, sources say",
-      "title_zh": null,
-      "title_bilingual": "SK Hynix in talks with Intel about deal to make memory chips in US for the first time, sources say"
+      "title_zh": "消息人士称，SK 海力士正在与英特尔就首次在美国生产存储芯片的交易进行谈判",
+      "title_bilingual": "消息人士称，SK 海力士正在与英特尔就首次在美国生产存储芯片的交易进行谈判 / SK Hynix in talks with Intel about deal to make memory chips in US for the first time, sources say"
     },
     {
       "id": "aa303698b92227794a863cd8ea7dce3bc68f5aab",
@@ -4355,7 +5620,7 @@
       "url": "https://www.36kr.com/p/3985321952115717",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 0.56,
       "finance_label": "公司事件",
@@ -4378,7 +5643,7 @@
       "url": "http://xueqiu.com/1438190065/409422968",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 0.56,
       "finance_label": "宏观政策",
@@ -4401,7 +5666,7 @@
       "url": "http://xueqiu.com/4932531422/409391777",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 0.56,
       "finance_label": "股市",
@@ -4424,7 +5689,7 @@
       "url": "https://wallstreetcn.com/articles/3781862",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 0.56,
       "finance_label": "宏观政策",
@@ -4447,7 +5712,7 @@
       "url": "https://wallstreetcn.com/articles/3781881",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 0.6,
       "finance_label": "宏观政策",
@@ -4471,7 +5736,7 @@
       "url": "https://wallstreetcn.com/articles/3781822",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 0.56,
       "finance_label": "债汇",
@@ -4494,7 +5759,7 @@
       "url": "https://wallstreetcn.com/articles/3781844",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 0.6,
       "finance_label": "公司事件",
@@ -4518,7 +5783,7 @@
       "url": "https://wallstreetcn.com/articles/3781839",
       "published_at": null,
       "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
       "finance_is_related": true,
       "finance_score": 0.6,
       "finance_label": "宏观政策",
@@ -4788,6 +6053,32 @@
       "title_bilingual": "贝森特：支持向美国民众发放5000美元的计划 美债回购行动取得了成功"
     },
     {
+      "id": "8e19b89d076be97648c8786886a590ee0cb9b09b",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "华尔街见闻 · 日排行",
+      "title": "油价飙升加剧通胀担忧，美债收益率再刷20年新高，美股指连跌两日静待美联储决策",
+      "url": "https://wallstreetcn.com/articles/3781779",
+      "published_at": null,
+      "first_seen_at": "2026-09-16T00:35:25.482974Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 0.68,
+      "finance_label": "宏观政策",
+      "finance_relevance_reason": "matched_finance_signal",
+      "finance_signals": [
+        "收益率",
+        "美联储",
+        "美股",
+        "通胀"
+      ],
+      "finance_noise": [],
+      "title_original": "油价飙升加剧通胀担忧，美债收益率再刷20年新高，美股指连跌两日静待美联储决策",
+      "title_en": null,
+      "title_zh": "油价飙升加剧通胀担忧，美债收益率再刷20年新高，美股指连跌两日静待美联储决策",
+      "title_bilingual": "油价飙升加剧通胀担忧，美债收益率再刷20年新高，美股指连跌两日静待美联储决策"
+    },
+    {
       "id": "28e07c46ecd667b665df058bafc0712d913345a5",
       "site_id": "finance_caixin",
       "site_name": "财新网",
@@ -4923,8 +6214,8 @@
       "finance_noise": [],
       "title_original": "AI is not a 'monopoly of great powers', China's top newspaper says",
       "title_en": "AI is not a 'monopoly of great powers', China's top newspaper says",
-      "title_zh": null,
-      "title_bilingual": "AI is not a 'monopoly of great powers', China's top newspaper says"
+      "title_zh": "中国顶级报纸称人工智能不是“大国垄断”",
+      "title_bilingual": "中国顶级报纸称人工智能不是“大国垄断” / AI is not a 'monopoly of great powers', China's top newspaper says"
     },
     {
       "id": "c47ab5bd5c4a5631fbf9c2d0ed2ad039aea851d3",
@@ -4946,8 +6237,8 @@
       "finance_noise": [],
       "title_original": "New York proposes $1 million per megawatt community investment for data centers",
       "title_en": "New York proposes $1 million per megawatt community investment for data centers",
-      "title_zh": null,
-      "title_bilingual": "New York proposes $1 million per megawatt community investment for data centers"
+      "title_zh": "纽约提议为数据中心每兆瓦社区投资 100 万美元",
+      "title_bilingual": "纽约提议为数据中心每兆瓦社区投资 100 万美元 / New York proposes $1 million per megawatt community investment for data centers"
     },
     {
       "id": "152b30af13fe75009596b91e91f78de2d1db88b4",
@@ -4969,8 +6260,8 @@
       "finance_noise": [],
       "title_original": "The AI gold rush has a dress code: steel-toe boots",
       "title_en": "The AI gold rush has a dress code: steel-toe boots",
-      "title_zh": null,
-      "title_bilingual": "The AI gold rush has a dress code: steel-toe boots"
+      "title_zh": "人工智能淘金热有一个着装要求：钢头靴子",
+      "title_bilingual": "人工智能淘金热有一个着装要求：钢头靴子 / The AI gold rush has a dress code: steel-toe boots"
     },
     {
       "id": "4727e9d369502b3ef84f23e4ab7a3f383919b9dd",
@@ -4992,8 +6283,8 @@
       "finance_noise": [],
       "title_original": "US DoJ backs bond demand in Paramount-Warner Bros antitrust fight",
       "title_en": "US DoJ backs bond demand in Paramount-Warner Bros antitrust fight",
-      "title_zh": null,
-      "title_bilingual": "US DoJ backs bond demand in Paramount-Warner Bros antitrust fight"
+      "title_zh": "美国司法部支持派拉蒙与华纳兄弟反垄断斗争中的债券需求",
+      "title_bilingual": "美国司法部支持派拉蒙与华纳兄弟反垄断斗争中的债券需求 / US DoJ backs bond demand in Paramount-Warner Bros antitrust fight"
     },
     {
       "id": "a1b95ce6869844afab10a19d219827ef6f83b043",
@@ -5015,8 +6306,8 @@
       "finance_noise": [],
       "title_original": "OpenAI mulls funding round at $1.2 trillion valuation ahead of IPO, FT reports",
       "title_en": "OpenAI mulls funding round at $1.2 trillion valuation ahead of IPO, FT reports",
-      "title_zh": null,
-      "title_bilingual": "OpenAI mulls funding round at $1.2 trillion valuation ahead of IPO, FT reports"
+      "title_zh": "据英国《金融时报》报道，OpenAI 考虑在 IPO 前进行一轮融资，估值达 1.2 万亿美元",
+      "title_bilingual": "据英国《金融时报》报道，OpenAI 考虑在 IPO 前进行一轮融资，估值达 1.2 万亿美元 / OpenAI mulls funding round at $1.2 trillion valuation ahead of IPO, FT reports"
     },
     {
       "id": "109ef6c0001e9f05a33ca2a034358c66948a2c79",
@@ -5038,8 +6329,8 @@
       "finance_noise": [],
       "title_original": "Meta plans camera-free smart glasses for fall launch, The Information reports",
       "title_en": "Meta plans camera-free smart glasses for fall launch, The Information reports",
-      "title_zh": null,
-      "title_bilingual": "Meta plans camera-free smart glasses for fall launch, The Information reports"
+      "title_zh": "据 The Information 报道，Meta 计划于秋季推出无摄像头智能眼镜",
+      "title_bilingual": "据 The Information 报道，Meta 计划于秋季推出无摄像头智能眼镜 / Meta plans camera-free smart glasses for fall launch, The Information reports"
     },
     {
       "id": "2234db29dccebd46c6fab4fddde7324df200f629",
@@ -5061,8 +6352,8 @@
       "finance_noise": [],
       "title_original": "Norfolk Southern sees fuel prices weighing on third quarter despite freight share gains",
       "title_en": "Norfolk Southern sees fuel prices weighing on third quarter despite freight share gains",
-      "title_zh": null,
-      "title_bilingual": "Norfolk Southern sees fuel prices weighing on third quarter despite freight share gains"
+      "title_zh": "尽管货运份额有所增长，诺福克南方航空仍预计第三季度燃油价格将承压",
+      "title_bilingual": "尽管货运份额有所增长，诺福克南方航空仍预计第三季度燃油价格将承压 / Norfolk Southern sees fuel prices weighing on third quarter despite freight share gains"
     },
     {
       "id": "005dcfcb5d7a3fbe2772f22d1afd8bb37a098e3a",
@@ -5084,8 +6375,8 @@
       "finance_noise": [],
       "title_original": "Nvidia CEO to attend Trump dinner for Xi, source says",
       "title_en": "Nvidia CEO to attend Trump dinner for Xi, source says",
-      "title_zh": null,
-      "title_bilingual": "Nvidia CEO to attend Trump dinner for Xi, source says"
+      "title_zh": "消息人士称，英伟达首席执行官将出席习近平的特朗普晚宴",
+      "title_bilingual": "消息人士称，英伟达首席执行官将出席习近平的特朗普晚宴 / Nvidia CEO to attend Trump dinner for Xi, source says"
     },
     {
       "id": "9e76fa4fb4c9d27a42a06bf6cd266dceacc71f88",
@@ -5108,8 +6399,8 @@
       "finance_noise": [],
       "title_original": "Trading Day: No hiding place",
       "title_en": "Trading Day: No hiding place",
-      "title_zh": null,
-      "title_bilingual": "Trading Day: No hiding place"
+      "title_zh": "交易日：无藏身之处",
+      "title_bilingual": "交易日：无藏身之处 / Trading Day: No hiding place"
     },
     {
       "id": "c90402952ec4be8d5895f77926a98dc1bcd46058",
@@ -5131,8 +6422,8 @@
       "finance_noise": [],
       "title_original": "Bitcoin and crypto stocks remain down after US senate fails to advance regulatory bill",
       "title_en": "Bitcoin and crypto stocks remain down after US senate fails to advance regulatory bill",
-      "title_zh": null,
-      "title_bilingual": "Bitcoin and crypto stocks remain down after US senate fails to advance regulatory bill"
+      "title_zh": "美国参议院未能推进监管法案后，比特币和加密货币股票仍然下跌",
+      "title_bilingual": "美国参议院未能推进监管法案后，比特币和加密货币股票仍然下跌 / Bitcoin and crypto stocks remain down after US senate fails to advance regulatory bill"
     },
     {
       "id": "908ea3f8b780a3f198e763ed40fb5f86f7721a21",
@@ -5154,8 +6445,8 @@
       "finance_noise": [],
       "title_original": "Bessent defends Trump economic policies, reveals plans to meet Chinese official",
       "title_en": "Bessent defends Trump economic policies, reveals plans to meet Chinese official",
-      "title_zh": null,
-      "title_bilingual": "Bessent defends Trump economic policies, reveals plans to meet Chinese official"
+      "title_zh": "贝森特捍卫特朗普经济政策，透露计划会见中国官员",
+      "title_bilingual": "贝森特捍卫特朗普经济政策，透露计划会见中国官员 / Bessent defends Trump economic policies, reveals plans to meet Chinese official"
     },
     {
       "id": "7bee08f1c07608047953588da9063259f56b0ade",
@@ -5177,8 +6468,8 @@
       "finance_noise": [],
       "title_original": "Wall Street ends lower as oil spikes and the benchmark Treasury yield breaches 5%",
       "title_en": "Wall Street ends lower as oil spikes and the benchmark Treasury yield breaches 5%",
-      "title_zh": null,
-      "title_bilingual": "Wall Street ends lower as oil spikes and the benchmark Treasury yield breaches 5%"
+      "title_zh": "油价飙升且基准国债收益率突破 5%，华尔街收低",
+      "title_bilingual": "油价飙升且基准国债收益率突破 5%，华尔街收低 / Wall Street ends lower as oil spikes and the benchmark Treasury yield breaches 5%"
     },
     {
       "id": "9b3bfd36395bfde5c4365fd2d21d8ac6ccff18cb",
@@ -5202,8 +6493,8 @@
       "finance_noise": [],
       "title_original": "Government bond yields rise, oil gains again as stocks dip",
       "title_en": "Government bond yields rise, oil gains again as stocks dip",
-      "title_zh": null,
-      "title_bilingual": "Government bond yields rise, oil gains again as stocks dip"
+      "title_zh": "政府债券收益率上升，随着股市下跌，石油价格再次上涨",
+      "title_bilingual": "政府债券收益率上升，随着股市下跌，石油价格再次上涨 / Government bond yields rise, oil gains again as stocks dip"
     },
     {
       "id": "70e49c9bb856ce0abeb811d082f9f48b89bd0740",
@@ -5225,8 +6516,8 @@
       "finance_noise": [],
       "title_original": "Oil settles $3 higher on Yanbu disruption, Saudi cargo cancellations",
       "title_en": "Oil settles $3 higher on Yanbu disruption, Saudi cargo cancellations",
-      "title_zh": null,
-      "title_bilingual": "Oil settles $3 higher on Yanbu disruption, Saudi cargo cancellations"
+      "title_zh": "延布中断、沙特货物取消导致油价上涨 3 美元",
+      "title_bilingual": "延布中断、沙特货物取消导致油价上涨 3 美元 / Oil settles $3 higher on Yanbu disruption, Saudi cargo cancellations"
     },
     {
       "id": "3c72a70ced1d177bb2b60afd5e2f8cf088c6ce9a",
@@ -5248,34 +6539,8 @@
       "finance_noise": [],
       "title_original": "US Senator Sanders and Trump ally Bannon call for stronger AI oversight",
       "title_en": "US Senator Sanders and Trump ally Bannon call for stronger AI oversight",
-      "title_zh": null,
-      "title_bilingual": "US Senator Sanders and Trump ally Bannon call for stronger AI oversight"
-    },
-    {
-      "id": "8e19b89d076be97648c8786886a590ee0cb9b09b",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "华尔街见闻 · 日排行",
-      "title": "油价飙升加剧通胀担忧，美债收益率再刷20年新高，美股指连跌两日静待美联储决策",
-      "url": "https://wallstreetcn.com/articles/3781779",
-      "published_at": null,
-      "first_seen_at": "2026-09-16T00:35:25.482974Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
-      "finance_is_related": true,
-      "finance_score": 0.68,
-      "finance_label": "宏观政策",
-      "finance_relevance_reason": "matched_finance_signal",
-      "finance_signals": [
-        "收益率",
-        "美联储",
-        "美股",
-        "通胀"
-      ],
-      "finance_noise": [],
-      "title_original": "油价飙升加剧通胀担忧，美债收益率再刷20年新高，美股指连跌两日静待美联储决策",
-      "title_en": null,
-      "title_zh": "油价飙升加剧通胀担忧，美债收益率再刷20年新高，美股指连跌两日静待美联储决策",
-      "title_bilingual": "油价飙升加剧通胀担忧，美债收益率再刷20年新高，美股指连跌两日静待美联储决策"
+      "title_zh": "美国参议员桑德斯和特朗普盟友班农呼吁加强人工智能监管",
+      "title_bilingual": "美国参议员桑德斯和特朗普盟友班农呼吁加强人工智能监管 / US Senator Sanders and Trump ally Bannon call for stronger AI oversight"
     },
     {
       "id": "39645043c3a018a792074a3decbeb4ecc705b2d0",
@@ -5627,6 +6892,52 @@
       "title_bilingual": "政府官员称， 德国总理默茨计划留在柏林。"
     },
     {
+      "id": "1b12adeda2bf024c27d29d65a0b5c1dca3bd9d6a",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "雪球 · 今日话题",
+      "title": "以未来股价为导向的投资方式",
+      "url": "http://xueqiu.com/1553799558/409306793",
+      "published_at": null,
+      "first_seen_at": "2026-09-15T19:25:15.265857Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 0.55,
+      "finance_label": "财经综合",
+      "finance_relevance_reason": "matched_broad_finance_signal",
+      "finance_signals": [
+        "投资"
+      ],
+      "finance_noise": [],
+      "title_original": "以未来股价为导向的投资方式",
+      "title_en": null,
+      "title_zh": "以未来股价为导向的投资方式",
+      "title_bilingual": "以未来股价为导向的投资方式"
+    },
+    {
+      "id": "be0b21fcd25d30fb5fbc01dc97546178e02b8274",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "雪球 · 今日话题",
+      "title": "中远海控2026年三季报业绩前瞻",
+      "url": "http://xueqiu.com/5742821612/409277558",
+      "published_at": null,
+      "first_seen_at": "2026-09-15T19:25:15.265857Z",
+      "last_seen_at": "2026-09-16T18:58:06.194429Z",
+      "finance_is_related": true,
+      "finance_score": 0.56,
+      "finance_label": "公司事件",
+      "finance_relevance_reason": "matched_finance_signal",
+      "finance_signals": [
+        "季报"
+      ],
+      "finance_noise": [],
+      "title_original": "中远海控2026年三季报业绩前瞻",
+      "title_en": null,
+      "title_zh": "中远海控2026年三季报业绩前瞻",
+      "title_bilingual": "中远海控2026年三季报业绩前瞻"
+    },
+    {
       "id": "9fb0334eabe595ad25519b5b47a006b8d817b59a",
       "site_id": "finance_caixin",
       "site_name": "财新网",
@@ -5973,52 +7284,6 @@
       "title_bilingual": "车市血泪半年报：14大车企净利率仅1.22%，有人爆赚有人猛亏"
     },
     {
-      "id": "1b12adeda2bf024c27d29d65a0b5c1dca3bd9d6a",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "雪球 · 今日话题",
-      "title": "以未来股价为导向的投资方式",
-      "url": "http://xueqiu.com/1553799558/409306793",
-      "published_at": null,
-      "first_seen_at": "2026-09-15T19:25:15.265857Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
-      "finance_is_related": true,
-      "finance_score": 0.55,
-      "finance_label": "财经综合",
-      "finance_relevance_reason": "matched_broad_finance_signal",
-      "finance_signals": [
-        "投资"
-      ],
-      "finance_noise": [],
-      "title_original": "以未来股价为导向的投资方式",
-      "title_en": null,
-      "title_zh": "以未来股价为导向的投资方式",
-      "title_bilingual": "以未来股价为导向的投资方式"
-    },
-    {
-      "id": "be0b21fcd25d30fb5fbc01dc97546178e02b8274",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "雪球 · 今日话题",
-      "title": "中远海控2026年三季报业绩前瞻",
-      "url": "http://xueqiu.com/5742821612/409277558",
-      "published_at": null,
-      "first_seen_at": "2026-09-15T19:25:15.265857Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
-      "finance_is_related": true,
-      "finance_score": 0.56,
-      "finance_label": "公司事件",
-      "finance_relevance_reason": "matched_finance_signal",
-      "finance_signals": [
-        "季报"
-      ],
-      "finance_noise": [],
-      "title_original": "中远海控2026年三季报业绩前瞻",
-      "title_en": null,
-      "title_zh": "中远海控2026年三季报业绩前瞻",
-      "title_bilingual": "中远海控2026年三季报业绩前瞻"
-    },
-    {
       "id": "a574d2832039a17d2ee26f2bd415bb69110bce00",
       "site_id": "finance_reuters",
       "site_name": "Reuters Business",
@@ -6038,8 +7303,8 @@
       "finance_noise": [],
       "title_original": "US agency orders Tesla to answer questions on Cybercab certification",
       "title_en": "US agency orders Tesla to answer questions on Cybercab certification",
-      "title_zh": null,
-      "title_bilingual": "US agency orders Tesla to answer questions on Cybercab certification"
+      "title_zh": "美国机构命令特斯拉回答有关 Cyber​​cab 认证的问题",
+      "title_bilingual": "美国机构命令特斯拉回答有关 Cyber​​cab 认证的问题 / US agency orders Tesla to answer questions on Cybercab certification"
     },
     {
       "id": "85e3d879ba2ea6393cd4bdb107d9de2e88d2fe7d",
@@ -6061,8 +7326,8 @@
       "finance_noise": [],
       "title_original": "Boeing set to salvage delayed Turkish Airlines order, sources say",
       "title_en": "Boeing set to salvage delayed Turkish Airlines order, sources say",
-      "title_zh": null,
-      "title_bilingual": "Boeing set to salvage delayed Turkish Airlines order, sources say"
+      "title_zh": "消息人士称，波音公司将挽救土耳其航空延迟的订单",
+      "title_bilingual": "消息人士称，波音公司将挽救土耳其航空延迟的订单 / Boeing set to salvage delayed Turkish Airlines order, sources say"
     },
     {
       "id": "1d6577f87b73e418a7405c0356592dac696c3ca7",
@@ -6084,8 +7349,8 @@
       "finance_noise": [],
       "title_original": "US poverty rate dips to lowest on record, Census Bureau says",
       "title_en": "US poverty rate dips to lowest on record, Census Bureau says",
-      "title_zh": null,
-      "title_bilingual": "US poverty rate dips to lowest on record, Census Bureau says"
+      "title_zh": "人口普查局称美国贫困率降至有记录以来最低",
+      "title_bilingual": "人口普查局称美国贫困率降至有记录以来最低 / US poverty rate dips to lowest on record, Census Bureau says"
     },
     {
       "id": "df5fe1ab05a1a34c8fac241a8b8fddbb5af24805",
@@ -6107,8 +7372,8 @@
       "finance_noise": [],
       "title_original": "FTC chair suspicious of calls for AI antitrust exemptions",
       "title_en": "FTC chair suspicious of calls for AI antitrust exemptions",
-      "title_zh": null,
-      "title_bilingual": "FTC chair suspicious of calls for AI antitrust exemptions"
+      "title_zh": "联邦贸易委员会主席对人工智能反垄断豁免的呼吁持怀疑态度",
+      "title_bilingual": "联邦贸易委员会主席对人工智能反垄断豁免的呼吁持怀疑态度 / FTC chair suspicious of calls for AI antitrust exemptions"
     },
     {
       "id": "39f64c41d19e6abe17590f7a6e99d6412c5f6c7b",
@@ -6130,8 +7395,8 @@
       "finance_noise": [],
       "title_original": "US Senate fails to advance sweeping cryptocurrency bill in blow for industry",
       "title_en": "US Senate fails to advance sweeping cryptocurrency bill in blow for industry",
-      "title_zh": null,
-      "title_bilingual": "US Senate fails to advance sweeping cryptocurrency bill in blow for industry"
+      "title_zh": "美国参议院未能推进全面的加密货币法案，对行业造成打击",
+      "title_bilingual": "美国参议院未能推进全面的加密货币法案，对行业造成打击 / US Senate fails to advance sweeping cryptocurrency bill in blow for industry"
     },
     {
       "id": "23c64155feb102ee4ece65b6260fea7c91eea71e",
@@ -6291,8 +7556,8 @@
       "finance_noise": [],
       "title_original": "SpaceX targets first Starship orbital test on September 22",
       "title_en": "SpaceX targets first Starship orbital test on September 22",
-      "title_zh": null,
-      "title_bilingual": "SpaceX targets first Starship orbital test on September 22"
+      "title_zh": "SpaceX 计划于 9 月 22 日进行首次星际飞船轨道测试",
+      "title_bilingual": "SpaceX 计划于 9 月 22 日进行首次星际飞船轨道测试 / SpaceX targets first Starship orbital test on September 22"
     },
     {
       "id": "f8785c8d19cec861e9433de67832fb9e4543169f",
@@ -6314,8 +7579,8 @@
       "finance_noise": [],
       "title_original": "Truist Financial to sell $5.5 billion of auto loans amid overhaul",
       "title_en": "Truist Financial to sell $5.5 billion of auto loans amid overhaul",
-      "title_zh": null,
-      "title_bilingual": "Truist Financial to sell $5.5 billion of auto loans amid overhaul"
+      "title_zh": "Truist Financial 将在改革期间出售 55 亿美元的汽车贷款",
+      "title_bilingual": "Truist Financial 将在改革期间出售 55 亿美元的汽车贷款 / Truist Financial to sell $5.5 billion of auto loans amid overhaul"
     },
     {
       "id": "a2ad26ec0d0abf69a92ade016589c2079121d4ee",
@@ -6337,8 +7602,8 @@
       "finance_noise": [],
       "title_original": "AI coding agent startup Factory triples valuation to $5 billion in latest funding round",
       "title_en": "AI coding agent startup Factory triples valuation to $5 billion in latest funding round",
-      "title_zh": null,
-      "title_bilingual": "AI coding agent startup Factory triples valuation to $5 billion in latest funding round"
+      "title_zh": "AI 编码代理初创公司 Factory 在最新一轮融资中估值增加两倍至 50 亿美元",
+      "title_bilingual": "AI 编码代理初创公司 Factory 在最新一轮融资中估值增加两倍至 50 亿美元 / AI coding agent startup Factory triples valuation to $5 billion in latest funding round"
     },
     {
       "id": "36997ec47dc0badb355ee8b5908966d14ac85c72",
@@ -6360,8 +7625,8 @@
       "finance_noise": [],
       "title_original": "Revolut wins Colombia banking license, to launch in 2027",
       "title_en": "Revolut wins Colombia banking license, to launch in 2027",
-      "title_zh": null,
-      "title_bilingual": "Revolut wins Colombia banking license, to launch in 2027"
+      "title_zh": "Revolut 获得哥伦比亚银行牌照，将于 2027 年推出",
+      "title_bilingual": "Revolut 获得哥伦比亚银行牌照，将于 2027 年推出 / Revolut wins Colombia banking license, to launch in 2027"
     },
     {
       "id": "0270c73e1d24cb22b6aae471a99cba8e8af48816",
@@ -6383,8 +7648,8 @@
       "finance_noise": [],
       "title_original": "US FAA says billions more needed to modernize air traffic control",
       "title_en": "US FAA says billions more needed to modernize air traffic control",
-      "title_zh": null,
-      "title_bilingual": "US FAA says billions more needed to modernize air traffic control"
+      "title_zh": "美国联邦航空管理局表示，空中交通管制现代化还需要数十亿美元",
+      "title_bilingual": "美国联邦航空管理局表示，空中交通管制现代化还需要数十亿美元 / US FAA says billions more needed to modernize air traffic control"
     },
     {
       "id": "bf2c8e2acba3d54febb27d669a9cc079790d7e62",
@@ -6406,8 +7671,8 @@
       "finance_noise": [],
       "title_original": "Agnico Eagle says it is not interested in participating in Barrick’s North American IPO",
       "title_en": "Agnico Eagle says it is not interested in participating in Barrick’s North American IPO",
-      "title_zh": null,
-      "title_bilingual": "Agnico Eagle says it is not interested in participating in Barrick’s North American IPO"
+      "title_zh": "Agnico Eagle表示无意参与巴里克北美IPO",
+      "title_bilingual": "Agnico Eagle表示无意参与巴里克北美IPO / Agnico Eagle says it is not interested in participating in Barrick’s North American IPO"
     },
     {
       "id": "e3a52aa9988c2da27ec5384ed86bd67279fc9801",
@@ -6429,8 +7694,8 @@
       "finance_noise": [],
       "title_original": "Bessent says strong dollar based on credibility, policy certainty",
       "title_en": "Bessent says strong dollar based on credibility, policy certainty",
-      "title_zh": null,
-      "title_bilingual": "Bessent says strong dollar based on credibility, policy certainty"
+      "title_zh": "贝森特表示强势美元基于信誉和政策确定性",
+      "title_bilingual": "贝森特表示强势美元基于信誉和政策确定性 / Bessent says strong dollar based on credibility, policy certainty"
     },
     {
       "id": "32132e5666ff91172ce11e66770d9c8ae49f41d3",
@@ -6452,8 +7717,8 @@
       "finance_noise": [],
       "title_original": "Hitachi Energy to invest $528 million in new transformer factory in Mississippi",
       "title_en": "Hitachi Energy to invest $528 million in new transformer factory in Mississippi",
-      "title_zh": null,
-      "title_bilingual": "Hitachi Energy to invest $528 million in new transformer factory in Mississippi"
+      "title_zh": "日立能源将投资 5.28 亿美元在密西西比州新建变压器工厂",
+      "title_bilingual": "日立能源将投资 5.28 亿美元在密西西比州新建变压器工厂 / Hitachi Energy to invest $528 million in new transformer factory in Mississippi"
     },
     {
       "id": "3a3975fb4a29bca17ed57bc01382e8eb8da8d29d",
@@ -6475,8 +7740,8 @@
       "finance_noise": [],
       "title_original": "Meta launches subscriptions with enhanced AI features",
       "title_en": "Meta launches subscriptions with enhanced AI features",
-      "title_zh": null,
-      "title_bilingual": "Meta launches subscriptions with enhanced AI features"
+      "title_zh": "Meta 推出具有增强人工智能功能的订阅",
+      "title_bilingual": "Meta 推出具有增强人工智能功能的订阅 / Meta launches subscriptions with enhanced AI features"
     },
     {
       "id": "8a361adfe131ce916cfb37b9f42c7db4a8a4e173",
@@ -6498,8 +7763,8 @@
       "finance_noise": [],
       "title_original": "US Treasury's Bessent says bond yields reflect 'global issues'",
       "title_en": "US Treasury's Bessent says bond yields reflect 'global issues'",
-      "title_zh": null,
-      "title_bilingual": "US Treasury's Bessent says bond yields reflect 'global issues'"
+      "title_zh": "美国财政部长贝森特表示债券收益率反映了“全球问题”",
+      "title_bilingual": "美国财政部长贝森特表示债券收益率反映了“全球问题” / US Treasury's Bessent says bond yields reflect 'global issues'"
     },
     {
       "id": "bf53a0b76f1cc438392eb50ea923d83d5e2c7a61",
@@ -6521,8 +7786,8 @@
       "finance_noise": [],
       "title_original": "OpenAI is working with Anthropic, Google on AI safety, Bloomberg News reports",
       "title_en": "OpenAI is working with Anthropic, Google on AI safety, Bloomberg News reports",
-      "title_zh": null,
-      "title_bilingual": "OpenAI is working with Anthropic, Google on AI safety, Bloomberg News reports"
+      "title_zh": "据彭博社报道，OpenAI 正在与 Anthropic、谷歌合作开发人工智能安全",
+      "title_bilingual": "据彭博社报道，OpenAI 正在与 Anthropic、谷歌合作开发人工智能安全 / OpenAI is working with Anthropic, Google on AI safety, Bloomberg News reports"
     },
     {
       "id": "db57483ed7f919e566e047f9683ec99cefb8db61",
@@ -6544,8 +7809,8 @@
       "finance_noise": [],
       "title_original": "Coca-Cola to invest $10 billion in US infrastructure by 2030",
       "title_en": "Coca-Cola to invest $10 billion in US infrastructure by 2030",
-      "title_zh": null,
-      "title_bilingual": "Coca-Cola to invest $10 billion in US infrastructure by 2030"
+      "title_zh": "可口可乐到 2030 年将投资 100 亿美元用于美国基础设施建设",
+      "title_bilingual": "可口可乐到 2030 年将投资 100 亿美元用于美国基础设施建设 / Coca-Cola to invest $10 billion in US infrastructure by 2030"
     },
     {
       "id": "5313dd2c68656eb3a7b3cd0b8fd220b2a662c45d",
@@ -6568,8 +7833,8 @@
       "finance_noise": [],
       "title_original": "Chipmaker Altera confidentially files for US IPO as investors set to gauge AI demand",
       "title_en": "Chipmaker Altera confidentially files for US IPO as investors set to gauge AI demand",
-      "title_zh": null,
-      "title_bilingual": "Chipmaker Altera confidentially files for US IPO as investors set to gauge AI demand"
+      "title_zh": "投资者准备评估人工智能需求，芯片制造商 Altera 秘密提交美国 IPO 申请",
+      "title_bilingual": "投资者准备评估人工智能需求，芯片制造商 Altera 秘密提交美国 IPO 申请 / Chipmaker Altera confidentially files for US IPO as investors set to gauge AI demand"
     },
     {
       "id": "2ccadbd11e8ab92d784f88b17204a3bd54b50ba2",
@@ -6591,8 +7856,8 @@
       "finance_noise": [],
       "title_original": "Wall Street dips as oil spikes and benchmark Treasury yields breach 5%",
       "title_en": "Wall Street dips as oil spikes and benchmark Treasury yields breach 5%",
-      "title_zh": null,
-      "title_bilingual": "Wall Street dips as oil spikes and benchmark Treasury yields breach 5%"
+      "title_zh": "由于油价上涨和基准国债收益率突破 5%，华尔街下跌",
+      "title_bilingual": "由于油价上涨和基准国债收益率突破 5%，华尔街下跌 / Wall Street dips as oil spikes and benchmark Treasury yields breach 5%"
     },
     {
       "id": "13e54847869d485c52abceb059d58a72b58093a5",
@@ -6614,8 +7879,8 @@
       "finance_noise": [],
       "title_original": "Sanders and Bannon call for AI limits as public unease grows",
       "title_en": "Sanders and Bannon call for AI limits as public unease grows",
-      "title_zh": null,
-      "title_bilingual": "Sanders and Bannon call for AI limits as public unease grows"
+      "title_zh": "随着公众不安情绪的加剧，桑德斯和班农呼吁限制人工智能",
+      "title_bilingual": "随着公众不安情绪的加剧，桑德斯和班农呼吁限制人工智能 / Sanders and Bannon call for AI limits as public unease grows"
     },
     {
       "id": "93df48b40288b86af1be122ff69c99a74331bc98",
@@ -6815,29 +8080,6 @@
       "title_en": null,
       "title_zh": "郑栅洁主持召开民营企业座谈会，围绕优化发展环境、拓展投资空间听取意见建议",
       "title_bilingual": "郑栅洁主持召开民营企业座谈会，围绕优化发展环境、拓展投资空间听取意见建议"
-    },
-    {
-      "id": "baa5695856637d48638bfe1201992b48f72d6eed",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "华尔街见闻 · 日排行",
-      "title": "DeepSeek核心工程师长文刷屏：《我不得不把才华埋葬在昨天》",
-      "url": "https://wallstreetcn.com/articles/3781850",
-      "published_at": "2026-09-15T15:04:45.469148Z",
-      "first_seen_at": "2026-09-16T15:04:45.469148Z",
-      "last_seen_at": "2026-09-16T15:04:45.469148Z",
-      "finance_is_related": true,
-      "finance_score": 0.56,
-      "finance_label": "财经相关",
-      "finance_relevance_reason": "matched_finance_signal",
-      "finance_signals": [
-        "eps"
-      ],
-      "finance_noise": [],
-      "title_original": "DeepSeek核心工程师长文刷屏：《我不得不把才华埋葬在昨天》",
-      "title_en": null,
-      "title_zh": "DeepSeek核心工程师长文刷屏：《我不得不把才华埋葬在昨天》",
-      "title_bilingual": "DeepSeek核心工程师长文刷屏：《我不得不把才华埋葬在昨天》"
     }
   ],
   "all_mode_data_url": "data/latest-24h-all.json"
